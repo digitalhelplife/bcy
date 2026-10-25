@@ -1,0 +1,95 @@
+{
+  "note": "带娃出行卡字段核实结果（2026-10-22）。display=true 的字段会显示；quote 为来源原文摘录，供内容审核核对。rejected 为子任务找到但经复核证据不足、不予显示的候选。由 scripts/build-content.py 合并进 content/trip_cards.json。",
+  "verifiedAt": "2026-10-22",
+  "scenes": {
+    "dujiangyan": {
+      "fields": {
+        "suggestedDuration": {
+          "value": "约 3 小时",
+          "sourceId": "src-djy-map",
+          "quote": "游览约需3小时，请妥善安排您的行程。"
+        }
+      },
+      "rejected": {
+        "strollerNote": "候选“有观光车”引自都江堰市文化旅游市场专项整治工作方案（管理职责描述），未涉及推车通行，不足以作为带娃推车提示。",
+        "suitableSeasons": "候选“春季”仅因景区被收录于成都春季文旅地图，来源未明确推荐季节。",
+        "walkingIntensity": "未找到写明线路长度、台阶或坡道的合格来源。"
+      },
+      "sources": [
+        {
+          "id": "src-djy-map",
+          "title": "旅游地图",
+          "publisher": "都江堰市人民政府",
+          "url": "https://www.djy.gov.cn/dyjgb_rmzfwz/c181378/lymap.shtml",
+          "sourceType": "official"
+        }
+      ]
+    },
+    "qingcheng": {
+      "fields": {
+        "walkingIntensity": {
+          "value": "高（台阶较多，有“丹梯千级”之说）",
+          "sourceId": "src-scol-20211117",
+          "quote": "“丹梯千级，曲径通幽。”"
+        },
+        "strollerNote": {
+          "value": "山路台阶较多，推车出行不便，可提前准备背带。",
+          "sourceId": "src-scol-20211117",
+          "quote": "“丹梯千级，曲径通幽。”",
+          "reviewNote": "由“丹梯千级”推断，内容审核时请重点核对"
+        }
+      },
+      "rejected": {
+        "strollerNote(候选)": "候选“月城湖至索道需先乘船”属交通信息，出行卡禁止写交通，未采纳；改用台阶描述推断。",
+        "suggestedDuration": "合格来源只有入口至月城湖约 15 分钟的路段用时，不能代表全程，未采纳。",
+        "suitableSeasons": "未找到新的季节推荐原文；沿用此前已核实的“林深树密四季常绿”。"
+      },
+      "sources": [
+        {
+          "id": "src-scol-20211117",
+          "title": "青城山-都江堰、峨眉山两大5A景区拟被评为第一批国家级文明旅游示范单位！",
+          "publisher": "四川在线（四川日报网络传媒发展有限公司）",
+          "url": "https://sichuan.scol.com.cn/ggxw/202111/58342985.html",
+          "publishedAt": "2021-11-17",
+          "sourceType": "authority"
+        }
+      ]
+    },
+    "jiezi": {
+      "fields": {
+        "strollerNote": {
+          "value": "古镇有青石板路面和栈道，推车出行请留意路面。",
+          "sourceId": "src-people-2022",
+          "quote": "定期维护和修复青石板路面、栈道、木结构建筑风貌400余处。"
+        },
+        "suitableSeasons": {
+          "value": "秋末初冬可赏银杏。",
+          "sourceId": "src-cnr-2024",
+          "quote": "秋末初冬的街子古镇，金黄的银杏成为古镇上一道靓丽的风景线。"
+        }
+      },
+      "rejected": {
+        "suggestedDuration": "未找到写明游览时长或游线用时的合格来源。",
+        "walkingIntensity": "未找到写明游线长度或地形、足以判定强度的合格来源。"
+      },
+      "sources": [
+        {
+          "id": "src-people-2022",
+          "title": "四川崇州市街子古镇：党建赋能跑出古镇文旅发展“加速度”",
+          "publisher": "人民网-中国共产党新闻网",
+          "url": "http://dangjian.people.com.cn/n1/2022/0802/c441888-32492316.html",
+          "publishedAt": "2022-08-02",
+          "sourceType": "authority"
+        },
+        {
+          "id": "src-cnr-2024",
+          "title": "“着汉服、对古诗，得门票” 成都崇州银杏季开启",
+          "publisher": "央广网",
+          "url": "https://sc.cnr.cn/scpd/ycjx/20241109/t20241109_526969800.shtml",
+          "publishedAt": "2024-11-09",
+          "sourceType": "authority"
+        }
+      ]
+    }
+  }
+}

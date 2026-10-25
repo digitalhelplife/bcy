@@ -1,0 +1,162 @@
+{
+ "schema": "bencao.think_questions/v1",
+ "note": "A6-B4 7–12 岁“想一想”开放问题：只引导观察和猜想，不给标准答案、不写未核实的事实。课本关联在核实现行教材前不写。",
+ "items": [
+  {
+   "levelId": "dujiangyan_find",
+   "question": "如果江水没有被分成两股，你觉得下游的田地和村子可能会遇到什么问题？和家长说说你的猜想。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  },
+  {
+   "levelId": "dujiangyan_puzzle",
+   "question": "水从很窄的口子流过时，会变快还是变慢？回家可以用水管或水瓶试一试。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  },
+  {
+   "levelId": "qingcheng_find",
+   "question": "山里的老房子屋檐为什么常常向上翘起来？先猜一猜，再和家长一起查一查。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  },
+  {
+   "levelId": "qingcheng_puzzle",
+   "question": "拼图时你先拼了哪一块？为什么选它？换一种顺序会更快吗？",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  },
+  {
+   "levelId": "jiezi_find",
+   "question": "老街铺面的门板可以一块一块拆下来，你觉得以前的店铺为什么要这样做？",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  },
+  {
+   "levelId": "jiezi_puzzle",
+   "question": "古镇的街道和你家附近的街道有什么不一样？说出三个不同的地方。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。"
+  }
+ ]
+}

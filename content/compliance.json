@@ -1,0 +1,58 @@
+{
+ "schemaVersion": 1,
+ "ageRating": {
+  "display": "8+",
+  "description": "本游戏适合 8 周岁以上用户，建议级别，最终以适龄评估结果为准。",
+  "assessmentStatus": "pending"
+ },
+ "healthGameAdvice": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",
+ "publicationInfo": {
+  "copyrightOwner": "",
+  "publishingServiceUnit": "",
+  "approvalNo": "",
+  "publicationNo": ""
+ },
+ "privacyPolicyVersion": "2026-10-22",
+ "userAgreementVersion": "2026-10-22",
+ "privacySummary": [
+  "我们只在你同意后才开始联网登录。",
+  "游戏进度保存在服务器，用于换设备恢复。",
+  "“帮助改进体验”默认关闭，开启后只上报去标识化的操作事件。",
+  "照片只在手机本地合成游记，不会上传。",
+  "不收集定位，不做广告，没有付费。"
+ ],
+ "nonOfficialStatement": "本产品为独立原创互动作品，景点画面为成都主题原创改编，非景区官方产品，与相关景区无授权或合作关系。",
+ "plantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+ "photoPrivacyNotice": "照片只在你的手机里合成，不会上传。公开发布前，请注意保护孩子的面部和隐私。",
+ "trustPromise": "无广告 · 无付费 · 不需要定位",
+ "feedbackChannel": "设置 → 意见反馈与投诉举报，我们会在 15 个工作日内处理。",
+ "reviewStatus": "approved",
+ "reviewer": "AI 内容审核（Claude Code）",
+ "reviewedAt": "2026-10-25",
+ "sourceRefs": [
+  {
+   "id": "src-health-game-advice",
+   "title": "关于在游戏出版物中登载《健康游戏忠告》的通知（新出音〔2003〕861号）",
+   "publisher": "原新闻出版总署",
+   "url": "https://www.chinanews.com.cn/n/2003-09-24/26/350056.html",
+   "sourceType": "official",
+   "accessedAt": "2026-10-23"
+  },
+  {
+   "id": "src-original-v11",
+   "title": "游戏原创设定",
+   "publisher": "本项目",
+   "url": "",
+   "sourceType": "original",
+   "accessedAt": "2026-10-22",
+   "note": "游戏原创，不对应现实实物。"
+  }
+ ],
+ "reviewDimensions": [
+  "事实与来源",
+  "合规与隐私",
+  "编辑一致性",
+  "游戏内容一致性"
+ ],
+ "reviewNote": "健康游戏忠告与隐私摘要来源已核对；出版信息/ICP/适龄评估仍为外部资质，正式隐私政策与用户协议需律师定稿。"
+}

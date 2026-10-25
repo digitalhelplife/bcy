@@ -1,0 +1,3940 @@
+{
+ "reviewer": "AI 内容审核（Claude Code）",
+ "reviewedAt": "2026-10-25",
+ "method": "AI-assisted source-based review; not a licensed botanist/paediatric/legal sign-off.",
+ "dimensions": [
+  "事实与来源",
+  "植物/中医药安全",
+  "儿童适宜",
+  "合规与隐私",
+  "编辑一致性",
+  "游戏内容一致性"
+ ],
+ "counts": {
+  "total": 192,
+  "approved": 192,
+  "pending": 0
+ },
+ "entries": [
+  {
+   "file": "compliance.json",
+   "id": "$",
+   "path": "$",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "健康游戏忠告与隐私摘要来源已核对；出版信息/ICP/适龄评估仍为外部资质，正式隐私政策与用户协议需律师定稿。",
+   "sourceIds": [
+    "src-health-game-advice",
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_pressed_bookmark",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-pressed",
+    "src-craft-leafbook"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_herb_sachet",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-sachet"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_ginkgo_bookmark",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-leafbook",
+    "src-craft-ginkgo-safety"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_leaf_print",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-leafprint",
+    "src-craft-beihai"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_garlic_sprout",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-garlic",
+    "src-craft-narcissus-toxic"
+   ]
+  },
+  {
+   "file": "crafts.json",
+   "id": "craft_season_bouquet",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。",
+   "sourceIds": [
+    "src-craft-sachet",
+    "src-craft-bouquet"
+   ]
+  },
+  {
+   "file": "events.json",
+   "id": "autumn_break_2026",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "活动日期有官方来源；路线/小院建议只改变展示，不额外发奖；具体以学校通知为准。",
+   "sourceIds": [
+    "src-chengdu-edu-autumn-break"
+   ]
+  },
+  {
+   "file": "holidays.json",
+   "id": "holidays_2026_v1",
+   "path": "$",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "防沉迷与合规",
+    "编辑一致性"
+   ],
+   "reviewNote": "日期逐项核对国务院办公厅通知；法定节假日口径按通知列出的放假日从严处理，法务最终确认。",
+   "sourceIds": [
+    "src-holidays-2026"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "narcissus",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-narcissus-forestry"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "plum_blossom",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "winter_jasmine",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-winter-jasmine-cas"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "rapeseed",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-rapeseed-forestry",
+    "src-rapeseed-ibcas"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "peach",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-peach-iplant",
+    "src-peach-poem"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "crabapple",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-crabapple-iplant"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "paulownia",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-paulownia-iplant"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "peony",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-peony-iplant",
+    "src-peony-poem"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "honeysuckle",
+   "path": "$.items[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-honeysuckle-wetland"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "gardenia",
+   "path": "$.items[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-gardenia-wetland",
+    "src-gardenia-hunan-germination"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "mugwort",
+   "path": "$.items[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-mugwort-wbg"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "lotus",
+   "path": "$.items[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "mint",
+   "path": "$.items[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "jasmine",
+   "path": "$.items[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "perilla",
+   "path": "$.items[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-perilla-xabg",
+    "src-perilla-xilingol"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "balsam",
+   "path": "$.items[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-balsam-wbg",
+    "src-balsam-shanwei"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "gourd",
+   "path": "$.items[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "osmanthus",
+   "path": "$.items[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-osmanthus-scbg",
+    "src-osmanthus-hunan-seed"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "chrysanthemum",
+   "path": "$.items[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-chrysanthemum-iplant",
+    "src-chrysanthemum-wbg-cutting"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "cotton_rose",
+   "path": "$.items[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "个别发芽/生长时长未核实，文本未作固定承诺；形态与物候来源已核对。",
+   "sourceIds": [
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "ginkgo",
+   "path": "$.items[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "citrus",
+   "path": "$.items[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "garlic",
+   "path": "$.items[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。",
+   "sourceIds": [
+    "src-garlic-kib",
+    "src-garlic-tw-agri"
+   ]
+  },
+  {
+   "file": "observations.json",
+   "id": "wintersweet",
+   "path": "$.items[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "个别发芽/生长时长未核实，文本未作固定承诺；形态与物候来源已核对。",
+   "sourceIds": [
+    "src-wintersweet-cas"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_narcissus",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-narcissus-forestry"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_plum_blossom",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_winter_jasmine",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-winter-jasmine-cas"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_rapeseed",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-rapeseed-forestry"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_peach",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-peach-iplant",
+    "src-peach-poem"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_crabapple",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-crabapple-iplant"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_paulownia",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-paulownia-iplant"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_peony",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-peony-iplant",
+    "src-peony-poem"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_honeysuckle",
+   "path": "$.items[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-honeysuckle-wetland"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_gardenia",
+   "path": "$.items[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-gardenia-wetland"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_mugwort",
+   "path": "$.items[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-mugwort-wbg"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_lotus",
+   "path": "$.items[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_mint",
+   "path": "$.items[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_jasmine",
+   "path": "$.items[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_perilla",
+   "path": "$.items[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-perilla-xabg"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_balsam",
+   "path": "$.items[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-balsam-wbg"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_gourd",
+   "path": "$.items[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_osmanthus",
+   "path": "$.items[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-osmanthus-scbg"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_chrysanthemum",
+   "path": "$.items[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-chrysanthemum-iplant"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_cotton_rose",
+   "path": "$.items[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_ginkgo",
+   "path": "$.items[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_citrus",
+   "path": "$.items[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_garlic",
+   "path": "$.items[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-garlic-kib"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_plant_wintersweet",
+   "path": "$.items[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-wintersweet-cas"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_yuzui",
+   "path": "$.items[24]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-djy"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_feishayan",
+   "path": "$.items[25]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-djy"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_baopingkou",
+   "path": "$.items[26]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-djy"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_jianfu_eave",
+   "path": "$.items[27]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-qingcheng"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_cloud_plaque",
+   "path": "$.items[28]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_paper_boat",
+   "path": "$.items[29]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_ziku_bell",
+   "path": "$.items[30]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-jiezi"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_ginkgo_leaf",
+   "path": "$.items[31]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_target_old_door",
+   "path": "$.items[32]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_puzzle_dujiangyan",
+   "path": "$.items[33]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。",
+   "sourceIds": [
+    "src-city-djy"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_puzzle_qingcheng",
+   "path": "$.items[34]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "parent_tips.json",
+   "id": "tip_puzzle_jiezi",
+   "path": "$.items[35]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "narcissus",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-narcissus-forestry"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "plum_blossom",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "winter_jasmine",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-winter-jasmine-cas"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "rapeseed",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-rapeseed-forestry"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "peach",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-peach-iplant",
+    "src-peach-poem"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "crabapple",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-crabapple-iplant"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "paulownia",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-paulownia-iplant"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "peony",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-peony-iplant",
+    "src-peony-poem"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "honeysuckle",
+   "path": "$.items[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-honeysuckle-wetland"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "gardenia",
+   "path": "$.items[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-gardenia-wetland"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "mugwort",
+   "path": "$.items[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-mugwort-wbg"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "lotus",
+   "path": "$.items[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "mint",
+   "path": "$.items[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "jasmine",
+   "path": "$.items[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "perilla",
+   "path": "$.items[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-perilla-xabg"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "balsam",
+   "path": "$.items[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-balsam-wbg"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "gourd",
+   "path": "$.items[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "osmanthus",
+   "path": "$.items[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-osmanthus-scbg"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "chrysanthemum",
+   "path": "$.items[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-chrysanthemum-iplant"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "cotton_rose",
+   "path": "$.items[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "ginkgo",
+   "path": "$.items[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "citrus",
+   "path": "$.items[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "garlic",
+   "path": "$.items[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-garlic-kib"
+   ]
+  },
+  {
+   "file": "plant_cards.json",
+   "id": "wintersweet",
+   "path": "$.items[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-wintersweet-cas"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "narcissus",
+   "path": "$.plants[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-narcissus-forestry"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "plum_blossom",
+   "path": "$.plants[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "winter_jasmine",
+   "path": "$.plants[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-winter-jasmine-cas"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "rapeseed",
+   "path": "$.plants[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-rapeseed-forestry"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "peach",
+   "path": "$.plants[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-peach-iplant",
+    "src-peach-poem"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "crabapple",
+   "path": "$.plants[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-crabapple-iplant"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "paulownia",
+   "path": "$.plants[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-paulownia-iplant"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "peony",
+   "path": "$.plants[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-peony-iplant",
+    "src-peony-poem"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "honeysuckle",
+   "path": "$.plants[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-honeysuckle-wetland"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "gardenia",
+   "path": "$.plants[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-gardenia-wetland"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "mugwort",
+   "path": "$.plants[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-mugwort-wbg"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "lotus",
+   "path": "$.plants[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "mint",
+   "path": "$.plants[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "jasmine",
+   "path": "$.plants[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "perilla",
+   "path": "$.plants[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-perilla-xabg"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "balsam",
+   "path": "$.plants[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-balsam-wbg"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "gourd",
+   "path": "$.plants[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "osmanthus",
+   "path": "$.plants[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-osmanthus-scbg"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "chrysanthemum",
+   "path": "$.plants[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-chrysanthemum-iplant"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "cotton_rose",
+   "path": "$.plants[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "ginkgo",
+   "path": "$.plants[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "citrus",
+   "path": "$.plants[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。",
+   "sourceIds": [
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "garlic",
+   "path": "$.plants[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-garlic-kib"
+   ]
+  },
+  {
+   "file": "plants.json",
+   "id": "wintersweet",
+   "path": "$.plants[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。",
+   "sourceIds": [
+    "src-wintersweet-cas"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "narcissus",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-narcissus-forestry"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "plum_blossom",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "winter_jasmine",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-winter-jasmine-cas"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "rapeseed",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-rapeseed-forestry"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "peach",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-peach-iplant",
+    "src-peach-poem"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "crabapple",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-crabapple-iplant"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "paulownia",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-paulownia-iplant"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "peony",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-peony-iplant",
+    "src-peony-poem"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "honeysuckle",
+   "path": "$.items[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-honeysuckle-wetland"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "gardenia",
+   "path": "$.items[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-gardenia-wetland"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "mugwort",
+   "path": "$.items[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-mugwort-wbg"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "lotus",
+   "path": "$.items[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "mint",
+   "path": "$.items[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "jasmine",
+   "path": "$.items[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "perilla",
+   "path": "$.items[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-perilla-xabg"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "balsam",
+   "path": "$.items[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-balsam-wbg"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "gourd",
+   "path": "$.items[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "osmanthus",
+   "path": "$.items[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-osmanthus-scbg"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "chrysanthemum",
+   "path": "$.items[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-chrysanthemum-iplant"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "cotton_rose",
+   "path": "$.items[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "ginkgo",
+   "path": "$.items[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "citrus",
+   "path": "$.items[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "garlic",
+   "path": "$.items[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-garlic-kib"
+   ]
+  },
+  {
+   "file": "quizzes.json",
+   "id": "wintersweet",
+   "path": "$.items[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。",
+   "sourceIds": [
+    "src-wintersweet-cas"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_dujiangyan",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-mint-ppbc",
+    "src-lotus-iplant"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_spring_flowers",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-winter-jasmine-cas",
+    "src-peach-iplant",
+    "src-peach-poem",
+    "src-crabapple-iplant",
+    "src-huaxinfeng"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_summer_herbs",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-mugwort-wbg",
+    "src-perilla-xabg",
+    "src-mint-ppbc"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_summer_pond",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-lotus-iplant",
+    "src-jasmine-herbarium"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_rong_autumn",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-osmanthus-scbg",
+    "src-chrysanthemum-iplant",
+    "src-cotton-rose-scbg"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_golden_lidong",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-19-ginkgo-1",
+    "src-19-ginkgo-2",
+    "src-19-ginkgo-3",
+    "src-19-ginkgo-4",
+    "src-ginkgo-hunan-forestry",
+    "src-ginkgo-bencao",
+    "src-citrus-cas"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_winter_window",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-wintersweet-cas",
+    "src-narcissus-forestry",
+    "src-plum-iplant",
+    "src-plum-poem"
+   ]
+  },
+  {
+   "file": "sets.json",
+   "id": "set_field_corner",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。",
+   "sourceIds": [
+    "src-original-v11",
+    "src-rapeseed-forestry",
+    "src-garlic-kib",
+    "src-gourd-iplant",
+    "src-gourd-zjstm"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "narcissus",
+   "path": "$.terms[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "plum_blossom",
+   "path": "$.terms[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "winter_jasmine",
+   "path": "$.terms[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "rapeseed",
+   "path": "$.terms[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "peach",
+   "path": "$.terms[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "crabapple",
+   "path": "$.terms[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "paulownia",
+   "path": "$.terms[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "peony",
+   "path": "$.terms[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "honeysuckle",
+   "path": "$.terms[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "gardenia",
+   "path": "$.terms[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "mugwort",
+   "path": "$.terms[10]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "lotus",
+   "path": "$.terms[11]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "mint",
+   "path": "$.terms[12]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "jasmine",
+   "path": "$.terms[13]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "perilla",
+   "path": "$.terms[14]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "balsam",
+   "path": "$.terms[15]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "gourd",
+   "path": "$.terms[16]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "osmanthus",
+   "path": "$.terms[17]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "chrysanthemum",
+   "path": "$.terms[18]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "cotton_rose",
+   "path": "$.terms[19]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "ginkgo",
+   "path": "$.terms[20]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "citrus",
+   "path": "$.terms[21]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "garlic",
+   "path": "$.terms[22]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "solar_terms.json",
+   "id": "wintersweet",
+   "path": "$.terms[23]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。",
+   "sourceIds": [
+    "src-72hou"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[0]",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[1]",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[2]",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[3]",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[4]",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "think_questions.json",
+   "id": "$.items[5]",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "开放问题只引导观察/猜想，不给标准答案；未写未核实事实或课本关联。",
+   "sourceIds": [
+    "src-original-v11"
+   ]
+  },
+  {
+   "file": "trip_cards.json",
+   "id": "dujiangyan",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "展示字段均逐条核对来源；开放时间/票价/交通以景区公告为准；非景区官方发布。",
+   "sourceIds": [
+    "src-city-djy",
+    "src-prd-f12",
+    "src-djy-map",
+    "src-ihchina-fangshui"
+   ]
+  },
+  {
+   "file": "trip_cards.json",
+   "id": "qingcheng",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "青城山步行/推车字段为推断，已按 A6-A4b 隐藏；因少于 3 个已核实事实，整卡不显示。",
+   "sourceIds": [
+    "src-city-qingcheng",
+    "src-prd-f12",
+    "src-scol-20211117"
+   ]
+  },
+  {
+   "file": "trip_cards.json",
+   "id": "jiezi",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "展示字段均逐条核对来源；开放时间/票价/交通以景区公告为准；非景区官方发布。",
+   "sourceIds": [
+    "src-city-jiezi",
+    "src-prd-f12",
+    "src-people-2022",
+    "src-cnr-2024"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "bulbul",
+   "path": "$.items[0]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。",
+   "sourceIds": [
+    "src-cover-chengdu-birds",
+    "src-shcn-urban-birds",
+    "src-forestry-chengdu-birds"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "dove",
+   "path": "$.items[1]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。",
+   "sourceIds": [
+    "src-cover-chengdu-birds",
+    "src-forestry-chengdu-birds"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "blackbird",
+   "path": "$.items[2]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。",
+   "sourceIds": [
+    "src-cover-chengdu-birds",
+    "src-forestry-chengdu-birds"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "laughingthrush",
+   "path": "$.items[3]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。",
+   "sourceIds": [
+    "src-cover-chengdu-birds",
+    "src-forestry-chengdu-birds"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "honeybee",
+   "path": "$.items[4]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。",
+   "sourceIds": [
+    "src-kib-pollination",
+    "src-fao-pollinators"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "swallowtail",
+   "path": "$.items[5]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。",
+   "sourceIds": [
+    "src-synu-swallowtail"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "dragonfly",
+   "path": "$.items[6]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。",
+   "sourceIds": [
+    "src-ihb-dragonfly"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "ladybird",
+   "path": "$.items[7]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。",
+   "sourceIds": [
+    "src-nefu-insects"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "butterfly",
+   "path": "$.items[8]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "作为游戏情景保留，不指认具体物种或成都常见性；界面保留未核实提示。",
+   "sourceIds": [
+    "src-kib-pollination",
+    "src-fao-pollinators",
+    "src-original-visitor-scenario"
+   ]
+  },
+  {
+   "file": "visitors.json",
+   "id": "snail",
+   "path": "$.items[9]",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "作为游戏情景保留，不指认具体物种或成都常见性；界面保留未核实提示。",
+   "sourceIds": [
+    "src-original-visitor-scenario"
+   ]
+  }
+ ]
+}

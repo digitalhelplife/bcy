@@ -1,0 +1,48 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: nakama
+      POSTGRES_USER: nakama
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nakama -d nakama"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+
+  nakama-migrate:
+    image: heroiclabs/nakama:3.41.0
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DB_PASSWORD: ${DB_PASSWORD}
+    entrypoint:
+      - "/bin/sh"
+      - "-ec"
+      - >
+        exec /nakama/nakama migrate up --database.address "nakama:$$DB_PASSWORD@postgres:5432/nakama"
+    restart: "no"
+
+  nakama:
+    image: heroiclabs/nakama:3.41.0
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      nakama-migrate:
+        condition: service_completed_successfully
+    volumes:
+      - ./nakama.yml:/nakama/data/nakama.yml:ro
+      - ./modules:/nakama/data/modules:ro
+    ports:
+      - "127.0.0.1:7350:7350"
+      - "127.0.0.1:7351:7351"
+    entrypoint: ["/nakama/nakama", "--config", "/nakama/data/nakama.yml"]
+
+volumes:
+  pgdata:

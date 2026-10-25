@@ -1,0 +1,21 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+
+# local env (contains deployment client key)
+.env*.local
+backend/nakama/build/
+shots-live/
+backend/auth/build/
+shots-local/
+shots-mac/
+shots-harmony/
+__pycache__/
+.release-gate/
+shots-admin/
+dist-trial/
+release/
+.trial-tmp/
+shots-preview/
+shots-trial/

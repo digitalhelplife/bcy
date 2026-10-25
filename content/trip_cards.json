@@ -1,0 +1,295 @@
+{
+ "schemaVersion": 1,
+ "minDisplayedFacts": 3,
+ "note": "display=true 的字段才会展示；已核实字段少于 3 个时整张卡与入口隐藏（D16）。",
+ "items": [
+  {
+   "sceneId": "dujiangyan",
+   "suggestedDuration": {
+    "value": "约 3 小时",
+    "sourceRefs": [
+     "src-djy-map"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true,
+    "quote": "游览约需3小时，请妥善安排您的行程。"
+   },
+   "walkingIntensity": {
+    "value": "未采用（缺少可靠来源）",
+    "sourceRefs": [
+     "src-city-djy"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "verificationNote": "官方未提供步行强度分级"
+   },
+   "strollerNote": {
+    "value": "未采用（缺少可靠来源）",
+    "sourceRefs": [
+     "src-city-djy"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "verificationNote": "未找到官方推车通行说明"
+   },
+   "suitableSeasons": {
+    "value": "清明前后有都江堰放水节民俗，具体安排以当年景区公告为准",
+    "sourceRefs": [
+     "src-ihchina-fangshui"
+    ],
+    "verifiedAt": "2026-10-23",
+    "display": true,
+    "quote": "清明放水节是世界文化遗产都江堰水利工程所在地都江堰市的民间习俗。在农历二十四节气的清明这一天，为庆祝一年一度都江堰水利工程岁修竣工和进入春耕生产大忙季节，民间都要举行盛大的庆典仪式。"
+   },
+   "parentReminder": {
+    "value": "可以先在游戏里认识鱼嘴、飞沙堰、宝瓶口；到现场请以景区标识、公告和工作人员提示为准。",
+    "sourceRefs": [
+     "src-city-djy"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true
+   },
+   "officialChannelName": "成都市人民政府·去哪耍（来源标注：都江堰旅游文化网）",
+   "cardVerifiedAt": "2026-10-23",
+   "fixedOfficialNotice": "开放时间、票价、交通以景区官方公告为准",
+   "fixedNonOfficialNotice": "本卡为游戏内参考信息，非景区官方发布",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-djy",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：都江堰",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml",
+     "sourceType": "official"
+    },
+    {
+     "id": "src-prd-f12",
+     "accessedAt": "2026-10-22",
+     "title": "PRD 6.3 出行卡边界",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original"
+    },
+    {
+     "accessedAt": "2026-10-22",
+     "id": "src-djy-map",
+     "title": "旅游地图",
+     "publisher": "都江堰市人民政府",
+     "url": "https://www.djy.gov.cn/dyjgb_rmzfwz/c181378/lymap.shtml",
+     "sourceType": "official"
+    },
+    {
+     "id": "src-ihchina-fangshui",
+     "accessedAt": "2026-10-23",
+     "title": "都江堰放水节",
+     "publisher": "中国非物质文化遗产网（文化和旅游部主管）",
+     "url": "https://www.ihchina.cn/project_details/14973/",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "展示字段均逐条核对来源；开放时间/票价/交通以景区公告为准；非景区官方发布。"
+  },
+  {
+   "sceneId": "qingcheng",
+   "suggestedDuration": {
+    "value": "未采用（缺少实地记录/量化来源）",
+    "sourceRefs": [
+     "src-city-qingcheng"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "verificationNote": "向景区运营方索取亲子游览建议"
+   },
+   "walkingIntensity": {
+    "value": "未采用（缺少实地记录/量化来源）",
+    "sourceRefs": [
+     "src-scol-20211117"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "quote": "“丹梯千级，曲径通幽。”",
+    "verificationNote": "A6-A4b：仅由“丹梯千级”推断，按规则不显示；待真实实地记录。"
+   },
+   "strollerNote": {
+    "value": "未采用（缺少实地记录/量化来源）",
+    "sourceRefs": [
+     "src-scol-20211117"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "quote": "“丹梯千级，曲径通幽。”",
+    "reviewNote": "由“丹梯千级”推断，内容审核时请重点核对",
+    "verificationNote": "A6-A4b：仅由“丹梯千级”推断，按规则不显示；待真实实地记录。"
+   },
+   "suitableSeasons": {
+    "value": "四季可关注。官方介绍写有“林深树密四季常绿”。",
+    "sourceRefs": [
+     "src-city-qingcheng"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true
+   },
+   "parentReminder": {
+    "value": "游戏里的建福宫、天师洞、上清宫、月城湖是前山地标参考；现场请按公告、标识和家庭体力安排。",
+    "sourceRefs": [
+     "src-city-qingcheng"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true
+   },
+   "officialChannelName": "成都市人民政府·去哪耍（来源标注：都江堰旅游门户网）",
+   "cardVerifiedAt": "2026-10-22",
+   "fixedOfficialNotice": "开放时间、票价、交通以景区官方公告为准",
+   "fixedNonOfficialNotice": "本卡为游戏内参考信息，非景区官方发布",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-qingcheng",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：青城山",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_352acb5800a041f083e4c2fb0bbe16ae.shtml",
+     "sourceType": "official"
+    },
+    {
+     "id": "src-prd-f12",
+     "accessedAt": "2026-10-22",
+     "title": "PRD 6.3 出行卡边界",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original"
+    },
+    {
+     "accessedAt": "2026-10-22",
+     "id": "src-scol-20211117",
+     "title": "青城山-都江堰、峨眉山两大5A景区拟被评为第一批国家级文明旅游示范单位！",
+     "publisher": "四川在线（四川日报网络传媒发展有限公司）",
+     "url": "https://sichuan.scol.com.cn/ggxw/202111/58342985.html",
+     "publishedAt": "2021-11-17",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "青城山步行/推车字段为推断，已按 A6-A4b 隐藏；因少于 3 个已核实事实，整卡不显示。"
+  },
+  {
+   "sceneId": "jiezi",
+   "suggestedDuration": {
+    "value": "未采用（缺少可靠来源）",
+    "sourceRefs": [
+     "src-city-jiezi"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "verificationNote": "向景区运营方索取亲子游览建议"
+   },
+   "walkingIntensity": {
+    "value": "未采用（缺少可靠来源）",
+    "sourceRefs": [
+     "src-city-jiezi"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": false,
+    "verificationNote": "官方未提供步行强度分级"
+   },
+   "strollerNote": {
+    "value": "古镇有青石板路面和栈道，推车出行请留意路面。",
+    "sourceRefs": [
+     "src-people-2022"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true,
+    "quote": "定期维护和修复青石板路面、栈道、木结构建筑风貌400余处。"
+   },
+   "suitableSeasons": {
+    "value": "秋末初冬可赏银杏。",
+    "sourceRefs": [
+     "src-cnr-2024"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true,
+    "quote": "秋末初冬的街子古镇，金黄的银杏成为古镇上一道靓丽的风景线。"
+   },
+   "parentReminder": {
+    "value": "游戏里的字库塔、银杏叶和木门板是观察线索；到现场请爱护古建与环境，不触摸或采摘。",
+    "sourceRefs": [
+     "src-city-jiezi"
+    ],
+    "verifiedAt": "2026-10-22",
+    "display": true
+   },
+   "officialChannelName": "成都市人民政府·去哪耍（来源标注：崇州市政府网站）",
+   "cardVerifiedAt": "2026-10-22",
+   "fixedOfficialNotice": "开放时间、票价、交通以景区官方公告为准",
+   "fixedNonOfficialNotice": "本卡为游戏内参考信息，非景区官方发布",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-jiezi",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：街子古镇",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_bdb13b600742473d812be3e561237e87.shtml",
+     "sourceType": "official"
+    },
+    {
+     "id": "src-prd-f12",
+     "accessedAt": "2026-10-22",
+     "title": "PRD 6.3 出行卡边界",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original"
+    },
+    {
+     "accessedAt": "2026-10-22",
+     "id": "src-people-2022",
+     "title": "四川崇州市街子古镇：党建赋能跑出古镇文旅发展“加速度”",
+     "publisher": "人民网-中国共产党新闻网",
+     "url": "http://dangjian.people.com.cn/n1/2022/0802/c441888-32492316.html",
+     "publishedAt": "2022-08-02",
+     "sourceType": "authority"
+    },
+    {
+     "accessedAt": "2026-10-22",
+     "id": "src-cnr-2024",
+     "title": "“着汉服、对古诗，得门票” 成都崇州银杏季开启",
+     "publisher": "央广网",
+     "url": "https://sc.cnr.cn/scpd/ycjx/20241109/t20241109_526969800.shtml",
+     "publishedAt": "2024-11-09",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "出行事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "展示字段均逐条核对来源；开放时间/票价/交通以景区公告为准；非景区官方发布。"
+  }
+ ]
+}

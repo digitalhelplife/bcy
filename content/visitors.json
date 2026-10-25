@@ -1,0 +1,430 @@
+{
+ "schemaVersion": 1,
+ "safetyNotice": "只远看，不追、不抓、不投喂，不靠近鸟巢和蜂巢。",
+ "dailyShowMax": 3,
+ "items": [
+  {
+   "visitorId": "bulbul",
+   "name": "白头鹎",
+   "condition": {
+    "minPlants": 4
+   },
+   "childText": "白头鹎会在城市绿地里找食物，也会把家安在树上。",
+   "verification": "成都常见，有本地来源",
+   "verificationLevel": "verified",
+   "texture": "visitors/visitor_bulbul",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cover-chengdu-birds",
+     "title": "成都常见鸟类四大金刚报道",
+     "publisher": "封面新闻",
+     "url": "https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-shcn-urban-birds",
+     "title": "城市鸟类科普报道",
+     "publisher": "上海市长宁区人民政府",
+     "url": "https://www.shcn.gov.cn/col6991/20250411/1282046.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-forestry-chengdu-birds",
+     "title": "成都鸟类记录报道",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。"
+  },
+  {
+   "visitorId": "dove",
+   "name": "珠颈斑鸠",
+   "condition": {
+    "items": [
+     "decor_bench"
+    ],
+    "minPlants": 2
+   },
+   "childText": "观察鸟儿时要留出距离，让它按自己的节奏活动。",
+   "verification": "成都常见，有本地来源",
+   "verificationLevel": "verified",
+   "texture": "visitors/visitor_dove",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cover-chengdu-birds",
+     "title": "成都常见鸟类四大金刚报道",
+     "publisher": "封面新闻",
+     "url": "https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-forestry-chengdu-birds",
+     "title": "成都鸟类记录报道",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。"
+  },
+  {
+   "visitorId": "blackbird",
+   "name": "乌鸫",
+   "condition": {
+    "items": [
+     "decor_path"
+    ],
+    "minPlants": 3
+   },
+   "childText": "城市绿地也能成为野生鸟儿停留的地方。",
+   "verification": "成都常见，有本地来源",
+   "verificationLevel": "verified",
+   "texture": "visitors/visitor_blackbird",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cover-chengdu-birds",
+     "title": "成都常见鸟类四大金刚报道",
+     "publisher": "封面新闻",
+     "url": "https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-forestry-chengdu-birds",
+     "title": "成都鸟类记录报道",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。"
+  },
+  {
+   "visitorId": "laughingthrush",
+   "name": "白颊噪鹛",
+   "condition": {
+    "items": [
+     "decor_bamboo_rack"
+    ],
+    "minPlants": 3
+   },
+   "childText": "听到鸟叫时先停下来，找找声音从哪里来。",
+   "verification": "成都常见，有本地来源",
+   "verificationLevel": "verified",
+   "texture": "visitors/visitor_laughingthrush",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cover-chengdu-birds",
+     "title": "成都常见鸟类四大金刚报道",
+     "publisher": "封面新闻",
+     "url": "https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-forestry-chengdu-birds",
+     "title": "成都鸟类记录报道",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "成都常见性有本地来源；文案只描述观察礼仪。"
+  },
+  {
+   "visitorId": "honeybee",
+   "name": "蜜蜂",
+   "condition": {
+    "anyPlants": [
+     "rapeseed",
+     "peach",
+     "citrus",
+     "crabapple",
+     "chrysanthemum",
+     "wintersweet"
+    ],
+    "anyCount": 2
+   },
+   "childText": "蜜蜂访花时会把花粉带到别的花上。",
+   "verification": "关系已核实；成都常见程度未核实",
+   "verificationLevel": "partial",
+   "texture": "visitors/visitor_honeybee",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-kib-pollination",
+     "title": "传粉科普文章",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "https://kib.cas.cn/kxcb/kpwz/201709/t20170926_4864827.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-fao-pollinators",
+     "title": "授粉昆虫科普资料",
+     "publisher": "联合国粮食及农业组织",
+     "url": "https://www.fao.org/newsroom/story/Bee-ing-grateful-to-our-pollinators/zh",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。"
+  },
+  {
+   "visitorId": "swallowtail",
+   "name": "柑橘凤蝶",
+   "condition": {
+    "plants": [
+     "citrus"
+    ]
+   },
+   "childText": "柑橘凤蝶的宝宝只吃柑橘类植物的叶子。",
+   "verification": "关系已核实；成都常见程度未核实",
+   "verificationLevel": "partial",
+   "texture": "visitors/visitor_swallowtail",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-synu-swallowtail",
+     "title": "柑橘凤蝶生活史资料",
+     "publisher": "沈阳师范大学生命科学学院",
+     "url": "https://sky.synu.edu.cn/2019/0520/c4336a60210/page.htm",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。"
+  },
+  {
+   "visitorId": "dragonfly",
+   "name": "黄蜻",
+   "condition": {
+    "plants": [
+     "lotus"
+    ],
+    "items": [
+     "decor_rock"
+    ]
+   },
+   "childText": "蜻蜓小时候生活在水里，长大后才飞上天。",
+   "verification": "关系已核实；成都常见程度未核实",
+   "verificationLevel": "partial",
+   "texture": "visitors/visitor_dragonfly",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-ihb-dragonfly",
+     "title": "蜻蜓栖息环境科普资料",
+     "publisher": "中国科学院水生生物研究所",
+     "url": "https://ihb.cas.cn/kxcb_1/cmsj/201607/t20160705_5735906.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。"
+  },
+  {
+   "visitorId": "ladybird",
+   "name": "七星瓢虫",
+   "condition": {
+    "minPlants": 6
+   },
+   "childText": "瓢虫会吃掉蚜虫，是花园里食物网的一环。",
+   "verification": "关系已核实；成都常见程度未核实",
+   "verificationLevel": "partial",
+   "texture": "visitors/visitor_ladybird",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-nefu-insects",
+     "title": "昆虫名录",
+     "publisher": "东北林业大学",
+     "url": "https://ls.nefu.edu.cn/info/1042/1891.htm",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "生态关系有来源；成都常见程度未核实，界面保留游戏情景提示。"
+  },
+  {
+   "visitorId": "butterfly",
+   "name": "访花蝴蝶",
+   "condition": {
+    "minFloweringKinds": 4
+   },
+   "childText": "蝴蝶停在花上时，远远看就好，不用抓住它。",
+   "verification": "游戏情景；不指认成都常见物种或分布",
+   "verificationLevel": "unverified",
+   "texture": "visitors/visitor_butterfly",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-kib-pollination",
+     "title": "传粉科普文章",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "https://kib.cas.cn/kxcb/kpwz/201709/t20170926_4864827.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-fao-pollinators",
+     "title": "授粉昆虫科普资料",
+     "publisher": "联合国粮食及农业组织",
+     "url": "https://www.fao.org/newsroom/story/Bee-ing-grateful-to-our-pollinators/zh",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-original-visitor-scenario",
+     "title": "游戏原创访客情景",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏情景，不是成都物种分布结论。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "作为游戏情景保留，不指认具体物种或成都常见性；界面保留未核实提示。"
+  },
+  {
+   "visitorId": "snail",
+   "name": "蜗牛",
+   "condition": {
+    "items": [
+     "decor_rock"
+    ],
+    "minLeafy": 2
+   },
+   "childText": "蜗牛背着螺旋形的壳，移动得很慢。",
+   "verification": "游戏情景；不指认成都常见物种或分布",
+   "verificationLevel": "unverified",
+   "texture": "visitors/visitor_snail",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-visitor-scenario",
+     "title": "游戏原创访客情景",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏情景，不是成都物种分布结论。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "动物观察礼仪",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "作为游戏情景保留，不指认具体物种或成都常见性；界面保留未核实提示。"
+  }
+ ]
+}

@@ -1,0 +1,1134 @@
+{
+ "schemaVersion": 1,
+ "items": [
+  {
+   "plantId": "narcissus",
+   "commonName": "水仙",
+   "scientificName": "Narcissus tazetta subsp. chinensis (M. Roem.) Masam. & Yanagih.",
+   "scientificNameNote": null,
+   "morphology": "叶子像一把把扁平绿带，从圆圆鳞茎抽出；白花中央戴着黄色小杯。",
+   "ornamentalSeason": "小寒前后可观察。",
+   "dailyScenes": "春节前后的花市、客厅窗边和年宵花区常能见到。",
+   "homeGrowing": {
+    "light": "放明亮窗边，每天晒2—4小时柔和日光",
+    "water": "水培每周换清水；土培见干见湿，不积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "鳞茎像大蒜，古人叫它“雅蒜”“天葱”；花姿轻盈，又叫“凌波仙子”。",
+   "solarTerms": [
+    "小寒"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "白花戴黄杯，像在水边跳舞。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "plum_blossom",
+   "commonName": "梅花",
+   "scientificName": "Prunus mume Siebold & Zucc.",
+   "scientificNameNote": null,
+   "morphology": "冬末枝条上先冒圆圆花苞，白或粉红花有香气；花谢后才长出椭圆叶。",
+   "ornamentalSeason": "大寒前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放朝南阳台，尽量保证每天4小时以上日照",
+    "water": "盆土表层发白再浇透，雨天及时倒掉积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "宋代王安石《梅花》写：“墙角数枝梅，凌寒独自开。”",
+   "solarTerms": [
+    "大寒"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "冷风里，梅花先把小灯笼点亮。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "winter_jasmine",
+   "commonName": "迎春花",
+   "scientificName": "Jasminum nudiflorum Lindl.",
+   "scientificNameNote": null,
+   "morphology": "细长绿枝有四道棱，常弯成拱形；黄色小花贴着枝条开，叶子多是三片一组。",
+   "ornamentalSeason": "立春前后可观察。",
+   "dailyScenes": "早春的公园花坛、社区绿地和小区围栏边常可看到。",
+   "homeGrowing": {
+    "light": "放有上午日照的阳台，保持通风",
+    "water": "盆土表层干了再浇透，雨天少浇",
+    "difficulty": "中"
+   },
+   "cultureStory": "它常在早春先开黄花，像迎接春天，所以人们叫它“迎春花”。",
+   "solarTerms": [
+    "立春"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "小黄花爬满枝头，先来迎接春天。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "rapeseed",
+   "commonName": "油菜花",
+   "scientificName": "Brassica napus L.（甘蓝型油菜／欧洲油菜）；另有 Brassica rapa var. oleifera de Candolle（芸苔）这一不同分类单元，不能混写",
+   "scientificNameNote": null,
+   "morphology": "茎直立，叶片由下往上渐小；顶端一串小黄花，每朵常有四片十字形花瓣。",
+   "ornamentalSeason": "雨水前后可观察。",
+   "dailyScenes": "田野农田可观察。",
+   "homeGrowing": {
+    "light": "选日照充足、通风的阳台，每天至少4小时日光",
+    "water": "表土发白就浇透，保持见干见湿，别让盆底积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "一朵油菜花有四片十字形花瓣，许多小花排成一串，把田野染成金黄。",
+   "solarTerms": [
+    "雨水"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "四瓣小黄花手拉手，把田野铺成金毯。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "peach",
+   "commonName": "桃花",
+   "scientificName": "Prunus persica (L.) Batsch",
+   "scientificNameNote": null,
+   "morphology": "细长叶片像小柳叶，边缘有锯齿；粉红或白花常比新叶先来到枝头。",
+   "ornamentalSeason": "惊蛰前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放朝南阳台，保证充足日照和通风",
+    "water": "土表干了再浇透；开花期保持微湿，不积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "《诗经·周南·桃夭》写：“桃之夭夭，灼灼其华。”作者佚名。",
+   "solarTerms": [
+    "惊蛰"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "粉红花先探头，绿叶随后赶来。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "crabapple",
+   "commonName": "垂丝海棠",
+   "scientificName": "Malus halliana Koehne",
+   "scientificNameNote": null,
+   "morphology": "嫩叶常带紫红色，粉红花几朵一簇；细长紫色花梗让花朵低低垂下。",
+   "ornamentalSeason": "春分前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放向阳通风处，春秋多晒，夏天午后遮强光",
+    "water": "表土干了浇透，保持见干见湿，雨后不积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "它的粉花挂在细长花梗上，像丝线垂下来，因此得名“垂丝海棠”。",
+   "solarTerms": [
+    "春分"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "粉花坐上紫丝线，风一吹就轻轻摇。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "paulownia",
+   "commonName": "泡桐",
+   "scientificName": "Paulownia fortunei (Seem.) Hemsl.",
+   "scientificNameNote": null,
+   "morphology": "叶子像大大的心形，背面有细绒毛；春天先挂淡紫色漏斗花，之后结木质小果。",
+   "ornamentalSeason": "清明前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "乔木不适合普通阳台；幼株放明亮通风窗边",
+    "water": "幼株表土干再浇透，保持见干见湿，别积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "植物志把它记作“白花泡桐”，还有“火筒木”“笛螺木”等地方名字。",
+   "solarTerms": [
+    "清明"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-paulownia-iplant",
+     "title": "中国植物志：白花泡桐",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "大心叶举着一串小喇叭，春风一吹像要唱歌。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "peony",
+   "commonName": "牡丹",
+   "scientificName": "Paeonia × suffruticosa Andrews",
+   "scientificNameNote": null,
+   "morphology": "枝条木质，叶子像几片小叶拼成；花朵很大，花瓣有粉、红、紫或白色。",
+   "ornamentalSeason": "谷雨前后可观察。",
+   "dailyScenes": "春季花展、庭院花境和公园牡丹园常有大朵牡丹。",
+   "homeGrowing": {
+    "light": "放日照充足、通风处，夏季午后可稍遮阴",
+    "water": "土表干了再浇透，保持见干见湿，不能长期积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "唐代刘禹锡《赏牡丹》写：“唯有牡丹真国色，花开时节动京城。”",
+   "solarTerms": [
+    "谷雨"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peony-iplant",
+     "title": "中国植物志：牡丹",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peony-poem",
+     "title": "刘禹锡《赏牡丹》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "大花瓣一层又一层，像给春天穿礼裙。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "honeysuckle",
+   "commonName": "金银花",
+   "scientificName": "Lonicera japonica Thunb.",
+   "scientificNameNote": "植物学名称：忍冬。",
+   "morphology": "半常绿攀援植物；花成对腋生并有香气，花冠初白后变黄，果实为黑色球形浆果。",
+   "ornamentalSeason": "春末初夏，花期 4—6 月。",
+   "dailyScenes": "花架、篱笆或庭院支架上的攀援观赏植物。",
+   "homeGrowing": {
+    "light": "放在有日照和通风的窗边或花架旁",
+    "water": "土表将干时浇水，避免积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "“金银花”这个名字来自花朵由白转黄的颜色变化；正式中文名为“忍冬”。",
+   "solarTerms": [
+    "立夏"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-honeysuckle-wetland",
+     "title": "忍冬（金银花）",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "一根藤上白花黄花挨着，像挂了小彩灯。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "gardenia",
+   "commonName": "栀子花",
+   "scientificName": "Gardenia jasminoides Ellis",
+   "scientificNameNote": null,
+   "morphology": "亮绿厚叶成对长在枝上，白花像小旋风；花谢后能看到橙黄色、带棱的小果。",
+   "ornamentalSeason": "小满前后可观察。",
+   "dailyScenes": "初夏花市、阳台盆栽和小区绿篱旁常能闻到它的花香。",
+   "homeGrowing": {
+    "light": "放明亮通风处，春秋多晒，夏季避开午后暴晒",
+    "water": "土表干1—2厘米再浇透，保持微湿，不积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "橙色果实像古代盛酒的“卮”，人们用“卮”的俗字“栀”给它取名。",
+   "solarTerms": [
+    "小满"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gardenia-wetland",
+     "title": "梔子",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "白花转呀转，像一只会飘香的小风车。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "mugwort",
+   "commonName": "艾",
+   "scientificName": "Artemisia argyi H. Lév. & Vaniot",
+   "scientificNameNote": null,
+   "morphology": "多年生草本；茎有纵棱，叶常羽状深裂，叶背密生灰白色绒毛，有明显香气。",
+   "ornamentalSeason": "夏秋季，花果期 7—10 月。",
+   "dailyScenes": "庭院或阳台的叶形、叶背绒毛观察。",
+   "homeGrowing": {
+    "light": "放日照充足、通风的阳台，枝叶会长得更壮",
+    "water": "土表干后再浇水，避免长期积水",
+    "difficulty": "易"
+   },
+   "cultureStory": "植物志收录“艾蒿”“白蒿”“五月艾”等名称，地方语言和古籍中称呼丰富。",
+   "solarTerms": [
+    "芒种"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "翻开叶子背面，藏着一层白白软绒。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "lotus",
+   "commonName": "荷花",
+   "scientificName": "Nelumbo nucifera Gaertn.",
+   "scientificNameNote": "植物志名称为莲。",
+   "morphology": "多年生水生草本；圆形盾状叶伸出水面，长叶柄中空，花单生于花葶顶端。",
+   "ornamentalSeason": "夏季，花期 6—8 月、果期 8—10 月。",
+   "dailyScenes": "池塘、水景园和容器水生植物观赏。",
+   "homeGrowing": {
+    "light": "水缸或大盆放全日照处，每天至少6小时日光",
+    "water": "保持水生容器水位稳定",
+    "difficulty": "中"
+   },
+   "cultureStory": "“荷花”“莲花”“菡萏”“芙蓉”都是同一植物在不同语境中的名称。",
+   "solarTerms": [
+    "夏至"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "圆荷叶像小伞，把花朵稳稳托出水面。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "mint",
+   "commonName": "薄荷",
+   "scientificName": "Mentha canadensis L.",
+   "scientificNameNote": "旧文献常见 Mentha haplocalyx Briq.；以植物智当前接受名为准。",
+   "morphology": "多年生草本；茎具四棱，叶缘有粗牙齿状锯齿，花淡紫色。",
+   "ornamentalSeason": "夏季，植物志记录花期 7—9 月。",
+   "dailyScenes": "阳台盆栽香草、厨房调味、气味观察。",
+   "homeGrowing": {
+    "light": "日照或明亮散射光",
+    "water": "表土将干时浇透，避免盆底长期积水",
+    "difficulty": "易"
+   },
+   "cultureStory": "植物志收录“南薄荷”“水薄荷”等地方别名；同一种植物在不同地方会有不同叫法。",
+   "solarTerms": [
+    "小暑"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "方方的茎上长对对叶子，碰一碰满手草木香。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "jasmine",
+   "commonName": "茉莉花",
+   "scientificName": "Jasminum sambac (L.) Aiton",
+   "scientificNameNote": null,
+   "morphology": "枝条可直立也可攀着长，叶子成对；白花常三朵成一簇，近闻有明显香气。",
+   "ornamentalSeason": "大暑前后可观察。",
+   "dailyScenes": "夏夜的阳台盆栽、花市和花店插花区常能闻到茉莉的香气。",
+   "homeGrowing": {
+    "light": "放日照充足、通风窗边，夏天避开午后暴晒",
+    "water": "表土干1—2厘米再浇透，保持见干见湿，不积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "茉莉原产印度，后来在中国南方广泛栽培；白色小花常在夏天开放。",
+   "solarTerms": [
+    "大暑"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "夏夜的白花像小星星，悄悄在窗边飘香。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "perilla",
+   "commonName": "紫苏",
+   "scientificName": "Perilla frutescens (L.) Britton",
+   "scientificNameNote": "园艺品种叶色有绿有紫；本条采用植物智接受的 Perilla frutescens。",
+   "morphology": "一年生直立草本；茎钝四棱形，叶阔卵形、边缘有粗锯齿，叶色可绿可紫。",
+   "ornamentalSeason": "夏秋季，花期 8—11 月。",
+   "dailyScenes": "厨房常见的香草调味。",
+   "homeGrowing": {
+    "light": "放日照充足、通风处，叶色会更鲜明",
+    "water": "表土将干时再浇水，保持通风",
+    "difficulty": "易"
+   },
+   "cultureStory": "紫苏在不同地方也叫白苏、赤苏、红苏；叶色随品种和栽培而变化。",
+   "solarTerms": [
+    "立秋"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "绿叶翻个面，可能藏着一片紫红小晚霞。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "balsam",
+   "commonName": "凤仙花",
+   "scientificName": "Impatiens balsamina L.",
+   "scientificNameNote": null,
+   "morphology": "肉质茎直直长，叶子边缘像锯齿；花有白、粉、红、紫等颜色，果荚成熟会弹开。",
+   "ornamentalSeason": "处暑前后可观察。",
+   "dailyScenes": "夏秋的阳台花盆、社区花坛和老院子花圃里常能看到它。",
+   "homeGrowing": {
+    "light": "放有上午日照、通风的阳台，夏季午后稍遮阴",
+    "water": "表土干了再浇透，保持见干见湿，别积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "花瓣的形状像凤尾和凤翅，风吹时像小凤凰展翅，所以叫凤仙花。",
+   "solarTerms": [
+    "处暑"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-balsam-wbg",
+     "title": "欲染纤纤指——凤仙花",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "小凤凰花站在叶腋里，果荚像会弹跳的口袋。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "gourd",
+   "commonName": "葫芦",
+   "scientificName": "Lagenaria siceraria (Molina) Standl.",
+   "scientificNameNote": null,
+   "morphology": "藤蔓靠卷须往上爬，心形大叶有柔毛；白花后长出细颈大肚的葫芦果。",
+   "ornamentalSeason": "白露前后可观察。",
+   "dailyScenes": "阳台瓜架、菜园篱笆和民俗手作展里常能看见葫芦藤和干果壳。",
+   "homeGrowing": {
+    "light": "放全日照、通风阳台，给藤蔓留攀爬空间",
+    "water": "表土干了再浇透，开花结果期保持见干见湿",
+    "difficulty": "中"
+   },
+   "cultureStory": "古人把葫芦叫“匏”，并把“匏（葫芦）”列为古代乐器材料的八音之一。",
+   "solarTerms": [
+    "白露"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "卷须像小弹簧，拉着葫芦藤往高处爬。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "osmanthus",
+   "commonName": "桂花",
+   "scientificName": "Osmanthus fragrans (Thunb.) Lour.",
+   "scientificNameNote": null,
+   "morphology": "厚而亮的椭圆叶四季常绿，细小黄白花成簇躲在叶腋，靠近能闻到浓浓花香。",
+   "ornamentalSeason": "秋分前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放日照充足、通风处，夏季午后可稍遮阴",
+    "water": "土表干了再浇透，保持见干见湿，雨后不积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "桂花原产中国西南，四川也有野生分布；成都秋天闻到香气，可能就是它在叶腋藏了小花。",
+   "solarTerms": [
+    "秋分"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "小桂花躲在叶子腋下，像撒了一把香香星星。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "chrysanthemum",
+   "commonName": "菊花",
+   "scientificName": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+   "scientificNameNote": "旧植物志名称为 Dendranthema morifolium。",
+   "morphology": "多年生草本；叶卵形至披针形，头状花序大小和舌状花颜色变化丰富。",
+   "ornamentalSeason": "秋季，花期因品种而异。",
+   "dailyScenes": "花坛、盆栽、插花和秋季园艺展陈。",
+   "homeGrowing": {
+    "light": "放日照充足、通风处，秋季多晒帮助花苞展开",
+    "water": "土表干后浇水，避免长期积水",
+    "difficulty": "中"
+   },
+   "cultureStory": "植物志引用“采菊东篱下”等诗句，记录了长期的菊花栽培与品种培育传统。",
+   "solarTerms": [
+    "寒露"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "一朵菊花里，其实挤着好多好多小花。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "cotton_rose",
+   "commonName": "木芙蓉",
+   "scientificName": "Hibiscus mutabilis L.",
+   "scientificNameNote": null,
+   "morphology": "叶子像大手掌，有五到七个裂片；花朵大，颜色会在一天里从白到粉再到深红。",
+   "ornamentalSeason": "霜降前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放日照充足、通风的阳台，夏天午后可稍遮阴",
+    "water": "土表干了再浇透，保持见干见湿，雨后别积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "花朵清晨白，午后转粉，傍晚变深红，人们叫它“三醉芙蓉”。",
+   "solarTerms": [
+    "霜降"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "一朵花从早到晚换三次裙子。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "ginkgo",
+   "commonName": "银杏",
+   "scientificName": "Ginkgo biloba L.",
+   "scientificNameNote": null,
+   "morphology": "扇形叶子有从叶柄散开的细脉，边缘常有缺口；深秋整树会变成亮金黄色。",
+   "ornamentalSeason": "南方银杏约 11 月逐渐进入观赏期，成都多在深秋至初冬，年份和地点不同会有差异。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "不建议在普通阳台从种子培育成大树，更适合到户外观察。",
+    "water": "盆土表层干再浇透，保持见干见湿，雨后及时排水",
+    "difficulty": "难"
+   },
+   "cultureStory": "银杏有“鸭掌树”“鸭脚子”“公孙树”“白果”等俗名。",
+   "solarTerms": [
+    "立冬"
+   ],
+   "bencaoName": "《本草纲目》中记作“白果，鸭脚子”（此处只介绍名称）。",
+   "chengduLink": "成都街道栽有银杏行道树，深秋至初冬可观金黄银杏。",
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    }
+   ],
+   "kidLine": "秋风一吹，满树小扇子一起变金黄。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "citrus",
+   "commonName": "柑橘",
+   "scientificName": "Citrus reticulata Blanco",
+   "scientificNameNote": null,
+   "morphology": "枝条常有小刺，椭圆叶摸起来厚实；春天开白花，秋冬枝头挂起黄橙色小灯笼。",
+   "ornamentalSeason": "小雪前后可观察。",
+   "dailyScenes": "冬春的菜市场水果摊、家里果盘和节日礼盒里常能见到柑橘。",
+   "homeGrowing": {
+    "light": "放朝南窗边，保证充足日照和通风",
+    "water": "土表干了再浇透，见干见湿，冬天减少浇水",
+    "difficulty": "中"
+   },
+   "cultureStory": "“柑橘”是生活里的统称；西南方言常把橘叫“柑子”或“柑儿”。",
+   "solarTerms": [
+    "小雪"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "黄橙果子挂满枝头，像给小树点了灯。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "garlic",
+   "commonName": "大蒜",
+   "scientificName": "Allium sativum L.",
+   "scientificNameNote": null,
+   "morphology": "宽条形叶子从蒜瓣上方抽出，花茎会往上长；地下鳞茎由几瓣小蒜瓣紧紧围成。",
+   "ornamentalSeason": "大雪前后可观察。",
+   "dailyScenes": "厨房调味罐、菜市场蔬菜摊和窗台小盆里常能看到大蒜。",
+   "homeGrowing": {
+    "light": "放日照充足的窗边，幼苗每天晒4小时以上",
+    "water": "土表干了再浇透，保持见干见湿，别让蒜瓣泡水",
+    "difficulty": "中"
+   },
+   "cultureStory": "大蒜的鳞茎由一瓣瓣“蒜瓣”抱成团；拉丁种名 sativum 含有耕作的意思。",
+   "solarTerms": [
+    "大雪"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "地下的小蒜瓣抱成团，像在开圆桌会。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "wintersweet",
+   "commonName": "蜡梅",
+   "scientificName": "Chimonanthus praecox (L.) Link",
+   "scientificNameNote": null,
+   "morphology": "落叶灌木，叶对生、叶缘全缘；先开花，后长叶。",
+   "ornamentalSeason": "冬至前后可观察。",
+   "dailyScenes": "公园街道常见可观察。",
+   "homeGrowing": {
+    "light": "放日照充足、通风处，冬季也要见光",
+    "water": "盆土表层干了再浇透，保持见干见湿，雨后不积水",
+    "difficulty": "难"
+   },
+   "cultureStory": "花瓣蜡黄，像用蜂蜡捏成；又常在腊月开花，所以也有人写作“腊梅”。",
+   "solarTerms": [
+    "冬至"
+   ],
+   "bencaoName": null,
+   "chengduLink": null,
+   "fixedPlantDisclaimer": "植物文化内容，仅供了解，不构成用药建议；如有健康问题请咨询依法执业的医疗专业人员。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "kidLine": "叶子还没来，蜡黄小花先在冷风里报到。",
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "植物形态、节气、家庭种植与安全提示已核对来源；不涉及医疗或摄入建议。"
+  }
+ ]
+}

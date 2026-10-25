@@ -1,0 +1,1152 @@
+{
+ "schemaVersion": 1,
+ "items": [
+  {
+   "tipId": "tip_plant_narcissus",
+   "contentKind": "plant",
+   "contentId": "narcissus",
+   "childText": "水仙有个储存养分的鳞茎；我们用眼睛观察，不入口也不触碰。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_plum_blossom",
+   "contentKind": "plant",
+   "contentId": "plum_blossom",
+   "childText": "古人用梅花记节令，但成都的花期会随天气和地点变化。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_winter_jasmine",
+   "contentKind": "plant",
+   "contentId": "winter_jasmine",
+   "childText": "我们用眼睛找找枝条上的小黄花，不摘也不摸。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_rapeseed",
+   "contentKind": "plant",
+   "contentId": "rapeseed",
+   "childText": "我们只观察花瓣、叶子和果荚，不摘花，也不把植物放入口中。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_peach",
+   "contentKind": "plant",
+   "contentId": "peach",
+   "childText": "桃花常先开，叶子随后长出；我们用眼睛观察，不摘花。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_crabapple",
+   "contentKind": "plant",
+   "contentId": "crabapple",
+   "childText": "看，花梗弯弯垂下来，这就是垂丝海棠名字里的“垂丝”。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_paulownia",
+   "contentKind": "plant",
+   "contentId": "paulownia",
+   "childText": "我们用眼睛找花和叶的先后变化，不摘树上的任何东西。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-paulownia-iplant",
+     "title": "中国植物志：白花泡桐",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_peony",
+   "contentKind": "plant",
+   "contentId": "peony",
+   "childText": "我们用眼睛看花和叶，记下今天的样子，不摘它也能观察。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peony-iplant",
+     "title": "中国植物志：牡丹",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peony-poem",
+     "title": "刘禹锡《赏牡丹》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_honeysuckle",
+   "contentKind": "plant",
+   "contentId": "honeysuckle",
+   "childText": "金银花也叫忍冬，花会从白色变黄。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-honeysuckle-wetland",
+     "title": "忍冬（金银花）",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_gardenia",
+   "contentKind": "plant",
+   "contentId": "gardenia",
+   "childText": "我们看看栀子的叶片是不是两片相对长，再把发现画下来。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gardenia-wetland",
+     "title": "梔子",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_mugwort",
+   "contentKind": "plant",
+   "contentId": "mugwort",
+   "childText": "艾草叶背有灰白色绒毛，还有香气。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_lotus",
+   "contentKind": "plant",
+   "contentId": "lotus",
+   "childText": "荷花的圆叶会伸出水面，花从长柄顶端开。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_mint",
+   "contentKind": "plant",
+   "contentId": "mint",
+   "childText": "薄荷的茎有四个棱，叶边有锯齿。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_jasmine",
+   "contentKind": "plant",
+   "contentId": "jasmine",
+   "childText": "茉莉的叶子两两相对，白花常在枝头成簇开放。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_perilla",
+   "contentKind": "plant",
+   "contentId": "perilla",
+   "childText": "紫苏叶有绿有紫，边缘有粗锯齿。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_balsam",
+   "contentKind": "plant",
+   "contentId": "balsam",
+   "childText": "我们用眼睛找花瓣、锯齿叶和小果荚，种子不入口也不采摘。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-balsam-wbg",
+     "title": "欲染纤纤指——凤仙花",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_gourd",
+   "contentKind": "plant",
+   "contentId": "gourd",
+   "childText": "先观察卷须怎样攀援，再一起等夏花和秋果；只观察，不入口、不采摘。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_osmanthus",
+   "contentKind": "plant",
+   "contentId": "osmanthus",
+   "childText": "桂花的小花一簇簇藏在叶子旁边，秋天可以远远观察它们。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_chrysanthemum",
+   "contentKind": "plant",
+   "contentId": "chrysanthemum",
+   "childText": "菊花有许多小花聚成一个花头，颜色很多。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_cotton_rose",
+   "contentKind": "plant",
+   "contentId": "cotton_rose",
+   "childText": "看看花瓣从浅色到深色，和妈妈一起记录今天的颜色。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_ginkgo",
+   "contentKind": "plant",
+   "contentId": "ginkgo",
+   "childText": "叶子像小扇子，成都入冬前后会慢慢变成金黄色。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_citrus",
+   "contentKind": "plant",
+   "contentId": "citrus",
+   "childText": "一起把花和果记在日历上，看看春花与秋冬果会不会同日出现。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_garlic",
+   "contentKind": "plant",
+   "contentId": "garlic",
+   "childText": "种下一瓣蒜，约一周后看看新芽有没有探出头。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_plant_wintersweet",
+   "contentKind": "plant",
+   "contentId": "wintersweet",
+   "childText": "冬天的蜡梅先开花再长叶，我们用眼睛观察，不摘不尝。",
+   "fictionalDisclosure": null,
+   "factScope": "botany_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "亲子文案已核对来源与安全边界；不涉及医疗或摄入建议。"
+  },
+  {
+   "tipId": "tip_target_yuzui",
+   "contentKind": "find_target",
+   "contentId": "target_yuzui",
+   "childText": "鱼嘴把岷江分成内江和外江。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-djy",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：都江堰",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_target_feishayan",
+   "contentKind": "find_target",
+   "contentId": "target_feishayan",
+   "childText": "飞沙堰帮着排走多余的水和泥沙。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-djy",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：都江堰",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_target_baopingkou",
+   "contentKind": "find_target",
+   "contentId": "target_baopingkou",
+   "childText": "宝瓶口把内江水引向成都平原。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-djy",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：都江堰",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_target_jianfu_eave",
+   "contentKind": "find_target",
+   "contentId": "target_jianfu_eave",
+   "childText": "建福宫是青城山公开列出的主要景点。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-qingcheng",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：青城山",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_352acb5800a041f083e4c2fb0bbe16ae.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_target_cloud_plaque",
+   "contentKind": "find_target",
+   "contentId": "target_cloud_plaque",
+   "childText": "云纹牌是游戏原创道具，不在现实景区找。",
+   "fictionalDisclosure": "云纹牌为游戏原创装饰，不是景区现存实物。",
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  },
+  {
+   "tipId": "tip_target_paper_boat",
+   "contentKind": "find_target",
+   "contentId": "target_paper_boat",
+   "childText": "纸舟也是游戏原创道具，只在画面里漂着。",
+   "fictionalDisclosure": "纸舟为游戏原创道具。",
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  },
+  {
+   "tipId": "tip_target_ziku_bell",
+   "contentKind": "find_target",
+   "contentId": "target_ziku_bell",
+   "childText": "字库塔旁有银杏，塔上有小铜铃。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-jiezi",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：街子古镇",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_bdb13b600742473d812be3e561237e87.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_target_ginkgo_leaf",
+   "contentKind": "find_target",
+   "contentId": "target_ginkgo_leaf",
+   "childText": "银杏叶是画面观察线索，现实里不用采摘。",
+   "fictionalDisclosure": null,
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  },
+  {
+   "tipId": "tip_target_old_door",
+   "contentKind": "find_target",
+   "contentId": "target_old_door",
+   "childText": "木门板是游戏观察线索，请不触摸老建筑。",
+   "fictionalDisclosure": null,
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  },
+  {
+   "tipId": "tip_puzzle_dujiangyan",
+   "contentKind": "puzzle",
+   "contentId": "dujiangyan_puzzle",
+   "childText": "鱼嘴分水，飞沙堰排沙泄洪，宝瓶口引水。",
+   "fictionalDisclosure": null,
+   "factScope": "official_fact",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-city-djy",
+     "accessedAt": "2026-10-22",
+     "title": "成都市人民政府·去哪耍：都江堰",
+     "publisher": "成都市人民政府",
+     "url": "https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml",
+     "sourceType": "official"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "地标/原创说明已核对来源与虚构披露。"
+  },
+  {
+   "tipId": "tip_puzzle_qingcheng",
+   "contentKind": "puzzle",
+   "contentId": "qingcheng_puzzle",
+   "childText": "这幅图把地标画在一起，是原创构图。",
+   "fictionalDisclosure": null,
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  },
+  {
+   "tipId": "tip_puzzle_jiezi",
+   "contentKind": "puzzle",
+   "contentId": "jiezi_puzzle",
+   "childText": "这是古镇写意拼图，不是现场导览地图。",
+   "fictionalDisclosure": null,
+   "factScope": "game_original",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "accessedAt": "2026-10-22",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "note": "游戏原创，不对应现实实物"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "游戏原创内容；已保留原创/虚构说明。"
+  }
+ ]
+}

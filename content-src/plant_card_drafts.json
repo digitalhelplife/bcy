@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-10-23",
+  "note": "AI 起草，待有资质人员审核，reviewStatus 保持 pending；原有合格 morphology 保留：honeysuckle、mugwort、lotus、mint、perilla、chrysanthemum、wintersweet。",
+  "cards": {
+    "narcissus": {
+      "homeGrowing": {
+        "light": "放明亮窗边，每天晒2—4小时柔和日光",
+        "water": "水培每周换清水；土培见干见湿，不积水"
+      },
+      "dailyScenes": "春节前后的花市、客厅窗边和年宵花区常能见到。",
+      "cultureStory": "鳞茎像大蒜，古人叫它“雅蒜”“天葱”；花姿轻盈，又叫“凌波仙子”。",
+      "morphology": "叶子像一把把扁平绿带，从圆圆鳞茎抽出；白花中央戴着黄色小杯。",
+      "kidLine": "白花戴黄杯，像在水边跳舞。",
+      "sourceRefs": [
+        {"id": "src-narcissus-forestry", "title": "水仙花：在下不才，春节标配", "publisher": "国家林业和草原局", "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "plum_blossom": {
+      "homeGrowing": {
+        "light": "放朝南阳台，尽量保证每天4小时以上日照",
+        "water": "盆土表层发白再浇透，雨天及时倒掉积水"
+      },
+      "dailyScenes": "公园梅园、街边绿地和春节前后的花市都能看到。",
+      "cultureStory": "宋代王安石《梅花》写：“墙角数枝梅，凌寒独自开。”",
+      "morphology": "冬末枝条上先冒圆圆花苞，白或粉红花有香气；花谢后才长出椭圆叶。",
+      "kidLine": "冷风里，梅花先把小灯笼点亮。",
+      "sourceRefs": [
+        {"id": "src-plum-iplant", "title": "中国植物志：梅", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Prunus%20mume?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"},
+        {"id": "src-plum-poem", "title": "王安石《梅花》", "publisher": "古诗文网", "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "winter_jasmine": {
+      "homeGrowing": {
+        "light": "放有上午日照的阳台，保持通风",
+        "water": "盆土表层干了再浇透，雨天少浇"
+      },
+      "dailyScenes": "早春的公园花坛、社区绿地和小区围栏边常可看到。",
+      "cultureStory": "它常在早春先开黄花，像迎接春天，所以人们叫它“迎春花”。",
+      "morphology": "细长绿枝有四道棱，常弯成拱形；黄色小花贴着枝条开，叶子多是三片一组。",
+      "kidLine": "小黄花爬满枝头，先来迎接春天。",
+      "sourceRefs": [
+        {"id": "src-winter-jasmine-cas", "title": "春天来了，如何辨别迎春和连翘？", "publisher": "中国科学院植物研究所", "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "rapeseed": {
+      "homeGrowing": {
+        "light": "选日照充足、通风的阳台，每天至少4小时日光",
+        "water": "表土发白就浇透，保持见干见湿，别让盆底积水"
+      },
+      "dailyScenes": "成都周边农田春天常见金黄花田；菜市场也常见带花的油菜。",
+      "cultureStory": "一朵油菜花有四片十字形花瓣，许多小花排成一串，把田野染成金黄。",
+      "morphology": "茎直立，叶片由下往上渐小；顶端一串小黄花，每朵常有四片十字形花瓣。",
+      "kidLine": "四瓣小黄花手拉手，把田野铺成金毯。",
+      "sourceRefs": [
+        {"id": "src-rapeseed-forestry", "title": "油菜花给蜜蜂精心设计“路标”", "publisher": "国家林业和草原局", "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "peach": {
+      "homeGrowing": {
+        "light": "放朝南阳台，保证充足日照和通风",
+        "water": "土表干了再浇透；开花期保持微湿，不积水"
+      },
+      "dailyScenes": "春天的街边绿地、校园和公园里常能看到粉色桃花。",
+      "cultureStory": "《诗经·周南·桃夭》写：“桃之夭夭，灼灼其华。”作者佚名。",
+      "morphology": "细长叶片像小柳叶，边缘有锯齿；粉红或白花常比新叶先来到枝头。",
+      "kidLine": "粉红花先探头，绿叶随后赶来。",
+      "sourceRefs": [
+        {"id": "src-peach-iplant", "title": "中国植物志：桃", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Prunus%20persica?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"},
+        {"id": "src-peach-poem", "title": "《诗经·周南·桃夭》", "publisher": "古诗文网", "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "crabapple": {
+      "homeGrowing": {
+        "light": "放向阳通风处，春秋多晒，夏天午后遮强光",
+        "water": "表土干了浇透，保持见干见湿，雨后不积水"
+      },
+      "dailyScenes": "成都春天的公园海棠园、街边绿地和小区花坛常有它。",
+      "cultureStory": "它的粉花挂在细长花梗上，像丝线垂下来，因此得名“垂丝海棠”。",
+      "morphology": "嫩叶常带紫红色，粉红花几朵一簇；细长紫色花梗让花朵低低垂下。",
+      "kidLine": "粉花坐上紫丝线，风一吹就轻轻摇。",
+      "sourceRefs": [
+        {"id": "src-crabapple-iplant", "title": "中国植物志：垂丝海棠", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Malus%20halliana?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "paulownia": {
+      "homeGrowing": {
+        "light": "乔木不适合普通阳台；幼株放明亮通风窗边",
+        "water": "幼株表土干再浇透，保持见干见湿，别积水"
+      },
+      "dailyScenes": "春天街道、公园和校园的大树上，常能看见成串的喇叭花。",
+      "cultureStory": "植物志把它记作“白花泡桐”，还有“火筒木”“笛螺木”等地方名字。",
+      "morphology": "叶子像大大的心形，背面有细绒毛；春天先挂淡紫色漏斗花，之后结木质小果。",
+      "kidLine": "大心叶举着一串小喇叭，春风一吹像要唱歌。",
+      "sourceRefs": [
+        {"id": "src-paulownia-iplant", "title": "中国植物志：白花泡桐", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "peony": {
+      "homeGrowing": {
+        "light": "放日照充足、通风处，夏季午后可稍遮阴",
+        "water": "土表干了再浇透，保持见干见湿，不能长期积水"
+      },
+      "dailyScenes": "春季花展、庭院花境和公园牡丹园常有大朵牡丹。",
+      "cultureStory": "唐代刘禹锡《赏牡丹》写：“唯有牡丹真国色，花开时节动京城。”",
+      "morphology": "枝条木质，叶子像几片小叶拼成；花朵很大，花瓣有粉、红、紫或白色。",
+      "kidLine": "大花瓣一层又一层，像给春天穿礼裙。",
+      "sourceRefs": [
+        {"id": "src-peony-iplant", "title": "中国植物志：牡丹", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"},
+        {"id": "src-peony-poem", "title": "刘禹锡《赏牡丹》", "publisher": "古诗文网", "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "honeysuckle": {
+      "homeGrowing": {
+        "light": "放在有日照和通风的窗边或花架旁",
+        "water": "土表干了再浇透，见干见湿，盆底别积水"
+      },
+      "dailyScenes": "花架、篱笆和小院支架上常见它顺着架子攀爬。",
+      "cultureStory": "花刚开是白色，慢慢变黄，一枝上常有“金”“银”两色，所以叫金银花。",
+      "kidLine": "一根藤上白花黄花挨着，像挂了小彩灯。",
+      "sourceRefs": [
+        {"id": "src-honeysuckle-wetland", "title": "忍冬（金银花）", "publisher": "香港湿地公园", "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "gardenia": {
+      "homeGrowing": {
+        "light": "放明亮通风处，春秋多晒，夏季避开午后暴晒",
+        "water": "土表干1—2厘米再浇透，保持微湿，不积水"
+      },
+      "dailyScenes": "初夏花市、阳台盆栽和小区绿篱旁常能闻到它的花香。",
+      "cultureStory": "橙色果实像古代盛酒的“卮”，人们用“卮”的俗字“栀”给它取名。",
+      "morphology": "亮绿厚叶成对长在枝上，白花像小旋风；花谢后能看到橙黄色、带棱的小果。",
+      "kidLine": "白花转呀转，像一只会飘香的小风车。",
+      "sourceRefs": [
+        {"id": "src-gardenia-wetland", "title": "梔子", "publisher": "香港湿地公园", "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "mugwort": {
+      "homeGrowing": {
+        "light": "放日照充足、通风的阳台，枝叶会长得更壮",
+        "water": "土表干了再浇透，宁干勿涝，盆底不要积水"
+      },
+      "dailyScenes": "端午前后，有些人家会在门边悬一束艾；也可在阳台观察叶背绒毛。",
+      "cultureStory": "端午节有悬艾的民俗。艾的叶背有白绒毛，风吹过会带来特别的草木气味。",
+      "kidLine": "翻开叶子背面，藏着一层白白软绒。",
+      "sourceRefs": [
+        {"id": "src-mugwort-wbg", "title": "春日之味——“艾”在我们生活中扮演了哪些角色？", "publisher": "中国科学院武汉植物园", "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "lotus": {
+      "homeGrowing": {
+        "light": "水缸或大盆放全日照处，每天至少6小时日光",
+        "water": "生长期保持容器有水，水位随叶片长高慢慢加"
+      },
+      "dailyScenes": "夏天的荷塘、水景花园和阳台水缸里能看见圆圆荷叶。",
+      "cultureStory": "同一种植物有许多名字：莲、荷花、菡萏、芙蓉、芙蕖，像有一串小名片。",
+      "kidLine": "圆荷叶像小伞，把花朵稳稳托出水面。",
+      "sourceRefs": [
+        {"id": "src-lotus-iplant", "title": "植物智：莲", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Nelumbo%20nucifera", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "mint": {
+      "homeGrowing": {
+        "light": "放在明亮窗边，春秋多晒，夏季避开午后强光",
+        "water": "表土一干就浇透，保持见干见湿，别让盆土干透"
+      },
+      "dailyScenes": "厨房窗台的香草盆、菜市场的香草摊和饮品装饰里常见它。",
+      "cultureStory": "“薄荷”还有南薄荷、水薄荷等地方叫法；轻轻碰叶子，能闻到特别的草木香。",
+      "kidLine": "方方的茎上长对对叶子，碰一碰满手草木香。",
+      "sourceRefs": [
+        {"id": "src-mint-ppbc", "title": "薄荷 Mentha canadensis", "publisher": "PPBC中国植物图像库", "url": "https://ppbc.iplant.cn/sp/220343", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "jasmine": {
+      "homeGrowing": {
+        "light": "放日照充足、通风窗边，夏天避开午后暴晒",
+        "water": "表土干1—2厘米再浇透，保持见干见湿，不积水"
+      },
+      "dailyScenes": "夏夜的阳台盆栽、花市和花店插花区常能闻到茉莉的香气。",
+      "cultureStory": "茉莉原产印度，后来在中国南方广泛栽培；白色小花常在夏天开放。",
+      "morphology": "枝条可直立也可攀着长，叶子成对；白花常三朵成一簇，近闻有明显香气。",
+      "kidLine": "夏夜的白花像小星星，悄悄在窗边飘香。",
+      "sourceRefs": [
+        {"id": "src-jasmine-herbarium", "title": "香港植物标本室：茉莉花", "publisher": "香港特别行政区政府渔农自然护理署", "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "perilla": {
+      "homeGrowing": {
+        "light": "放日照充足、通风处，叶色会更鲜明",
+        "water": "表土发白就浇透，保持见干见湿，不要长期积水"
+      },
+      "dailyScenes": "成都家庭厨房的香草盆、菜市场调味蔬菜摊上常能看到紫苏叶。",
+      "cultureStory": "叶全绿的古名叫“白苏”，两面紫或面青背紫的叫“紫苏”；名字藏着叶色。",
+      "kidLine": "绿叶翻个面，可能藏着一片紫红小晚霞。",
+      "sourceRefs": [
+        {"id": "src-perilla-xabg", "title": "厨房里的香料植物：紫苏", "publisher": "陕西省西安植物园", "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "balsam": {
+      "homeGrowing": {
+        "light": "放有上午日照、通风的阳台，夏季午后稍遮阴",
+        "water": "表土干了再浇透，保持见干见湿，别积水"
+      },
+      "dailyScenes": "夏秋的阳台花盆、社区花坛和老院子花圃里常能看到它。",
+      "cultureStory": "花瓣的形状像凤尾和凤翅，风吹时像小凤凰展翅，所以叫凤仙花。",
+      "morphology": "肉质茎直直长，叶子边缘像锯齿；花有白、粉、红、紫等颜色，果荚成熟会弹开。",
+      "kidLine": "小凤凰花站在叶腋里，果荚像会弹跳的口袋。",
+      "sourceRefs": [
+        {"id": "src-balsam-wbg", "title": "欲染纤纤指——凤仙花", "publisher": "中国科学院武汉植物园", "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "gourd": {
+      "homeGrowing": {
+        "light": "放全日照、通风阳台，给藤蔓留攀爬空间",
+        "water": "表土干了再浇透，开花结果期保持见干见湿"
+      },
+      "dailyScenes": "阳台瓜架、菜园篱笆和民俗手作展里常能看见葫芦藤和干果壳。",
+      "cultureStory": "古人把葫芦叫“匏”，并把“匏（葫芦）”列为古代乐器材料的八音之一。",
+      "morphology": "藤蔓靠卷须往上爬，心形大叶有柔毛；白花后长出细颈大肚的葫芦果。",
+      "kidLine": "卷须像小弹簧，拉着葫芦藤往高处爬。",
+      "sourceRefs": [
+        {"id": "src-gourd-iplant", "title": "植物智：葫芦", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Lagenaria%20siceraria", "accessedAt": "2026-10-23", "sourceType": "authority"},
+        {"id": "src-gourd-zjstm", "title": "从骨笛到羌笛：古人都玩什么乐器？", "publisher": "浙江省科技馆", "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "osmanthus": {
+      "homeGrowing": {
+        "light": "放日照充足、通风处，夏季午后可稍遮阴",
+        "water": "土表干了再浇透，保持见干见湿，雨后不积水"
+      },
+      "dailyScenes": "秋天的公园、校园和小区桂花树旁，走近就能闻到花香。",
+      "cultureStory": "桂花原产中国西南，四川也有野生分布；成都秋天闻到香气，可能就是它在叶腋藏了小花。",
+      "morphology": "厚而亮的椭圆叶四季常绿，细小黄白花成簇躲在叶腋，靠近能闻到浓浓花香。",
+      "kidLine": "小桂花躲在叶子腋下，像撒了一把香香星星。",
+      "sourceRefs": [
+        {"id": "src-osmanthus-scbg", "title": "闻香识花儿——桂花", "publisher": "中国科学院华南植物园", "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "chrysanthemum": {
+      "homeGrowing": {
+        "light": "放日照充足、通风处，秋季多晒帮助花苞展开",
+        "water": "土表干了再浇透，保持见干见湿，花期别长期积水"
+      },
+      "dailyScenes": "秋季花展、阳台盆栽、花店插花和社区花坛里常有各色菊花。",
+      "cultureStory": "晋代陶渊明《饮酒·其五》写：“采菊东篱下，悠然见南山。”",
+      "kidLine": "一朵菊花里，其实挤着好多好多小花。",
+      "sourceRefs": [
+        {"id": "src-chrysanthemum-iplant", "title": "中国植物志：菊花", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "cotton_rose": {
+      "homeGrowing": {
+        "light": "放日照充足、通风的阳台，夏天午后可稍遮阴",
+        "water": "土表干了再浇透，保持见干见湿，雨后别积水"
+      },
+      "dailyScenes": "深秋公园花境、校园绿地和街边灌木丛中常能看到大朵木芙蓉。",
+      "cultureStory": "花朵清晨白，午后转粉，傍晚变深红，人们叫它“三醉芙蓉”。",
+      "morphology": "叶子像大手掌，有五到七个裂片；花朵大，颜色会在一天里从白到粉再到深红。",
+      "kidLine": "一朵花从早到晚换三次裙子。",
+      "sourceRefs": [
+        {"id": "src-cotton-rose-scbg", "title": "妩媚妖娆木芙蓉", "publisher": "中国科学院华南植物园", "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "ginkgo": {
+      "homeGrowing": {
+        "light": "不建议普通阳台栽大树；幼株放明亮通风窗边",
+        "water": "盆土表层干再浇透，保持见干见湿，雨后及时排水"
+      },
+      "dailyScenes": "深秋的成都街道、校园和公园里，常能见到一树金黄的银杏叶。",
+      "cultureStory": "银杏又叫公孙树、鸭脚子；扇形叶子像小鸭脚，是它好认的名字线索。",
+      "morphology": "扇形叶子有从叶柄散开的细脉，边缘常有缺口；深秋整树会变成亮金黄色。",
+      "kidLine": "秋风一吹，满树小扇子一起变金黄。",
+      "sourceRefs": [
+        {"id": "src-ginkgo-hunan-forestry", "title": "银杏（Ginkgo biloba L.）", "publisher": "湖南省林业局", "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "citrus": {
+      "homeGrowing": {
+        "light": "放朝南窗边，保证充足日照和通风",
+        "water": "土表干了再浇透，见干见湿，冬天减少浇水"
+      },
+      "dailyScenes": "冬春的菜市场水果摊、家里果盘和节日礼盒里常能见到柑橘。",
+      "cultureStory": "“柑橘”是生活里的统称；西南方言常把橘叫“柑子”或“柑儿”。",
+      "morphology": "枝条常有小刺，椭圆叶摸起来厚实；春天开白花，秋冬枝头挂起黄橙色小灯笼。",
+      "kidLine": "黄橙果子挂满枝头，像给小树点了灯。",
+      "sourceRefs": [
+        {"id": "src-citrus-cas", "title": "说橘", "publisher": "中国科学院西安光学精密机械研究所", "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "garlic": {
+      "homeGrowing": {
+        "light": "放日照充足的窗边，幼苗每天晒4小时以上",
+        "water": "土表干了再浇透，保持见干见湿，别让蒜瓣泡水"
+      },
+      "dailyScenes": "厨房调味罐、菜市场蔬菜摊和窗台小盆里常能看到大蒜。",
+      "cultureStory": "大蒜的鳞茎由一瓣瓣“蒜瓣”抱成团；拉丁种名 sativum 含有耕作的意思。",
+      "morphology": "宽条形叶子从蒜瓣上方抽出，花茎会往上长；地下鳞茎由几瓣小蒜瓣紧紧围成。",
+      "kidLine": "地下的小蒜瓣抱成团，像在开圆桌会。",
+      "sourceRefs": [
+        {"id": "src-garlic-kib", "title": "蒜的栽培史", "publisher": "中国科学院昆明植物研究所", "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    },
+    "wintersweet": {
+      "homeGrowing": {
+        "light": "放日照充足、通风处，冬季也要见光",
+        "water": "盆土表层干了再浇透，保持见干见湿，雨后不积水"
+      },
+      "dailyScenes": "冬天的公园、花市和家门口的花瓶里，常能看到蜡梅枝条。",
+      "cultureStory": "花瓣蜡黄，像用蜂蜡捏成；又常在腊月开花，所以也有人写作“腊梅”。",
+      "kidLine": "叶子还没来，蜡黄小花先在冷风里报到。",
+      "sourceRefs": [
+        {"id": "src-wintersweet-cas", "title": "惟有腊梅破，凌雪独自开", "publisher": "中国科学院植物研究所", "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html", "accessedAt": "2026-10-23", "sourceType": "authority"}
+      ]
+    }
+  },
+  "observations": [
+    {
+      "locator": "plantId=narcissus + stages[stage=0].text",
+      "old": "栽培常靠鳞茎繁殖；种子阶段观察资料待核实。",
+      "new": "水仙常用鳞茎分球栽培，成长卡从圆圆的鳞茎开始观察。",
+      "sourceRefs": [{"id": "src-narcissus-forestry", "title": "水仙花：在下不才，春节标配", "publisher": "国家林业和草原局", "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=plum_blossom + stages[stage=1].text",
+      "old": "梅可由种子繁殖；播种至萌芽天数待核实。",
+      "new": "梅核里藏着种子。播下后先观察盆土是否露出小芽，不用按固定天数倒计时。",
+      "sourceRefs": [{"id": "src-plum-iplant", "title": "中国植物志：梅", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Prunus%20mume?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=winter_jasmine + stages[stage=0].text",
+      "old": "种子形态与成熟时间待核实。",
+      "new": "迎春花会结卵球形的小浆果，种子藏在果实里面；观察时只看植株和图片。",
+      "sourceRefs": [{"id": "src-winter-jasmine-cas", "title": "春天来了，如何辨别迎春和连翘？", "publisher": "中国科学院植物研究所", "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=winter_jasmine + stages[stage=1].text",
+      "old": "发芽时间和幼苗特征待核实。",
+      "new": "春天先找枝条上的黄色小花，再看看花后新长出的三片一组小叶。",
+      "sourceRefs": [{"id": "src-winter-jasmine-cas", "title": "春天来了，如何辨别迎春和连翘？", "publisher": "中国科学院植物研究所", "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=rapeseed + stages[stage=1].text",
+      "old": "萌发后成为幼苗；具体天数受环境影响，待核实。",
+      "new": "种皮裂开后，先会看见两片小小的子叶；每天看看它有没有把头钻出土。",
+      "sourceRefs": [{"id": "src-rapeseed-forestry", "title": "油菜花给蜜蜂精心设计“路标”", "publisher": "国家林业和草原局", "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=crabapple + stages[stage=1].text",
+      "old": "本种播种出苗时长资料待核实，可记录首芽日期。",
+      "new": "播种后先观察盆土有没有露出小芽，并把第一天看见芽的日期记下来。",
+      "sourceRefs": [{"id": "src-crabapple-iplant", "title": "中国植物志：垂丝海棠", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Malus%20halliana?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=paulownia + stages[stage=1].text",
+      "old": "有泡桐种子光萌发研究；家庭发芽天数待核实。",
+      "new": "种下带翅的小种子后，先记录第一片叶出现的日期，叶子会慢慢长成大心形。",
+      "sourceRefs": [{"id": "src-paulownia-iplant", "title": "中国植物志：白花泡桐", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=mugwort + stages[stage=0].text",
+      "old": "瘦果长卵圆形或长圆形；萌发日数待核实。",
+      "new": "艾会结小小的瘦果。种下后不用数日子，留心土面何时冒出带白绒毛的新叶。",
+      "sourceRefs": [{"id": "src-mugwort-wbg", "title": "春日之味——“艾”在我们生活中扮演了哪些角色？", "publisher": "中国科学院武汉植物园", "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=mugwort + stages[stage=1].text",
+      "old": "地下根茎可横向生长并繁殖；出芽速度待核实。",
+      "new": "春天可观察根茎旁冒出新芽，慢慢长成叶背白绒绒的小叶。",
+      "sourceRefs": [{"id": "src-mugwort-wbg", "title": "春日之味——“艾”在我们生活中扮演了哪些角色？", "publisher": "中国科学院武汉植物园", "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=mint + stages[stage=1].text",
+      "old": "本种可靠的播种至出芽天数待核实，可记录见芽日。",
+      "new": "播种后先看看土面有没有细小新芽，把第一次看见芽的日期写进观察本。",
+      "sourceRefs": [{"id": "src-mint-ppbc", "title": "薄荷 Mentha canadensis", "publisher": "PPBC中国植物图像库", "url": "https://ppbc.iplant.cn/sp/220343", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=jasmine + stages[stage=1].text",
+      "old": "发芽条件、天数和幼苗细节待核实。",
+      "new": "盆土保持湿润时，留心土面有没有一对小叶伸出来，并记录见芽的那一天。",
+      "sourceRefs": [{"id": "src-jasmine-herbarium", "title": "香港植物标本室：茉莉花", "publisher": "香港特别行政区政府渔农自然护理署", "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=gourd + stages[stage=1].text",
+      "old": "春播后可观察种子萌芽；具体发芽天数待核实。",
+      "new": "春播后，先从土里探出两片厚厚子叶，再等卷须像小弹簧一样长出来。",
+      "sourceRefs": [{"id": "src-gourd-iplant", "title": "植物智：葫芦", "publisher": "植物智 iPlant", "url": "https://www.iplant.cn/info/Lagenaria%20siceraria", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    },
+    {
+      "locator": "plantId=citrus + stages[stage=1].text",
+      "old": "具体发芽天数待核实，记录首次出芽日。",
+      "new": "从种子出芽开始，记录第一片真叶变成亮绿色的日期，再观察枝条会不会长出小刺。",
+      "sourceRefs": [{"id": "src-citrus-cas", "title": "说橘", "publisher": "中国科学院西安光学精密机械研究所", "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html", "accessedAt": "2026-10-23", "sourceType": "authority"}]
+    }
+  ]
+}

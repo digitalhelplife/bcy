@@ -1,0 +1,1464 @@
+{
+ "schemaVersion": 1,
+ "titles": [
+  [
+   6,
+   "本草小学徒"
+  ],
+  [
+   12,
+   "本草小行家"
+  ],
+  [
+   18,
+   "节气观察员"
+  ],
+  [
+   24,
+   "成都本草通"
+  ]
+ ],
+ "items": [
+  {
+   "plantId": "narcissus",
+   "questions": [
+    {
+     "q": "水仙的叶子从哪里长出来？",
+     "options": [
+      "鳞茎顶端",
+      "花朵里面",
+      "石头下面"
+     ],
+     "answer": 0,
+     "explain": "水仙的叶从鳞茎顶端抽出。"
+    },
+    {
+     "q": "水仙花中央的小杯子是什么颜色？",
+     "options": [
+      "蓝色",
+      "黄色",
+      "绿色"
+     ],
+     "answer": 1,
+     "explain": "花中央有淡黄色副花冠。"
+    },
+    {
+     "q": "水仙叶片上的叶脉大致怎么排列？",
+     "options": [
+      "平行",
+      "网格",
+      "螺旋"
+     ],
+     "answer": 0,
+     "explain": "水仙叶具有平行叶脉。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "plum_blossom",
+   "questions": [
+    {
+     "q": "梅花通常先开花还是先长叶？",
+     "options": [
+      "先开花",
+      "先长叶",
+      "先结果"
+     ],
+     "answer": 0,
+     "explain": "植物志记载梅花先叶开放。"
+    },
+    {
+     "q": "梅树的叶片边缘是什么样？",
+     "options": [
+      "有细锯齿",
+      "像针一样尖",
+      "边缘完全光滑"
+     ],
+     "answer": 0,
+     "explain": "梅叶边缘有细小锯齿。"
+    },
+    {
+     "q": "传统二十四番花信风中，小寒一候对应哪种花？",
+     "options": [
+      "梅花",
+      "荷花",
+      "菊花"
+     ],
+     "answer": 0,
+     "explain": "传统花信风以梅花为始；小寒七十二候是另一套物候记录。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "winter_jasmine",
+   "questions": [
+    {
+     "q": "迎春花的小花通常是什么颜色？",
+     "options": [
+      "黄色",
+      "蓝色",
+      "白色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载其花冠黄色。[1]"
+    },
+    {
+     "q": "迎春花的叶子通常怎么排列？",
+     "options": [
+      "一片一片互生",
+      "两片相对着生，常见三片小叶",
+      "长成针叶"
+     ],
+     "answer": 1,
+     "explain": "迎春花叶对生，通常为三出复叶。[1][2]"
+    },
+    {
+     "q": "传统二十四番花信风中，迎春对应哪个节气的第一候？",
+     "options": [
+      "立春",
+      "夏至",
+      "秋分"
+     ],
+     "answer": 0,
+     "explain": "立春第一候为迎春。[3]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "rapeseed",
+   "questions": [
+    {
+     "q": "油菜花的花瓣常是什么颜色？",
+     "options": [
+      "浅黄色",
+      "蓝色",
+      "黑色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载欧洲油菜花瓣浅黄色。"
+    },
+    {
+     "q": "油菜上部叶子的基部有什么特点？",
+     "options": [
+      "抱着茎",
+      "长成圆球",
+      "藏在地下"
+     ],
+     "answer": 0,
+     "explain": "上部叶基部心形并抱茎。"
+    },
+    {
+     "q": "雨水花信风的第一候传统上对应什么？",
+     "options": [
+      "菜花",
+      "荷花",
+      "菊花"
+     ],
+     "answer": 0,
+     "explain": "二十四番花信风记雨水一候菜花；现代科普常联系到油菜花。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "peach",
+   "questions": [
+    {
+     "q": "桃树开花时，常见的顺序是什么？",
+     "options": [
+      "先开花再长叶",
+      "先长叶再开花",
+      "先长果再开花"
+     ],
+     "answer": 0,
+     "explain": "桃花常先叶开放。"
+    },
+    {
+     "q": "桃花常见的颜色是什么？",
+     "options": [
+      "蓝色",
+      "粉红色",
+      "绿色"
+     ],
+     "answer": 1,
+     "explain": "桃花通常粉红色，少数白色。"
+    },
+    {
+     "q": "桃树的叶子更像哪一种形状？",
+     "options": [
+      "细长的披针形",
+      "圆圆的荷叶形",
+      "三角形"
+     ],
+     "answer": 0,
+     "explain": "桃叶为披针形，叶缘有锯齿。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "crabapple",
+   "questions": [
+    {
+     "q": "垂丝海棠的花梗有什么特点？",
+     "options": [
+      "细长下垂",
+      "长在水里",
+      "像针一样直立"
+     ],
+     "answer": 0,
+     "explain": "植物志记载垂丝海棠花梗细弱、下垂。"
+    },
+    {
+     "q": "垂丝海棠的花通常是什么颜色？",
+     "options": [
+      "粉红色",
+      "蓝色",
+      "黑色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载其花瓣粉红色。"
+    },
+    {
+     "q": "垂丝海棠的果期大约在什么时候？",
+     "options": [
+      "9—10月",
+      "隆冬",
+      "盛夏"
+     ],
+     "answer": 0,
+     "explain": "植物志记载果期为9—10月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "paulownia",
+   "questions": [
+    {
+     "q": "泡桐通常先开花还是先长叶？",
+     "options": [
+      "先开花",
+      "先长叶",
+      "花叶永远不出现"
+     ],
+     "answer": 0,
+     "explain": "泡桐常先开花，之后才长出新叶。"
+    },
+    {
+     "q": "白花泡桐的花大约在什么时候开放？",
+     "options": [
+      "春季3—4月",
+      "盛夏7—8月",
+      "冬季"
+     ],
+     "answer": 0,
+     "explain": "植物志记载花期为3—4月；每年会受天气影响前后变化。"
+    },
+    {
+     "q": "泡桐的种子有什么特点？",
+     "options": [
+      "小而带翅",
+      "长在浆果里",
+      "没有种子"
+     ],
+     "answer": 0,
+     "explain": "白花泡桐蒴果中有小而具翅的种子。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-paulownia-iplant",
+     "title": "中国植物志：白花泡桐",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "peony",
+   "questions": [
+    {
+     "q": "牡丹是下面哪一种植物？",
+     "options": [
+      "落叶灌木",
+      "藤本植物",
+      "水生植物"
+     ],
+     "answer": 0,
+     "explain": "牡丹是落叶灌木，冬季会落叶，春天再长新叶。"
+    },
+    {
+     "q": "牡丹的叶子更像哪一种？",
+     "options": [
+      "一整片不分的小叶",
+      "由多个小叶组成的复叶",
+      "针一样的叶子"
+     ],
+     "answer": 1,
+     "explain": "牡丹的叶通常由多个小叶组成，叶片还有分裂。"
+    },
+    {
+     "q": "古代二十四番花信风把牡丹对应到哪个节气？",
+     "options": [
+      "谷雨",
+      "冬至",
+      "立秋"
+     ],
+     "answer": 0,
+     "explain": "花信风传统把谷雨一候对应牡丹；不同地方实际花期并不完全相同。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peony-iplant",
+     "title": "中国植物志：牡丹",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peony-poem",
+     "title": "刘禹锡《赏牡丹》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "honeysuckle",
+   "questions": [
+    {
+     "q": "忍冬刚开的花通常是什么颜色？",
+     "options": [
+      "白色",
+      "蓝色",
+      "绿色"
+     ],
+     "answer": 0,
+     "explain": "花朵初开为白色，之后逐渐转黄。"
+    },
+    {
+     "q": "忍冬的叶子通常怎样长在枝条上？",
+     "options": [
+      "一片一片交替",
+      "两片相对",
+      "只长在根上"
+     ],
+     "answer": 1,
+     "explain": "忍冬叶片通常对生，也就是两片相对着生。"
+    },
+    {
+     "q": "忍冬成熟的浆果通常是什么颜色？",
+     "options": [
+      "亮蓝黑色",
+      "白色",
+      "橙色"
+     ],
+     "answer": 0,
+     "explain": "成熟果实为蓝黑色；果实只观察，不触摸、不入口。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-honeysuckle-wetland",
+     "title": "忍冬（金银花）",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "gardenia",
+   "questions": [
+    {
+     "q": "栀子的叶子通常怎样长？",
+     "options": [
+      "两片相对着长",
+      "像松针一样长",
+      "长在地下"
+     ],
+     "answer": 0,
+     "explain": "栀子叶通常对生，也就是两片叶子在枝条两侧相对生长。"
+    },
+    {
+     "q": "栀子的花冠通常是什么颜色？",
+     "options": [
+      "蓝色",
+      "白色或乳黄色",
+      "黑色"
+     ],
+     "answer": 1,
+     "explain": "植物志记载栀子花冠白色或乳黄色。"
+    },
+    {
+     "q": "栀子成熟的果实可能是什么颜色？",
+     "options": [
+      "黄色或橙红色",
+      "天蓝色",
+      "紫色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载果实成熟时可呈黄色或橙红色。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gardenia-wetland",
+     "title": "梔子",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "mugwort",
+   "questions": [
+    {
+     "q": "艾的叶子背面常有哪种颜色的绒毛？",
+     "options": [
+      "白色",
+      "蓝色",
+      "橙色"
+     ],
+     "answer": 0,
+     "explain": "植物志描述叶下面密被白色绒毛。"
+    },
+    {
+     "q": "艾通常是活一年还是多年？",
+     "options": [
+      "多年",
+      "一天",
+      "一个月"
+     ],
+     "answer": 0,
+     "explain": "植物智记载艾为多年生草本。"
+    },
+    {
+     "q": "艾通常在哪几个月开花？",
+     "options": [
+      "1—3月",
+      "7—10月",
+      "12月"
+     ],
+     "answer": 1,
+     "explain": "植物智记录花期为7—10月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "lotus",
+   "questions": [
+    {
+     "q": "荷花的叶子通常是什么形状？",
+     "options": [
+      "圆圆的",
+      "星星形",
+      "长长的针形"
+     ],
+     "answer": 0,
+     "explain": "植物志记载莲叶为盾状圆形。"
+    },
+    {
+     "q": "荷花通常生活在哪里？",
+     "options": [
+      "水边或水中",
+      "沙漠",
+      "树枝上"
+     ],
+     "answer": 0,
+     "explain": "莲是多年生水生草本。"
+    },
+    {
+     "q": "花谢后，花托会慢慢变成什么样？",
+     "options": [
+      "莲蓬",
+      "松果",
+      "麦穗"
+     ],
+     "answer": 0,
+     "explain": "花后花托逐渐膨大，形成莲蓬。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "mint",
+   "questions": [
+    {
+     "q": "薄荷叶通常怎样长？",
+     "options": [
+      "两片一对",
+      "长在地下",
+      "长成一根针"
+     ],
+     "answer": 0,
+     "explain": "薄荷叶通常对生，也就是两片相对着生。[1][2]"
+    },
+    {
+     "q": "薄荷的小花可能是什么颜色？",
+     "options": [
+      "只有鲜红色",
+      "淡紫色或白色",
+      "只有橙色"
+     ],
+     "answer": 1,
+     "explain": "植物志记载花冠淡紫或白色。[1][2]"
+    },
+    {
+     "q": "资料记载薄荷通常什么时候开花？",
+     "options": [
+      "7—9月",
+      "1—2月",
+      "11—12月"
+     ],
+     "answer": 0,
+     "explain": "植物志记载花期为7—9月；地点和栽培条件可能造成差异。[1][2]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "jasmine",
+   "questions": [
+    {
+     "q": "茉莉的叶子通常怎样长？",
+     "options": [
+      "两片相对着生",
+      "一片一片轮流长",
+      "长成针形"
+     ],
+     "answer": 0,
+     "explain": "植物志记载茉莉叶对生，也就是叶片成对长在茎两侧。[1]"
+    },
+    {
+     "q": "茉莉花冠常见什么颜色？",
+     "options": [
+      "蓝色",
+      "白色",
+      "黑色"
+     ],
+     "answer": 1,
+     "explain": "植物志记载茉莉花冠为白色。[1]"
+    },
+    {
+     "q": "茉莉成熟的果实是什么颜色？",
+     "options": [
+      "紫黑色",
+      "亮黄色",
+      "天蓝色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载果实成熟时呈紫黑色。[1]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "perilla",
+   "questions": [
+    {
+     "q": "紫苏的叶子通常怎样长在茎上？",
+     "options": [
+      "一片一片左右交替",
+      "两片相对",
+      "围成一圈"
+     ],
+     "answer": 1,
+     "explain": "紫苏叶为对生叶。[1]"
+    },
+    {
+     "q": "紫苏叶的边缘有什么特点？",
+     "options": [
+      "有粗锯齿",
+      "完全光滑",
+      "像针一样细"
+     ],
+     "answer": 0,
+     "explain": "植物志记载叶缘有粗锯齿。[1]"
+    },
+    {
+     "q": "紫苏花冠可能是什么颜色？",
+     "options": [
+      "白色到紫红色",
+      "只有鲜黄色",
+      "只有蓝色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载花冠白色至紫红色。[1]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "balsam",
+   "questions": [
+    {
+     "q": "凤仙花的叶子通常怎样排列？",
+     "options": [
+      "互生",
+      "都长在地下",
+      "排成一圈"
+     ],
+     "answer": 0,
+     "explain": "凤仙花叶通常互生。[1]"
+    },
+    {
+     "q": "凤仙花成熟果荚受触动可能怎样？",
+     "options": [
+      "裂开弹出种子",
+      "变成石头",
+      "长出翅膀"
+     ],
+     "answer": 0,
+     "explain": "成熟果荚可裂开并弹射种子；现实观察只看不触碰。[5]"
+    },
+    {
+     "q": "凤仙花常见的花长在哪里？",
+     "options": [
+      "叶腋处",
+      "根尖",
+      "树皮里"
+     ],
+     "answer": 0,
+     "explain": "花单生或数朵簇生在叶腋。[1]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-balsam-wbg",
+     "title": "欲染纤纤指——凤仙花",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "gourd",
+   "questions": [
+    {
+     "q": "葫芦属于哪个科？",
+     "options": [
+      "葫芦科",
+      "松科",
+      "兰科"
+     ],
+     "answer": 0,
+     "explain": "葫芦属于葫芦科。"
+    },
+    {
+     "q": "葫芦的卷须有什么观察特点？",
+     "options": [
+      "上部会分叉",
+      "长成羽毛",
+      "变成鱼鳍"
+     ],
+     "answer": 0,
+     "explain": "卷须上部分叉，可观察它如何攀援。"
+    },
+    {
+     "q": "葫芦成熟后的果皮会怎样？",
+     "options": [
+      "木质化",
+      "变成羽毛",
+      "变成花瓣"
+     ],
+     "answer": 0,
+     "explain": "植物志记载成熟果皮会木质化。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "osmanthus",
+   "questions": [
+    {
+     "q": "桂花的小花常长在哪里？",
+     "options": [
+      "叶腋里一簇簇",
+      "树根下面",
+      "叶片正中间"
+     ],
+     "answer": 0,
+     "explain": "植物志记载桂花花序簇生在叶腋。"
+    },
+    {
+     "q": "桂花通常在什么季节开花？",
+     "options": [
+      "春季",
+      "秋季",
+      "冬季"
+     ],
+     "answer": 1,
+     "explain": "常见花期为9月至10月上旬。"
+    },
+    {
+     "q": "桂花成熟的果实是什么颜色？",
+     "options": [
+      "紫黑色",
+      "蓝色",
+      "白色"
+     ],
+     "answer": 0,
+     "explain": "植物志记载果实成熟呈紫黑色。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "chrysanthemum",
+   "questions": [
+    {
+     "q": "菊花看起来的一朵大花，实际是什么？",
+     "options": [
+      "许多小花组成的头状花序",
+      "一片大叶子",
+      "一颗果实"
+     ],
+     "answer": 0,
+     "explain": "菊花的头状花序由许多小花组成。植物智"
+    },
+    {
+     "q": "菊花叶片长在茎上的样子是什么？",
+     "options": [
+      "一片一片交替长",
+      "两片总是面对面",
+      "叶片只长在花瓣上"
+     ],
+     "answer": 0,
+     "explain": "菊花叶为互生。植物智"
+    },
+    {
+     "q": "成都通常在哪个季节赏菊？",
+     "options": [
+      "秋季",
+      "隆冬积雪时",
+      "盛夏固定某一天"
+     ],
+     "answer": 0,
+     "explain": "成都植物园和成都市人民公园的公开资料都提到秋季菊展；具体最佳观赏期会受天气影响。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "cotton_rose",
+   "questions": [
+    {
+     "q": "木芙蓉的叶子常是什么样？",
+     "options": [
+      "掌状分裂",
+      "针形",
+      "圆球形"
+     ],
+     "answer": 0,
+     "explain": "木芙蓉叶常有5—7个掌状裂片。[1]"
+    },
+    {
+     "q": "木芙蓉花的颜色可能怎样变化？",
+     "options": [
+      "白或淡红转深红",
+      "绿变蓝",
+      "一直透明"
+     ],
+     "answer": 0,
+     "explain": "资料描述花色可由白或淡红转为深红。[1][2]"
+    },
+    {
+     "q": "在公园看见木芙蓉，哪种做法合适？",
+     "options": [
+      "只观察并拍照",
+      "摘一朵带走",
+      "把种子放入口中"
+     ],
+     "answer": 0,
+     "explain": "游戏采用不采、不摸、不尝的观察规则，让植物留在原处。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "ginkgo",
+   "questions": [
+    {
+     "q": "银杏叶最像哪种形状？",
+     "options": [
+      "小扇子",
+      "长针",
+      "圆球"
+     ],
+     "answer": 0,
+     "explain": "银杏叶通常呈扇形。"
+    },
+    {
+     "q": "银杏常见的花期在什么时候？",
+     "options": [
+      "春季3—4月",
+      "立冬",
+      "盛夏"
+     ],
+     "answer": 0,
+     "explain": "资料记载花期为3—4月，所以立冬关卡讲成都秋冬叶色，不是开花。"
+    },
+    {
+     "q": "树上常说的“白果”，植物学上是什么？",
+     "options": [
+      "种子",
+      "苹果",
+      "花瓣"
+     ],
+     "answer": 0,
+     "explain": "银杏是裸子植物，肉质外层是种皮，里面是种子，不是真正的果实。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "citrus",
+   "questions": [
+    {
+     "q": "植物志记录的柑橘花期大约在什么时候？",
+     "options": [
+      "4—5月",
+      "8—9月",
+      "12—1月"
+     ],
+     "answer": 0,
+     "explain": "植物志记录花期4—5月；具体品种和地点会有差异。[1]"
+    },
+    {
+     "q": "柑橘果实通常分成多少瓣？",
+     "options": [
+      "2—3瓣",
+      "7—14瓣",
+      "20多瓣"
+     ],
+     "answer": 1,
+     "explain": "植物志记载通常为7—14瓣，也存在变异。[1]"
+    },
+    {
+     "q": "柑橘叶片的叶尖常见什么特点？",
+     "options": [
+      "常有小凹口",
+      "总是分成三片",
+      "叶尖卷成圈"
+     ],
+     "answer": 0,
+     "explain": "植物志记载叶尖常有凹口，叶形存在变化。[1]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "garlic",
+   "questions": [
+    {
+     "q": "在盆里种大蒜，通常先放什么？",
+     "options": [
+      "蒜瓣",
+      "花瓣",
+      "小石子"
+     ],
+     "answer": 0,
+     "explain": "栽培大蒜通常由蒜瓣繁殖；家庭栽培也是分开蒜瓣后种植。[2][7]"
+    },
+    {
+     "q": "大蒜的叶子看起来像什么形状？",
+     "options": [
+      "扁平的宽条形",
+      "圆圆的三角形",
+      "带刺的球形"
+     ],
+     "answer": 0,
+     "explain": "植物志记载蒜叶为宽条形至条状披针形，扁平。[1]"
+    },
+    {
+     "q": "大蒜的花序长在什么地方？",
+     "options": [
+      "花葶顶端",
+      "地下根尖",
+      "蒜瓣里面"
+     ],
+     "answer": 0,
+     "explain": "植物志记载大蒜伞形花序着生于花葶顶端。[1]"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  },
+  {
+   "plantId": "wintersweet",
+   "questions": [
+    {
+     "q": "蜡梅的叶子通常怎样长？",
+     "options": [
+      "两片一对地长在枝条两侧",
+      "一片一片左右错开",
+      "三片围成一圈"
+     ],
+     "answer": 0,
+     "explain": "植物志描述蜡梅叶对生。"
+    },
+    {
+     "q": "成都的蜡梅通常在哪个季节观赏？",
+     "options": [
+      "冬季到早春",
+      "盛夏",
+      "秋季"
+     ],
+     "answer": 0,
+     "explain": "植物志记花期11月至翌年3月，成都1月也有观赏指数记录。"
+    },
+    {
+     "q": "看到蜡梅，哪种做法适合亲子观察？",
+     "options": [
+      "摘下来尝一尝",
+      "只看不摘、不入口",
+      "折一枝带回家"
+     ],
+     "answer": 1,
+     "explain": "中科院植物研究所资料记载相关部位有毒性警示，游戏按不入口、不采折处理。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "题目答案与植物志/来源核对；答错可无限重试，不扣奖励。"
+  }
+ ]
+}

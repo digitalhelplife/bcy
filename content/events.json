@@ -1,0 +1,75 @@
+{
+ "schema": "bencao.events/v1",
+ "note": "A6-A2 限时活动。只改变展示与推荐，不发额外奖励、不改关卡规则；学校假期不计入未成年人可玩日（holidays.json 只收国务院法定节假日）。",
+ "items": [
+  {
+   "eventId": "autumn_break_2026",
+   "title": "秋假特别篇 · 带娃去成都周边看秋天",
+   "startsAt": "2026-10-24T00:00:00+08:00",
+   "endsAt": "2026-11-22T23:59:59+08:00",
+   "dateNote": "成都市教育局安排中小学秋假 3 天，可与周末连休；不少学校定在 11 月 11–13 日，加周末为 11 月 11–15 日。具体以孩子学校通知为准。",
+   "dateSource": {
+    "title": "成都市教育局关于秋假安排的公开信息",
+    "publisher": "成都市教育局",
+    "url": "https://edu.chengdu.gov.cn/cdedu/c112857/2026-09/04/content_350a19e1f03f443c9c830bd8bea4579a.shtml",
+    "accessedAt": "2026-10-23"
+   },
+   "route": [
+    {
+     "sceneId": "dujiangyan",
+     "line": "先在游戏里认识鱼嘴、飞沙堰、宝瓶口，到现场对照着看水是怎么分开的。"
+    },
+    {
+     "sceneId": "qingcheng",
+     "line": "游戏里先找一找建福宫檐角；现场路线与步行强度以景区指引为准，量力而行。"
+    },
+    {
+     "sceneId": "jiezi",
+     "line": "游戏里找一找字库塔檐铃和古街木门板，到现场对照着慢慢看。"
+    }
+   ],
+   "termIds": [
+    "hanlu",
+    "shuangjiang",
+    "lidong"
+   ],
+   "gardenIdea": {
+    "title": "秋天的小院",
+    "plants": [
+     "chrysanthemum",
+     "cotton_rose",
+     "ginkgo",
+     "osmanthus"
+    ],
+    "items": [
+     "decor_lantern",
+     "decor_bench",
+     "decor_stone_table"
+    ],
+    "line": "菊花、木芙蓉、银杏和桂花都是秋天的植物，配上灯笼和石桌，拍一张秋天的小院。"
+   },
+   "journalTitle": "秋假 · 成都周边带娃看秋天",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chengdu-edu-autumn-break",
+     "title": "成都市教育局关于秋假安排的公开信息",
+     "publisher": "成都市教育局",
+     "url": "https://edu.chengdu.gov.cn/cdedu/c112857/2026-09/04/content_350a19e1f03f443c9c830bd8bea4579a.shtml",
+     "sourceType": "official",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "活动日期有官方来源；路线/小院建议只改变展示，不额外发奖；具体以学校通知为准。"
+  }
+ ]
+}

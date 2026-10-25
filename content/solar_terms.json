@@ -1,0 +1,1516 @@
+{
+ "schemaVersion": 1,
+ "calendarNote": "交节时刻为北京时间。verified=true 来自香港天文台/中央气象署公开年表（M4 前须换成紫金山天文台或国家授时中心数据）；verified=false 为算法推算，生产环境不开放。",
+ "computedMaxDeviationMinutes": 59.8,
+ "terms": [
+  {
+   "termId": "xiaohan",
+   "name": "小寒",
+   "order": 0,
+   "longitude": 285,
+   "plantId": "narcissus",
+   "phenology": "雁北乡：大雁开始往北飞了",
+   "challenge": "在正规栽培花坛远看水仙，数一数一枝上的花朵。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "dahan",
+   "name": "大寒",
+   "order": 1,
+   "longitude": 300,
+   "plantId": "plum_blossom",
+   "phenology": "鸡始乳：一年里最冷的时候",
+   "challenge": "在开放梅园远看花是否先于叶开放，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "lichun",
+   "name": "立春",
+   "order": 2,
+   "longitude": 315,
+   "plantId": "winter_jasmine",
+   "phenology": "东风解冻：春风吹来，冰开始化",
+   "challenge": "在许可的绿地远看黄花与三出复叶，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "yushui",
+   "name": "雨水",
+   "order": 3,
+   "longitude": 330,
+   "plantId": "rapeseed",
+   "phenology": "候雁北：雨多起来，大雁北归",
+   "challenge": "在农田边远看黄花，找四片花瓣，不进田不采摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "jingzhe",
+   "name": "惊蛰",
+   "order": 4,
+   "longitude": 345,
+   "plantId": "peach",
+   "phenology": "桃始华：桃花开始开了",
+   "challenge": "找到桃树，只看花叶先后，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "chunfen",
+   "name": "春分",
+   "order": 5,
+   "longitude": 0,
+   "plantId": "crabapple",
+   "phenology": "玄鸟至：燕子飞回来了",
+   "challenge": "远看花梗是否下垂？只观察拍照，不碰不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "qingming",
+   "name": "清明",
+   "order": 6,
+   "longitude": 15,
+   "plantId": "paulownia",
+   "phenology": "桐始华：泡桐开花了",
+   "challenge": "找一株先开花后长叶的大树，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "guyu",
+   "name": "谷雨",
+   "order": 7,
+   "longitude": 30,
+   "plantId": "peony",
+   "phenology": "萍始生：水面长出浮萍",
+   "challenge": "找标牌写牡丹的植株，远看叶与花，只拍照不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "lixia",
+   "name": "立夏",
+   "order": 8,
+   "longitude": 45,
+   "plantId": "honeysuckle",
+   "phenology": "蝼蝈鸣：田里开始有虫鸣",
+   "challenge": "观察叶腋成对的花，看白花与黄花，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "xiaoman",
+   "name": "小满",
+   "order": 9,
+   "longitude": 60,
+   "plantId": "gardenia",
+   "phenology": "苦菜秀：苦菜长得正茂盛",
+   "challenge": "找一株栽培栀子，远看叶花，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "mangzhong",
+   "name": "芒种",
+   "order": 10,
+   "longitude": 75,
+   "plantId": "mugwort",
+   "phenology": "螳螂生：小螳螂出生了",
+   "challenge": "在栽培展示区找艾叶背白绒毛，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "xiazhi",
+   "name": "夏至",
+   "order": 11,
+   "longitude": 90,
+   "plantId": "lotus",
+   "phenology": "鹿角解：白天最长的一天",
+   "challenge": "隔着栏杆找圆叶和花苞，不摘不越栏",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "xiaoshu",
+   "name": "小暑",
+   "order": 12,
+   "longitude": 105,
+   "plantId": "mint",
+   "phenology": "温风至：吹来的风变热了",
+   "challenge": "在允许观赏的种植花箱里找叶片成对的薄荷，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "dashu",
+   "name": "大暑",
+   "order": 13,
+   "longitude": 120,
+   "plantId": "jasmine",
+   "phenology": "腐草为萤：夏夜能见到萤火虫",
+   "challenge": "在有标识的园艺栽培区找茉莉，看叶子是否成对。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "liqiu",
+   "name": "立秋",
+   "order": 14,
+   "longitude": 135,
+   "plantId": "perilla",
+   "phenology": "凉风至：早晚有了凉风",
+   "challenge": "找一盆叶子两两相对、边缘有锯齿的植物，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "chushu",
+   "name": "处暑",
+   "order": 15,
+   "longitude": 150,
+   "plantId": "balsam",
+   "phenology": "鹰乃祭鸟：暑热慢慢退去",
+   "challenge": "只在自家花盆或获准观赏处远看叶与花，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "bailu",
+   "name": "白露",
+   "order": 16,
+   "longitude": 165,
+   "plantId": "gourd",
+   "phenology": "鸿雁来：草叶上有了露水",
+   "challenge": "观察栽培葫芦的心形叶和分叉卷须，只看不摸、不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "qiufen",
+   "name": "秋分",
+   "order": 17,
+   "longitude": 180,
+   "plantId": "osmanthus",
+   "phenology": "雷始收声：雷声渐渐少了",
+   "challenge": "在公园远看桂花树，找叶腋花簇；不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "hanlu",
+   "name": "寒露",
+   "order": 18,
+   "longitude": 195,
+   "plantId": "chrysanthemum",
+   "phenology": "鸿雁来宾：露水更凉了",
+   "challenge": "在人工栽培花坛找菊花花序，只看不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "shuangjiang",
+   "name": "霜降",
+   "order": 19,
+   "longitude": 210,
+   "plantId": "cotton_rose",
+   "phenology": "豺乃祭兽：开始有霜了",
+   "challenge": "在开放的城市绿地远观花色并拍照，不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "lidong",
+   "name": "立冬",
+   "order": 20,
+   "longitude": 225,
+   "plantId": "ginkgo",
+   "phenology": "水始冰：水面开始结薄冰",
+   "challenge": "只看不摘：找一片扇形银杏叶，观察它是否变黄。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "xiaoxue",
+   "name": "小雪",
+   "order": 21,
+   "longitude": 240,
+   "plantId": "citrus",
+   "phenology": "虹藏不见：彩虹很少见了",
+   "challenge": "在自家或获准参观的果园远看橘树，只拍照不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "daxue",
+   "name": "大雪",
+   "order": 22,
+   "longitude": 255,
+   "plantId": "garlic",
+   "phenology": "鹖鴠不鸣：天冷鸟儿少叫",
+   "challenge": "在自家盆栽里找一片扁平蒜叶，只看不碰不摘。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  },
+  {
+   "termId": "dongzhi",
+   "name": "冬至",
+   "order": 23,
+   "longitude": 270,
+   "plantId": "wintersweet",
+   "phenology": "蚯蚓结：白天最短的一天",
+   "challenge": "在开放园路旁找蜡梅花，只看不摘不摸。",
+   "challengeNotice": "只看不摘，爱护花木；外出注意安全，跟紧大人。",
+   "regionNotice": "各地花期会随天气变化。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-72hou",
+     "title": "二十四节气与七十二候（小寒页）",
+     "publisher": "共产党员网",
+     "url": "https://www.12371.cn/special/essjq/xh/",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "传统物候与节气文化",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "节气名称/候应为传统物候文本；交节时刻 verified=true 来自香港天文台/中央气象署，verified=false 为计算值且生产不开放。"
+  }
+ ],
+ "occurrences": [
+  {
+   "termId": "xiaohan",
+   "at": "2026-01-05T16:23:00+08:00",
+   "atMs": 1767601380000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dahan",
+   "at": "2026-01-20T09:45:00+08:00",
+   "atMs": 1768873500000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lichun",
+   "at": "2026-02-04T04:02:00+08:00",
+   "atMs": 1770148920000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "yushui",
+   "at": "2026-02-18T23:52:00+08:00",
+   "atMs": 1771429920000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "jingzhe",
+   "at": "2026-03-05T21:59:00+08:00",
+   "atMs": 1772719140000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chunfen",
+   "at": "2026-03-20T22:46:00+08:00",
+   "atMs": 1774017960000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qingming",
+   "at": "2026-04-05T02:40:00+08:00",
+   "atMs": 1775328000000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "guyu",
+   "at": "2026-04-20T09:39:00+08:00",
+   "atMs": 1776649140000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lixia",
+   "at": "2026-05-05T19:49:00+08:00",
+   "atMs": 1777981740000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoman",
+   "at": "2026-05-21T08:37:00+08:00",
+   "atMs": 1779323820000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "mangzhong",
+   "at": "2026-06-05T23:48:00+08:00",
+   "atMs": 1780674480000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiazhi",
+   "at": "2026-06-21T16:25:00+08:00",
+   "atMs": 1782030300000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoshu",
+   "at": "2026-07-07T09:57:00+08:00",
+   "atMs": 1783389420000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dashu",
+   "at": "2026-07-23T03:13:00+08:00",
+   "atMs": 1784747580000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "liqiu",
+   "at": "2026-08-07T19:43:00+08:00",
+   "atMs": 1786102980000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chushu",
+   "at": "2026-08-23T10:19:00+08:00",
+   "atMs": 1787451540000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "bailu",
+   "at": "2026-09-07T22:41:00+08:00",
+   "atMs": 1788792060000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qiufen",
+   "at": "2026-09-23T08:05:00+08:00",
+   "atMs": 1790121900000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "hanlu",
+   "at": "2026-10-08T14:29:00+08:00",
+   "atMs": 1791440940000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "shuangjiang",
+   "at": "2026-10-23T17:38:00+08:00",
+   "atMs": 1792748280000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lidong",
+   "at": "2026-11-07T17:52:00+08:00",
+   "atMs": 1794045120000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoxue",
+   "at": "2026-11-22T15:23:00+08:00",
+   "atMs": 1795332180000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "daxue",
+   "at": "2026-12-07T10:53:00+08:00",
+   "atMs": 1796611980000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dongzhi",
+   "at": "2026-12-22T04:50:00+08:00",
+   "atMs": 1797886200000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaohan",
+   "at": "2027-01-05T22:10:00+08:00",
+   "atMs": 1799158200000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dahan",
+   "at": "2027-01-20T15:30:00+08:00",
+   "atMs": 1800430200000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lichun",
+   "at": "2027-02-04T09:46:00+08:00",
+   "atMs": 1801705560000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "yushui",
+   "at": "2027-02-19T05:33:00+08:00",
+   "atMs": 1802986380000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "jingzhe",
+   "at": "2027-03-06T03:40:00+08:00",
+   "atMs": 1804275600000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chunfen",
+   "at": "2027-03-21T04:25:00+08:00",
+   "atMs": 1805574300000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qingming",
+   "at": "2027-04-05T08:17:00+08:00",
+   "atMs": 1806884220000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "guyu",
+   "at": "2027-04-20T15:18:00+08:00",
+   "atMs": 1808205480000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lixia",
+   "at": "2027-05-06T01:25:00+08:00",
+   "atMs": 1809537900000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoman",
+   "at": "2027-05-21T14:18:00+08:00",
+   "atMs": 1810880280000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "mangzhong",
+   "at": "2027-06-06T05:26:00+08:00",
+   "atMs": 1812230760000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiazhi",
+   "at": "2027-06-21T22:11:00+08:00",
+   "atMs": 1813587060000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoshu",
+   "at": "2027-07-07T15:37:00+08:00",
+   "atMs": 1814945820000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dashu",
+   "at": "2027-07-23T09:05:00+08:00",
+   "atMs": 1816304700000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "liqiu",
+   "at": "2027-08-08T01:27:00+08:00",
+   "atMs": 1817659620000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chushu",
+   "at": "2027-08-23T16:14:00+08:00",
+   "atMs": 1819008840000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "bailu",
+   "at": "2027-09-08T04:28:00+08:00",
+   "atMs": 1820348880000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qiufen",
+   "at": "2027-09-23T14:02:00+08:00",
+   "atMs": 1821679320000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "hanlu",
+   "at": "2027-10-08T20:17:00+08:00",
+   "atMs": 1822997820000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "shuangjiang",
+   "at": "2027-10-23T23:33:00+08:00",
+   "atMs": 1824305580000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lidong",
+   "at": "2027-11-07T23:39:00+08:00",
+   "atMs": 1825601940000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoxue",
+   "at": "2027-11-22T21:16:00+08:00",
+   "atMs": 1826889360000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "daxue",
+   "at": "2027-12-07T16:38:00+08:00",
+   "atMs": 1828168680000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dongzhi",
+   "at": "2027-12-22T10:42:00+08:00",
+   "atMs": 1829443320000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaohan",
+   "at": "2028-01-06T03:55:00+08:00",
+   "atMs": 1830714900000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dahan",
+   "at": "2028-01-20T21:22:00+08:00",
+   "atMs": 1831987320000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lichun",
+   "at": "2028-02-04T15:31:00+08:00",
+   "atMs": 1833262260000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "yushui",
+   "at": "2028-02-19T11:26:00+08:00",
+   "atMs": 1834543560000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "jingzhe",
+   "at": "2028-03-05T09:25:00+08:00",
+   "atMs": 1835832300000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chunfen",
+   "at": "2028-03-20T10:17:00+08:00",
+   "atMs": 1837131420000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qingming",
+   "at": "2028-04-04T14:03:00+08:00",
+   "atMs": 1838440980000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "guyu",
+   "at": "2028-04-19T21:09:00+08:00",
+   "atMs": 1839762540000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lixia",
+   "at": "2028-05-05T07:12:00+08:00",
+   "atMs": 1841094720000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoman",
+   "at": "2028-05-20T20:10:00+08:00",
+   "atMs": 1842437400000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "mangzhong",
+   "at": "2028-06-05T11:16:00+08:00",
+   "atMs": 1843787760000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiazhi",
+   "at": "2028-06-21T04:02:00+08:00",
+   "atMs": 1845144120000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoshu",
+   "at": "2028-07-06T21:30:00+08:00",
+   "atMs": 1846503000000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dashu",
+   "at": "2028-07-22T14:54:00+08:00",
+   "atMs": 1847861640000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "liqiu",
+   "at": "2028-08-07T07:21:00+08:00",
+   "atMs": 1849216860000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "chushu",
+   "at": "2028-08-22T22:01:00+08:00",
+   "atMs": 1850565660000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "bailu",
+   "at": "2028-09-07T10:22:00+08:00",
+   "atMs": 1851906120000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "qiufen",
+   "at": "2028-09-22T19:45:00+08:00",
+   "atMs": 1853235900000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "hanlu",
+   "at": "2028-10-08T02:09:00+08:00",
+   "atMs": 1854554940000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "shuangjiang",
+   "at": "2028-10-23T05:13:00+08:00",
+   "atMs": 1855861980000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lidong",
+   "at": "2028-11-07T05:27:00+08:00",
+   "atMs": 1857158820000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaoxue",
+   "at": "2028-11-22T02:54:00+08:00",
+   "atMs": 1858445640000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "daxue",
+   "at": "2028-12-06T22:25:00+08:00",
+   "atMs": 1859725500000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dongzhi",
+   "at": "2028-12-21T16:20:00+08:00",
+   "atMs": 1860999600000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "xiaohan",
+   "at": "2029-01-05T10:42:00+08:00",
+   "atMs": 1862275320000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "dahan",
+   "at": "2029-01-20T04:00:00+08:00",
+   "atMs": 1863547200000,
+   "verified": true,
+   "source": "src-hko-cwa-terms"
+  },
+  {
+   "termId": "lichun",
+   "at": "2029-02-03T21:18:00+08:00",
+   "atMs": 1864819080000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "yushui",
+   "at": "2029-02-18T17:08:00+08:00",
+   "atMs": 1866100080000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "jingzhe",
+   "at": "2029-03-05T15:12:00+08:00",
+   "atMs": 1867389120000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "chunfen",
+   "at": "2029-03-20T15:59:00+08:00",
+   "atMs": 1868687940000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "qingming",
+   "at": "2029-04-04T19:49:00+08:00",
+   "atMs": 1869997740000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "guyu",
+   "at": "2029-04-20T02:50:00+08:00",
+   "atMs": 1871319000000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "lixia",
+   "at": "2029-05-05T12:56:00+08:00",
+   "atMs": 1872651360000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "xiaoman",
+   "at": "2029-05-21T01:48:00+08:00",
+   "atMs": 1873993680000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "mangzhong",
+   "at": "2029-06-05T16:56:00+08:00",
+   "atMs": 1875344160000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "xiazhi",
+   "at": "2029-06-21T09:39:00+08:00",
+   "atMs": 1876700340000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "xiaoshu",
+   "at": "2029-07-07T03:08:00+08:00",
+   "atMs": 1878059280000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "dashu",
+   "at": "2029-07-22T20:32:00+08:00",
+   "atMs": 1879417920000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "liqiu",
+   "at": "2029-08-07T12:59:00+08:00",
+   "atMs": 1880773140000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "chushu",
+   "at": "2029-08-23T03:42:00+08:00",
+   "atMs": 1882122120000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "bailu",
+   "at": "2029-09-07T16:02:00+08:00",
+   "atMs": 1883462520000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "qiufen",
+   "at": "2029-09-23T01:30:00+08:00",
+   "atMs": 1884792600000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "hanlu",
+   "at": "2029-10-08T07:51:00+08:00",
+   "atMs": 1886111460000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "shuangjiang",
+   "at": "2029-10-23T11:03:00+08:00",
+   "atMs": 1887418980000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "lidong",
+   "at": "2029-11-07T11:14:00+08:00",
+   "atMs": 1888715640000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "xiaoxue",
+   "at": "2029-11-22T08:47:00+08:00",
+   "atMs": 1890002820000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "daxue",
+   "at": "2029-12-07T04:14:00+08:00",
+   "atMs": 1891282440000,
+   "verified": false,
+   "source": "computed-meeus"
+  },
+  {
+   "termId": "dongzhi",
+   "at": "2029-12-21T22:13:00+08:00",
+   "atMs": 1892556780000,
+   "verified": false,
+   "source": "computed-meeus"
+  }
+ ],
+ "sourceRefs": [
+  {
+   "id": "src-hko-cwa-terms",
+   "title": "二十四節氣的日期及時間資料",
+   "publisher": "香港天文台",
+   "url": "https://www.hko.gov.hk/tc/gts/astronomy/Solar_Term.htm",
+   "sourceType": "official",
+   "accessedAt": "2026-10-23"
+  },
+  {
+   "id": "src-72hou",
+   "title": "二十四节气与七十二候（小寒页）",
+   "publisher": "共产党员网",
+   "url": "https://www.12371.cn/special/essjq/xh/",
+   "sourceType": "authority",
+   "accessedAt": "2026-10-23",
+   "note": "七十二候为传统物候文本；逐条候应与《月令七十二候集解》传统文本核对。"
+  }
+ ]
+}

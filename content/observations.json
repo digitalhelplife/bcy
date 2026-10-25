@@ -1,0 +1,1172 @@
+{
+ "schemaVersion": 1,
+ "stageNames": [
+  "种子",
+  "发芽",
+  "长叶",
+  "开花或成熟"
+ ],
+ "items": [
+  {
+   "plantId": "narcissus",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "水仙常用鳞茎分球栽培，成长卡从圆圆的鳞茎开始观察。"
+    },
+    {
+     "stage": 1,
+     "text": "鳞茎顶端抽出叶；鳞片储存的养分支持生长。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片扁平呈长条形，叶脉平行，叶尖钝。"
+    },
+    {
+     "stage": 3,
+     "text": "一枝花葶上多朵花；白色花被中央有黄色副花冠。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "plum_blossom",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "梅果内有一枚硬核，种子藏在核中。"
+    },
+    {
+     "stage": 1,
+     "text": "梅核里藏着种子。播下后先观察盆土是否露出小芽，不用按固定天数倒计时。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片多为卵形或椭圆形，边缘有细锯齿。"
+    },
+    {
+     "stage": 3,
+     "text": "花先于叶开放，花期冬春；果期多在5—6月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "winter_jasmine",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "迎春花会结卵球形的小浆果，种子藏在果实里面；观察时只看植株和图片。"
+    },
+    {
+     "stage": 1,
+     "text": "春天先找枝条上的黄色小花，再看看花后新长出的三片一组小叶。"
+    },
+    {
+     "stage": 2,
+     "text": "叶对生，通常由三片小叶组成一组。"
+    },
+    {
+     "stage": 3,
+     "text": "黄色小花单生于去年生枝条叶腋。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "rapeseed",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "近球形，直径约1.5毫米，黄棕色。"
+    },
+    {
+     "stage": 1,
+     "text": "种皮裂开后，先会看见两片小小的子叶；每天看看它有没有把头钻出土。"
+    },
+    {
+     "stage": 2,
+     "text": "下部叶片可羽裂，上部叶基部抱茎。"
+    },
+    {
+     "stage": 3,
+     "text": "浅黄花后形成线形长角果，果期4—5月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-rapeseed-ibcas",
+     "title": "欧洲油菜物种介绍",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ibcas.ac.cn/2019gb/kepu/yuandi/201310/t20131025_3963028.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "peach",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "果核坚硬，核内有种仁；只看不敲、不尝。"
+    },
+    {
+     "stage": 1,
+     "text": "桃花常先叶开放，先看见花再看新叶。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片披针形，边缘可以看到细锯齿。"
+    },
+    {
+     "stage": 3,
+     "text": "花多为粉红色，少数白色；常见花径约3厘米。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "crabapple",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "秋季梨形小果内有种子，果期9—10月。"
+    },
+    {
+     "stage": 1,
+     "text": "播种后先观察盆土有没有露出小芽，并把第一天看见芽的日期记下来。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片卵形或椭圆形，嫩叶常带紫晕。"
+    },
+    {
+     "stage": 3,
+     "text": "开花/成熟：3—4月粉花下垂；小果9—10月成熟。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "paulownia",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "蒴果里有小而带翅的种子。"
+    },
+    {
+     "stage": 1,
+     "text": "种下带翅的小种子后，先记录第一片叶出现的日期，叶子会慢慢长成大心形。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片对生，常呈心形或长卵状心形。"
+    },
+    {
+     "stage": 3,
+     "text": "花常先于新叶开放，果实是长圆形蒴果。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-paulownia-iplant",
+     "title": "中国植物志：白花泡桐",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "peony",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种在蓇葖果内，成熟果表有黄褐色硬毛。"
+    },
+    {
+     "stage": 1,
+     "text": "播种苗通常次年早春出土，先长1—3片叶。"
+    },
+    {
+     "stage": 2,
+     "text": "叶多为二回三出复叶，小叶可见分裂。"
+    },
+    {
+     "stage": 3,
+     "text": "开花/成熟：花常单生枝顶，花后结蓇葖果。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peony-iplant",
+     "title": "中国植物志：牡丹",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peony-poem",
+     "title": "刘禹锡《赏牡丹》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "honeysuckle",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "成熟浆果圆形，熟时蓝黑色。"
+    },
+    {
+     "stage": 1,
+     "text": "多数种子在散落后的次年春季萌发。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片通常成对相对着生在枝条两侧。"
+    },
+    {
+     "stage": 3,
+     "text": "花初开白色，后转黄色，花期4—6月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-honeysuckle-wetland",
+     "title": "忍冬（金银花）",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "gardenia",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "成熟果实内有多数扁平、近圆的种子。"
+    },
+    {
+     "stage": 1,
+     "text": "林业科普资料记春播或秋播约20天出苗，实际受条件影响。"
+    },
+    {
+     "stage": 2,
+     "text": "叶通常对生，革质，叶面亮绿。"
+    },
+    {
+     "stage": 3,
+     "text": "花冠白色或乳黄色；果实成熟呈黄色或橙红色。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gardenia-wetland",
+     "title": "梔子",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gardenia-hunan-germination",
+     "title": "栀子花种子怎么种植",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201708/t20170818_4411789.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "mugwort",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "艾会结小小的瘦果。种下后不用数日子，留心土面何时冒出带白绒毛的新叶。"
+    },
+    {
+     "stage": 1,
+     "text": "春天可观察根茎旁冒出新芽，慢慢长成叶背白绒绒的小叶。"
+    },
+    {
+     "stage": 2,
+     "text": "叶互生、羽状深裂，叶背密被白色绒毛。"
+    },
+    {
+     "stage": 3,
+     "text": "椭圆形小头状花序成圆锥状，花期7—10月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "lotus",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种子卵形或椭圆形，藏在莲蓬孔里。"
+    },
+    {
+     "stage": 1,
+     "text": "盆栽观察中，浮叶长出后再逐步加高水位。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片圆而盾形，叶柄把叶片托出水面。"
+    },
+    {
+     "stage": 3,
+     "text": "花后花托膨大成莲蓬；果期约8—10月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "mint",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种子/果实：果期10月，黄褐色小坚果表面有洼点。"
+    },
+    {
+     "stage": 1,
+     "text": "播种后先看看土面有没有细小新芽，把第一次看见芽的日期写进观察本。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片通常两两相对着生，边缘有粗锯齿。"
+    },
+    {
+     "stage": 3,
+     "text": "资料记载花期7—9月，花冠淡紫或白色。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "jasmine",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "成熟果实球形，约1厘米，呈紫黑色。"
+    },
+    {
+     "stage": 1,
+     "text": "盆土保持湿润时，留心土面有没有一对小叶伸出来，并记录见芽的那一天。"
+    },
+    {
+     "stage": 2,
+     "text": "单叶对生，叶片成对着生在茎两侧。"
+    },
+    {
+     "stage": 3,
+     "text": "花冠白色，顶生花序通常3朵；花期5—8月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "perilla",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "小坚果近球形、灰褐色，约1.5毫米。"
+    },
+    {
+     "stage": 1,
+     "text": "湿度适宜、约25℃时，种子约3—4天萌芽。"
+    },
+    {
+     "stage": 2,
+     "text": "叶子两两相对，边缘有粗锯齿。"
+    },
+    {
+     "stage": 3,
+     "text": "花冠白色至紫红色；花期8—11月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-perilla-xilingol",
+     "title": "紫苏栽培技术",
+     "publisher": "锡林郭勒盟农牧局",
+     "url": "https://nmj.xlgl.gov.cn/nmj/nmyw/syjs/d4b1ad2f10ed441b9ba42d348f4c8c36/index.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "balsam",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种子多数，圆球形、黑褐色，直径约1.5—3毫米。"
+    },
+    {
+     "stage": 1,
+     "text": "20—28℃适宜发芽，资料记载约一周出芽。"
+    },
+    {
+     "stage": 2,
+     "text": "叶子通常互生，叶缘有明显锯齿。"
+    },
+    {
+     "stage": 3,
+     "text": "花单生或数朵簇生叶腋；成熟果荚受触动会弹出种子，只看不碰。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-balsam-wbg",
+     "title": "欲染纤纤指——凤仙花",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-balsam-shanwei",
+     "title": "植物科普——凤仙花",
+     "publisher": "汕尾市公用事业事务中心",
+     "url": "https://www.shanwei.gov.cn/swylj/hud/ywzsk/content/post_792059.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "gourd",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种子白色，倒卵形或三角形，约2厘米长。"
+    },
+    {
+     "stage": 1,
+     "text": "春播后，先从土里探出两片厚厚子叶，再等卷须像小弹簧一样长出来。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片心形或肾形；卷须上部会分叉，帮助藤蔓攀援。"
+    },
+    {
+     "stage": 3,
+     "text": "夏季开花、秋季结果；成熟果皮会木质化。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "osmanthus",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "成熟果实紫黑色，果内有种子。"
+    },
+    {
+     "stage": 1,
+     "text": "种子有后熟期，裂口露白后可播种。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片革质，多为椭圆形至椭圆状披针形。"
+    },
+    {
+     "stage": 3,
+     "text": "花簇生叶腋；果熟时转为紫黑色。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-osmanthus-hunan-seed",
+     "title": "桂花种子的采收、树苗的培育",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2617222.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "chrysanthemum",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "菊花瘦果通常不发育，常用嫩枝扦插。"
+    },
+    {
+     "stage": 1,
+     "text": "嫩枝插穗合适条件下约20天生根。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片互生，边缘有锯齿或裂片。"
+    },
+    {
+     "stage": 3,
+     "text": "一个头状花序由许多小花组成，花色多样。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-chrysanthemum-wbg-cutting",
+     "title": "菊花扦插科普",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/zrjy/hbsjt/201306/t20130607_3861646.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "cotton_rose",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "肾形，背面有长柔毛。"
+    },
+    {
+     "stage": 1,
+     "text": "所需天数未核实，不设倒计时。"
+    },
+    {
+     "stage": 2,
+     "text": "叶常有5—7个裂片，叶背有细绒毛。"
+    },
+    {
+     "stage": 3,
+     "text": "花初白或淡红，后来可变深红。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "个别发芽/生长时长未核实，文本未作固定承诺；形态与物候来源已核对。"
+  },
+  {
+   "plantId": "ginkgo",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "肉质外种皮包着种子，银杏不结真正果实。"
+    },
+    {
+     "stage": 1,
+     "text": "发芽/幼苗：实生树生长较慢，栽后结果常需二十多年。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片扇形、叶脉近平行，秋叶会转金黄。"
+    },
+    {
+     "stage": 3,
+     "text": "雌雄异株；花期3—4月，种子9—10月成熟。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "citrus",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "柑橘种子常见多胚现象。"
+    },
+    {
+     "stage": 1,
+     "text": "从种子出芽开始，记录第一片真叶变成亮绿色的日期，再观察枝条会不会长出小刺。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片形态多变，叶尖常有凹口。"
+    },
+    {
+     "stage": 3,
+     "text": "花期4—5月，果期10—12月。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "garlic",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "繁殖体：栽培大蒜通常由蒜瓣繁殖，不靠常见真种子。"
+    },
+    {
+     "stage": 1,
+     "text": "蒜瓣栽下后约一周可陆续见芽。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片扁平呈宽条形，叶尖渐尖。"
+    },
+    {
+     "stage": 3,
+     "text": "花葶顶端可成伞形花序，植物志记花期7月；栽培蒜常不能正常开花结果。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-garlic-tw-agri",
+     "title": "大蒜种植知多少——蒜苗居家栽培",
+     "publisher": "农业知识入口网（台湾）",
+     "url": "https://kmweb.moa.gov.tw/knowledgebase.php?id=420514",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "四个阶段的形态/物候描述已核对来源；不把家庭发芽天数写成保证。"
+  },
+  {
+   "plantId": "wintersweet",
+   "stages": [
+    {
+     "stage": 0,
+     "text": "种子藏在近木质化、坛状果托里；只看图，不入口。"
+    },
+    {
+     "stage": 1,
+     "text": "成都家庭条件下可靠发芽时长未核实；观察是否出芽。"
+    },
+    {
+     "stage": 2,
+     "text": "叶片对生，叶缘全缘；资料描述叶面摸起来较粗糙。"
+    },
+    {
+     "stage": 3,
+     "text": "花常先于叶开放，着生在上一年枝条的叶腋处。"
+    }
+   ],
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "个别发芽/生长时长未核实，文本未作固定承诺；形态与物候来源已核对。"
+  }
+ ]
+}

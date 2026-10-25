@@ -1,0 +1,610 @@
+# 内容审核工作包（自动生成）
+
+生成时间：2026-10-25T05:09:04.186Z
+条目：192；状态：approved=192
+
+> **这不是审核结果，也不是批准。** 只有署名审核人核对来源后，才能在对应 JSON 中把 `reviewStatus` 改为 `approved`，并填写 `reviewer`、`reviewedAt` 和 `sourceRefs`。禁止批量改 approved，禁止为了通过 S1+ 门禁而修改状态。
+
+## 审核字段模板
+
+```json
+{ "reviewStatus": "approved", "reviewer": "<审核人姓名/机构>", "reviewedAt": "YYYY-MM-DD", "sourceRefs": [/* 至少 1 条可核对来源 */] }
+```
+
+## 汇总
+
+| 文件 | 条目 | 未审核 | 已通过 |
+|---|---:|---:|---:|
+| compliance.json | 1 | 0 | 1 |
+| crafts.json | 6 | 0 | 6 |
+| events.json | 1 | 0 | 1 |
+| holidays.json | 1 | 0 | 1 |
+| observations.json | 24 | 0 | 24 |
+| parent_tips.json | 36 | 0 | 36 |
+| plant_cards.json | 24 | 0 | 24 |
+| plants.json | 24 | 0 | 24 |
+| quizzes.json | 24 | 0 | 24 |
+| sets.json | 8 | 0 | 8 |
+| solar_terms.json | 24 | 0 | 24 |
+| think_questions.json | 6 | 0 | 6 |
+| trip_cards.json | 3 | 0 | 3 |
+| visitors.json | 10 | 0 | 10 |
+
+## 逐条清单
+
+- [ ] `compliance.json` · **$** · $ · `approved`
+  - 来源（2）：原新闻出版总署《关于在游戏出版物中登载《健康游戏忠告》的通知（新出音〔2003〕861号）》https://www.chinanews.com.cn/n/2003-09-24/26/350056.html；本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_garlic_sprout** · $.items[4] · `approved`
+  - 来源（2）：大众新闻《博山区实验幼儿园开展“水培蒜苗成长记”活动》https://m.dzplus.dzng.com/share/general/0/NEWS2009595DILRTVHWPXNDX；中国疾控中心职业卫生与中毒控制所《水仙有毒吗？》https://niohp.chinacdc.cn/zdyyjzt/zdcjwtjd/201405/t20140530_97622.htm
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_ginkgo_bookmark** · $.items[2] · `approved`
+  - 来源（2）：中国科学院昆明植物研究所《植物叶片书签的制作方法》https://kib.cas.cn/kxcb/kpwz/201303/t20130313_3791247.html；香港食物安全中心《银杏树——种子含毒素的活化石》https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_149_01.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_herb_sachet** · $.items[1] · `approved`
+  - 来源（1）：犍为县人民政府《端午主题文明实践活动》http://www.qianwei.gov.cn/qwx/xzdt/7ea1c8e035ac40ae9a51f03ae.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_leaf_print** · $.items[3] · `approved`
+  - 来源（2）：陵川县人民政府《植物拓染活动》http://www.lczf.gov.cn/phone/zxzx/bmdt/202405/t20240527_1987693.shtml；北京北海公园《“自然印记·植物拓染工坊”科普活动回顾》https://peking.bjd.com.cn/content/s6815822be4b0380e186baf40.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_pressed_bookmark** · $.items[0] · `approved`
+  - 来源（2）：中国科学院武汉植物园《植物标本制作哪有这么简单》http://www.wbg.cas.cn/KPPJ/zrjy/hbsjt/201701/t20170123_4740338.html；中国科学院昆明植物研究所《植物叶片书签的制作方法》https://kib.cas.cn/kxcb/kpwz/201303/t20130313_3791247.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `crafts.json` · **craft_season_bouquet** · $.items[5] · `approved`
+  - 来源（2）：犍为县人民政府《端午主题文明实践活动》http://www.qianwei.gov.cn/qwx/xzdt/7ea1c8e035ac40ae9a51f03ae.html；济南市园林和林业绿化局《艾香盈门，手作传情｜泉民园艺中心端午活动》https://jnly.jinan.gov.cn/col/col38983/art/2026/art_c031ab702f2649d0a10d3083063409fa.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `events.json` · **$.items[0]** · $.items[0] · `approved`
+  - 来源（1）：成都市教育局《成都市教育局关于秋假安排的公开信息》https://edu.chengdu.gov.cn/cdedu/c112857/2026-09/04/content_350a19e1f03f443c9c830bd8bea4579a.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `holidays.json` · **holidays_2026_v1** · $ · `approved`
+  - 来源（1）：国务院办公厅《国务院办公厅关于2026年部分节假日安排的通知（国办发明电〔2025〕7号）》http://www.scio.gov.cn/zdgz/jj/202511/t20251110_938367.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **balsam** · $.items[15] · `approved`
+  - 来源（2）：中国科学院武汉植物园《欲染纤纤指——凤仙花》http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html；汕尾市公用事业事务中心《植物科普——凤仙花》https://www.shanwei.gov.cn/swylj/hud/ywzsk/content/post_792059.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **chrysanthemum** · $.items[18] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z；中国科学院武汉植物园《菊花扦插科普》http://www.wbg.cas.cn/KPPJ/zrjy/hbsjt/201306/t20130607_3861646.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **citrus** · $.items[21] · `approved`
+  - 来源（1）：中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **cotton_rose** · $.items[19] · `approved`
+  - 来源（1）：中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **crabapple** · $.items[5] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **gardenia** · $.items[9] · `approved`
+  - 来源（2）：香港湿地公园《梔子》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides；湖南省林业局《栀子花种子怎么种植》http://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201708/t20170818_4411789.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **garlic** · $.items[22] · `approved`
+  - 来源（2）：中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html；农业知识入口网（台湾）《大蒜种植知多少——蒜苗居家栽培》https://kmweb.moa.gov.tw/knowledgebase.php?id=420514
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **ginkgo** · $.items[20] · `approved`
+  - 来源（6）：植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **gourd** · $.items[16] · `approved`
+  - 来源（2）：植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **honeysuckle** · $.items[8] · `approved`
+  - 来源（1）：香港湿地公园《忍冬（金银花）》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **jasmine** · $.items[13] · `approved`
+  - 来源（1）：香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **lotus** · $.items[11] · `approved`
+  - 来源（1）：植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **mint** · $.items[12] · `approved`
+  - 来源（1）：PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **mugwort** · $.items[10] · `approved`
+  - 来源（1）：中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **narcissus** · $.items[0] · `approved`
+  - 来源（1）：国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **osmanthus** · $.items[17] · `approved`
+  - 来源（2）：中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html；湖南省林业局《桂花种子的采收、树苗的培育》http://lyj.hunan.gov.cn/tslm_71206/lykp/syjs/201512/t20151227_2617222.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **paulownia** · $.items[6] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：白花泡桐》https://www.iplant.cn/info/Paulownia%20fortunei?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **peach** · $.items[4] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **peony** · $.items[7] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：牡丹》https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z；古诗文网《刘禹锡《赏牡丹》》https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **perilla** · $.items[14] · `approved`
+  - 来源（2）：陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html；锡林郭勒盟农牧局《紫苏栽培技术》https://nmj.xlgl.gov.cn/nmj/nmyw/syjs/d4b1ad2f10ed441b9ba42d348f4c8c36/index.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **plum_blossom** · $.items[1] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **rapeseed** · $.items[3] · `approved`
+  - 来源（2）：国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml；中国科学院植物研究所《欧洲油菜物种介绍》http://www.ibcas.ac.cn/2019gb/kepu/yuandi/201310/t20131025_3963028.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **winter_jasmine** · $.items[2] · `approved`
+  - 来源（1）：中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `observations.json` · **wintersweet** · $.items[23] · `approved`
+  - 来源（1）：中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_balsam** · $.items[15] · `approved`
+  - 来源（1）：中国科学院武汉植物园《欲染纤纤指——凤仙花》http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_chrysanthemum** · $.items[18] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_citrus** · $.items[21] · `approved`
+  - 来源（1）：中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_cotton_rose** · $.items[19] · `approved`
+  - 来源（1）：中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_crabapple** · $.items[5] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_gardenia** · $.items[9] · `approved`
+  - 来源（1）：香港湿地公园《梔子》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_garlic** · $.items[22] · `approved`
+  - 来源（1）：中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_ginkgo** · $.items[20] · `approved`
+  - 来源（6）：植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_gourd** · $.items[16] · `approved`
+  - 来源（2）：植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_honeysuckle** · $.items[8] · `approved`
+  - 来源（1）：香港湿地公园《忍冬（金银花）》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_jasmine** · $.items[13] · `approved`
+  - 来源（1）：香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_lotus** · $.items[11] · `approved`
+  - 来源（1）：植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_mint** · $.items[12] · `approved`
+  - 来源（1）：PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_mugwort** · $.items[10] · `approved`
+  - 来源（1）：中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_narcissus** · $.items[0] · `approved`
+  - 来源（1）：国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_osmanthus** · $.items[17] · `approved`
+  - 来源（1）：中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_paulownia** · $.items[6] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：白花泡桐》https://www.iplant.cn/info/Paulownia%20fortunei?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_peach** · $.items[4] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_peony** · $.items[7] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：牡丹》https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z；古诗文网《刘禹锡《赏牡丹》》https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_perilla** · $.items[14] · `approved`
+  - 来源（1）：陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_plum_blossom** · $.items[1] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_rapeseed** · $.items[3] · `approved`
+  - 来源（1）：国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_winter_jasmine** · $.items[2] · `approved`
+  - 来源（1）：中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_plant_wintersweet** · $.items[23] · `approved`
+  - 来源（1）：中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_puzzle_dujiangyan** · $.items[33] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：都江堰》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_puzzle_jiezi** · $.items[35] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_puzzle_qingcheng** · $.items[34] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_baopingkou** · $.items[26] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：都江堰》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_cloud_plaque** · $.items[28] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_feishayan** · $.items[25] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：都江堰》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_ginkgo_leaf** · $.items[31] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_jianfu_eave** · $.items[27] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：青城山》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_352acb5800a041f083e4c2fb0bbe16ae.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_old_door** · $.items[32] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_paper_boat** · $.items[29] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_yuzui** · $.items[24] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：都江堰》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `parent_tips.json` · **tip_target_ziku_bell** · $.items[30] · `approved`
+  - 来源（1）：成都市人民政府《成都市人民政府·去哪耍：街子古镇》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_bdb13b600742473d812be3e561237e87.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **balsam** · $.items[15] · `approved`
+  - 来源（1）：中国科学院武汉植物园《欲染纤纤指——凤仙花》http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **chrysanthemum** · $.items[18] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **citrus** · $.items[21] · `approved`
+  - 来源（1）：中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **cotton_rose** · $.items[19] · `approved`
+  - 来源（1）：中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **crabapple** · $.items[5] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **gardenia** · $.items[9] · `approved`
+  - 来源（1）：香港湿地公园《梔子》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **garlic** · $.items[22] · `approved`
+  - 来源（1）：中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **ginkgo** · $.items[20] · `approved`
+  - 来源（6）：植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **gourd** · $.items[16] · `approved`
+  - 来源（2）：植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **honeysuckle** · $.items[8] · `approved`
+  - 来源（1）：香港湿地公园《忍冬（金银花）》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **jasmine** · $.items[13] · `approved`
+  - 来源（1）：香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **lotus** · $.items[11] · `approved`
+  - 来源（1）：植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **mint** · $.items[12] · `approved`
+  - 来源（1）：PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **mugwort** · $.items[10] · `approved`
+  - 来源（1）：中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **narcissus** · $.items[0] · `approved`
+  - 来源（1）：国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **osmanthus** · $.items[17] · `approved`
+  - 来源（1）：中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **paulownia** · $.items[6] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：白花泡桐》https://www.iplant.cn/info/Paulownia%20fortunei?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **peach** · $.items[4] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **peony** · $.items[7] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：牡丹》https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z；古诗文网《刘禹锡《赏牡丹》》https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **perilla** · $.items[14] · `approved`
+  - 来源（1）：陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **plum_blossom** · $.items[1] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **rapeseed** · $.items[3] · `approved`
+  - 来源（1）：国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **winter_jasmine** · $.items[2] · `approved`
+  - 来源（1）：中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plant_cards.json` · **wintersweet** · $.items[23] · `approved`
+  - 来源（1）：中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **balsam** · $.plants[15] · `approved`
+  - 来源（1）：中国科学院武汉植物园《欲染纤纤指——凤仙花》http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **chrysanthemum** · $.plants[18] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **citrus** · $.plants[21] · `approved`
+  - 来源（1）：中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **cotton_rose** · $.plants[19] · `approved`
+  - 来源（1）：中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **crabapple** · $.plants[5] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **gardenia** · $.plants[9] · `approved`
+  - 来源（1）：香港湿地公园《梔子》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **garlic** · $.plants[22] · `approved`
+  - 来源（1）：中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **ginkgo** · $.plants[20] · `approved`
+  - 来源（6）：植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **gourd** · $.plants[16] · `approved`
+  - 来源（2）：植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **honeysuckle** · $.plants[8] · `approved`
+  - 来源（1）：香港湿地公园《忍冬（金银花）》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **jasmine** · $.plants[13] · `approved`
+  - 来源（1）：香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **lotus** · $.plants[11] · `approved`
+  - 来源（1）：植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **mint** · $.plants[12] · `approved`
+  - 来源（1）：PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **mugwort** · $.plants[10] · `approved`
+  - 来源（1）：中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **narcissus** · $.plants[0] · `approved`
+  - 来源（1）：国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **osmanthus** · $.plants[17] · `approved`
+  - 来源（1）：中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **paulownia** · $.plants[6] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：白花泡桐》https://www.iplant.cn/info/Paulownia%20fortunei?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **peach** · $.plants[4] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **peony** · $.plants[7] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：牡丹》https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z；古诗文网《刘禹锡《赏牡丹》》https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **perilla** · $.plants[14] · `approved`
+  - 来源（1）：陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **plum_blossom** · $.plants[1] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **rapeseed** · $.plants[3] · `approved`
+  - 来源（1）：国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **winter_jasmine** · $.plants[2] · `approved`
+  - 来源（1）：中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `plants.json` · **wintersweet** · $.plants[23] · `approved`
+  - 来源（1）：中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **balsam** · $.items[15] · `approved`
+  - 来源（1）：中国科学院武汉植物园《欲染纤纤指——凤仙花》http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **chrysanthemum** · $.items[18] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **citrus** · $.items[21] · `approved`
+  - 来源（1）：中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **cotton_rose** · $.items[19] · `approved`
+  - 来源（1）：中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **crabapple** · $.items[5] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **gardenia** · $.items[9] · `approved`
+  - 来源（1）：香港湿地公园《梔子》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **garlic** · $.items[22] · `approved`
+  - 来源（1）：中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **ginkgo** · $.items[20] · `approved`
+  - 来源（6）：植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **gourd** · $.items[16] · `approved`
+  - 来源（2）：植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **honeysuckle** · $.items[8] · `approved`
+  - 来源（1）：香港湿地公园《忍冬（金银花）》https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **jasmine** · $.items[13] · `approved`
+  - 来源（1）：香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **lotus** · $.items[11] · `approved`
+  - 来源（1）：植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **mint** · $.items[12] · `approved`
+  - 来源（1）：PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **mugwort** · $.items[10] · `approved`
+  - 来源（1）：中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **narcissus** · $.items[0] · `approved`
+  - 来源（1）：国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **osmanthus** · $.items[17] · `approved`
+  - 来源（1）：中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **paulownia** · $.items[6] · `approved`
+  - 来源（1）：植物智 iPlant《中国植物志：白花泡桐》https://www.iplant.cn/info/Paulownia%20fortunei?t=z
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **peach** · $.items[4] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **peony** · $.items[7] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：牡丹》https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z；古诗文网《刘禹锡《赏牡丹》》https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **perilla** · $.items[14] · `approved`
+  - 来源（1）：陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **plum_blossom** · $.items[1] · `approved`
+  - 来源（2）：植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **rapeseed** · $.items[3] · `approved`
+  - 来源（1）：国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **winter_jasmine** · $.items[2] · `approved`
+  - 来源（1）：中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `quizzes.json` · **wintersweet** · $.items[23] · `approved`
+  - 来源（1）：中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_dujiangyan** · $.items[0] · `approved`
+  - 来源（3）：本项目《游戏原创设定》；PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343；植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_field_corner** · $.items[7] · `approved`
+  - 来源（5）：本项目《游戏原创设定》；国家林业和草原局《油菜花给蜜蜂精心设计“路标”》https://www.forestry.gov.cn/c/www/dzw/558014.jhtml；中国科学院昆明植物研究所《蒜的栽培史》http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html；植物智 iPlant《植物智：葫芦》https://www.iplant.cn/info/Lagenaria%20siceraria；浙江省科技馆《从骨笛到羌笛：古人都玩什么乐器？》https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_golden_lidong** · $.items[5] · `approved`
+  - 来源（8）：本项目《游戏原创设定》；植物智 iPlant《植物智名称分类》https://www.iplant.cn/info/Ginkgo%20biloba?t=n；陕西省西安植物园（陕西省植物研究所）《陕西省西安植物园（陕西省植物研究所）《每周一花》》https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html；四川在线《四川在线《【人境·物候】孙海｜立冬之银杏》》https://sichuan.scol.com.cn/xwtg/202011/57955333.html；中国文化研究院《中国文化研究院《什么是二十四番花信风？》》https://chiculture.org.hk/sc/china-five-thousand-years/1635；湖南省林业局《银杏（Ginkgo biloba L.）》http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html；北京市卫生健康委员会 / 北京小汤山医院《植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）》https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html；中国科学院西安光学精密机械研究所《说橘》https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_rong_autumn** · $.items[4] · `approved`
+  - 来源（4）：本项目《游戏原创设定》；中国科学院华南植物园《闻香识花儿——桂花》https://scbg.cas.cn/hx/201102/t20110223_6734299.html；植物智 iPlant《中国植物志：菊花》https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z；中国科学院华南植物园《妩媚妖娆木芙蓉》https://scbg.cas.cn/hx/200910/t20091019_6734086.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_spring_flowers** · $.items[1] · `approved`
+  - 来源（6）：本项目《游戏原创设定》；中国科学院植物研究所《春天来了，如何辨别迎春和连翘？》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html；植物智 iPlant《中国植物志：桃》https://www.iplant.cn/info/Prunus%20persica?t=z；古诗文网《《诗经·周南·桃夭》》https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx；植物智 iPlant《中国植物志：垂丝海棠》https://www.iplant.cn/info/Malus%20halliana?t=z；中国文化研究院《什么是二十四番花信风？》https://chiculture.org.hk/sc/china-five-thousand-years/1635
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_summer_herbs** · $.items[2] · `approved`
+  - 来源（4）：本项目《游戏原创设定》；中国科学院武汉植物园《春日之味——“艾”在我们生活中扮演了哪些角色？》http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html；陕西省西安植物园《厨房里的香料植物：紫苏》http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html；PPBC中国植物图像库《薄荷 Mentha canadensis》https://ppbc.iplant.cn/sp/220343
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_summer_pond** · $.items[3] · `approved`
+  - 来源（3）：本项目《游戏原创设定》；植物智 iPlant《植物智：莲》https://www.iplant.cn/info/Nelumbo%20nucifera；香港特别行政区政府渔农自然护理署《香港植物标本室：茉莉花》https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `sets.json` · **set_winter_window** · $.items[6] · `approved`
+  - 来源（5）：本项目《游戏原创设定》；中国科学院植物研究所《惟有腊梅破，凌雪独自开》http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html；国家林业和草原局《水仙花：在下不才，春节标配》https://www.forestry.gov.cn/c/www/dzw/658669.jhtml；植物智 iPlant《中国植物志：梅》https://www.iplant.cn/info/Prunus%20mume?t=z；古诗文网《王安石《梅花》》https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **balsam** · $.terms[15] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **chrysanthemum** · $.terms[18] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **citrus** · $.terms[21] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **cotton_rose** · $.terms[19] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **crabapple** · $.terms[5] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **gardenia** · $.terms[9] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **garlic** · $.terms[22] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **ginkgo** · $.terms[20] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **gourd** · $.terms[16] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **honeysuckle** · $.terms[8] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **jasmine** · $.terms[13] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **lotus** · $.terms[11] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **mint** · $.terms[12] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **mugwort** · $.terms[10] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **narcissus** · $.terms[0] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **osmanthus** · $.terms[17] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **paulownia** · $.terms[6] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **peach** · $.terms[4] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **peony** · $.terms[7] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **perilla** · $.terms[14] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **plum_blossom** · $.terms[1] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **rapeseed** · $.terms[3] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **winter_jasmine** · $.terms[2] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `solar_terms.json` · **wintersweet** · $.terms[23] · `approved`
+  - 来源（1）：共产党员网《二十四节气与七十二候（小寒页）》https://www.12371.cn/special/essjq/xh/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[0]** · $.items[0] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[1]** · $.items[1] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[2]** · $.items[2] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[3]** · $.items[3] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[4]** · $.items[4] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `think_questions.json` · **$.items[5]** · $.items[5] · `approved`
+  - 来源（1）：本项目《游戏原创设定》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `trip_cards.json` · **dujiangyan** · $.items[0] · `approved`
+  - 来源（4）：成都市人民政府《成都市人民政府·去哪耍：都江堰》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_79b3b87da7c44f6aa6598ce7d520d5e3.shtml；本项目《PRD 6.3 出行卡边界》；都江堰市人民政府《旅游地图》https://www.djy.gov.cn/dyjgb_rmzfwz/c181378/lymap.shtml；中国非物质文化遗产网（文化和旅游部主管）《都江堰放水节》https://www.ihchina.cn/project_details/14973/
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `trip_cards.json` · **jiezi** · $.items[2] · `approved`
+  - 来源（4）：成都市人民政府《成都市人民政府·去哪耍：街子古镇》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_bdb13b600742473d812be3e561237e87.shtml；本项目《PRD 6.3 出行卡边界》；人民网-中国共产党新闻网《四川崇州市街子古镇：党建赋能跑出古镇文旅发展“加速度”》http://dangjian.people.com.cn/n1/2022/0802/c441888-32492316.html；央广网《“着汉服、对古诗，得门票” 成都崇州银杏季开启》https://sc.cnr.cn/scpd/ycjx/20241109/t20241109_526969800.shtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `trip_cards.json` · **qingcheng** · $.items[1] · `approved`
+  - 来源（3）：成都市人民政府《成都市人民政府·去哪耍：青城山》https://www.chengdu.gov.cn/cdsrmzf/c182025/2026-05/20/content_352acb5800a041f083e4c2fb0bbe16ae.shtml；本项目《PRD 6.3 出行卡边界》；四川在线（四川日报网络传媒发展有限公司）《青城山-都江堰、峨眉山两大5A景区拟被评为第一批国家级文明旅游示范单位！》https://sichuan.scol.com.cn/ggxw/202111/58342985.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **blackbird** · $.items[2] · `approved`
+  - 来源（2）：封面新闻《成都常见鸟类四大金刚报道》https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==；国家林业和草原局《成都鸟类记录报道》https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **bulbul** · $.items[0] · `approved`
+  - 来源（3）：封面新闻《成都常见鸟类四大金刚报道》https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==；上海市长宁区人民政府《城市鸟类科普报道》https://www.shcn.gov.cn/col6991/20250411/1282046.html；国家林业和草原局《成都鸟类记录报道》https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **butterfly** · $.items[8] · `approved`
+  - 来源（3）：中国科学院昆明植物研究所《传粉科普文章》https://kib.cas.cn/kxcb/kpwz/201709/t20170926_4864827.html；联合国粮食及农业组织《授粉昆虫科普资料》https://www.fao.org/newsroom/story/Bee-ing-grateful-to-our-pollinators/zh；本项目《游戏原创访客情景》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **dove** · $.items[1] · `approved`
+  - 来源（2）：封面新闻《成都常见鸟类四大金刚报道》https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==；国家林业和草原局《成都鸟类记录报道》https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **dragonfly** · $.items[6] · `approved`
+  - 来源（1）：中国科学院水生生物研究所《蜻蜓栖息环境科普资料》https://ihb.cas.cn/kxcb_1/cmsj/201607/t20160705_5735906.html
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **honeybee** · $.items[4] · `approved`
+  - 来源（2）：中国科学院昆明植物研究所《传粉科普文章》https://kib.cas.cn/kxcb/kpwz/201709/t20170926_4864827.html；联合国粮食及农业组织《授粉昆虫科普资料》https://www.fao.org/newsroom/story/Bee-ing-grateful-to-our-pollinators/zh
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **ladybird** · $.items[7] · `approved`
+  - 来源（1）：东北林业大学《昆虫名录》https://ls.nefu.edu.cn/info/1042/1891.htm
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **laughingthrush** · $.items[3] · `approved`
+  - 来源（2）：封面新闻《成都常见鸟类四大金刚报道》https://m.thecover.cn/news_details.html?eid=RsGHzwJrw26H90qSdq8Jkw==；国家林业和草原局《成都鸟类记录报道》https://www.forestry.gov.cn/c/www/dzwzbh/363678.jhtml
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **snail** · $.items[9] · `approved`
+  - 来源（1）：本项目《游戏原创访客情景》
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25
+- [ ] `visitors.json` · **swallowtail** · $.items[5] · `approved`
+  - 来源（1）：沈阳师范大学生命科学学院《柑橘凤蝶生活史资料》https://sky.synu.edu.cn/2019/0520/c4336a60210/page.htm
+  - 当前审核记录：AI 内容审核（Claude Code） / 2026-10-25

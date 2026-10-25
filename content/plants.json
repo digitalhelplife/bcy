@@ -1,0 +1,1062 @@
+{
+ "schemaVersion": 1,
+ "plants": [
+  {
+   "plantId": "narcissus",
+   "name": "水仙",
+   "fullName": "水仙（中国水仙、水仙花）",
+   "latinName": "Narcissus tazetta subsp. chinensis (M. Roem.) Masam. & Yanagih.",
+   "family": "石蒜科，水仙属",
+   "termId": "xiaohan",
+   "termName": "小寒",
+   "termRelation": "花信风",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在正规栽培花坛远看水仙，数一数一枝上的花朵。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "plum_blossom",
+   "name": "梅花",
+   "fullName": "梅花（梅）",
+   "latinName": "Prunus mume Siebold & Zucc.",
+   "family": "蔷薇科，李属",
+   "termId": "dahan",
+   "termName": "大寒",
+   "termRelation": "季节观察",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在开放梅园远看花是否先于叶开放，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "winter_jasmine",
+   "name": "迎春花",
+   "fullName": "迎春花",
+   "latinName": "Jasminum nudiflorum Lindl.",
+   "family": "木犀科，素馨属",
+   "termId": "lichun",
+   "termName": "立春",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在许可的绿地远看黄花与三出复叶，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "rapeseed",
+   "name": "油菜花",
+   "fullName": "油菜花（常见栽培代表：甘蓝型油菜）",
+   "latinName": "Brassica napus L.（甘蓝型油菜／欧洲油菜）；另有 Brassica rapa var. oleifera de Candolle（芸苔）这一不同分类单元，不能混写",
+   "family": "十字花科，芸薹属",
+   "termId": "yushui",
+   "termName": "雨水",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "田野农田可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在农田边远看黄花，找四片花瓣，不进田不采摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "peach",
+   "name": "桃花",
+   "fullName": "桃花（桃）",
+   "latinName": "Prunus persica (L.) Batsch",
+   "family": "蔷薇科，李属",
+   "termId": "jingzhe",
+   "termName": "惊蛰",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "找到桃树，只看花叶先后，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "crabapple",
+   "name": "垂丝海棠",
+   "fullName": "垂丝海棠",
+   "latinName": "Malus halliana Koehne",
+   "family": "蔷薇科，苹果属",
+   "termId": "chunfen",
+   "termName": "春分",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "远看花梗是否下垂？只观察拍照，不碰不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "paulownia",
+   "name": "泡桐",
+   "fullName": "泡桐（暂定对应白花泡桐）",
+   "latinName": "Paulownia fortunei (Seem.) Hemsl.",
+   "family": "泡桐科，泡桐属",
+   "termId": "qingming",
+   "termName": "清明",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "找一株先开花后长叶的大树，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-paulownia-iplant",
+     "title": "中国植物志：白花泡桐",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paulownia%20fortunei?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "peony",
+   "name": "牡丹",
+   "fullName": "牡丹",
+   "latinName": "Paeonia × suffruticosa Andrews",
+   "family": "芍药科，芍药属",
+   "termId": "guyu",
+   "termName": "谷雨",
+   "termRelation": "花信风",
+   "season": "spring",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "找标牌写牡丹的植株，远看叶与花，只拍照不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-peony-iplant",
+     "title": "中国植物志：牡丹",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Paeonia%20suffruticosa?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peony-poem",
+     "title": "刘禹锡《赏牡丹》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_9610b384024f.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "honeysuckle",
+   "name": "金银花",
+   "fullName": "金银花（植物志中文名：忍冬）",
+   "latinName": "Lonicera japonica Thunb.",
+   "family": "忍冬科，忍冬属",
+   "termId": "lixia",
+   "termName": "立夏",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": true,
+   "levelId": "qingcheng_puzzle",
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "观察叶腋成对的花，看白花与黄花，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-honeysuckle-wetland",
+     "title": "忍冬（金银花）",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/lonicera-japonica",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "gardenia",
+   "name": "栀子花",
+   "fullName": "栀子花",
+   "latinName": "Gardenia jasminoides Ellis",
+   "family": "茜草科，栀子属",
+   "termId": "xiaoman",
+   "termName": "小满",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "找一株栽培栀子，远看叶花，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gardenia-wetland",
+     "title": "梔子",
+     "publisher": "香港湿地公园",
+     "url": "https://www.wetlandpark.gov.hk/tc/biodiversity/beauty-of-wetlands/wildlife/gardenia-jasminoides",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "mugwort",
+   "name": "艾",
+   "fullName": "艾",
+   "latinName": "Artemisia argyi H. Lév. & Vaniot",
+   "family": "菊科，蒿属",
+   "termId": "mangzhong",
+   "termName": "芒种",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": true,
+   "levelId": "qingcheng_find",
+   "kidSafety": "look_only",
+   "kidSafetyNote": "只看不摘、不摸。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "在栽培展示区找艾叶背白绒毛，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "lotus",
+   "name": "荷花",
+   "fullName": "荷花（植物志名：莲）",
+   "latinName": "Nelumbo nucifera Gaertn.",
+   "family": "莲科，莲属",
+   "termId": "xiazhi",
+   "termName": "夏至",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": true,
+   "levelId": "dujiangyan_puzzle",
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "隔着栏杆找圆叶和花苞，不摘不越栏",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "mint",
+   "name": "薄荷",
+   "fullName": "薄荷",
+   "latinName": "Mentha canadensis L.",
+   "family": "唇形科，薄荷属",
+   "termId": "xiaoshu",
+   "termName": "小暑",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": true,
+   "levelId": "dujiangyan_find",
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "在允许观赏的种植花箱里找叶片成对的薄荷，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "jasmine",
+   "name": "茉莉花",
+   "fullName": "茉莉花",
+   "latinName": "Jasminum sambac (L.) Aiton",
+   "family": "木犀科，素馨属",
+   "termId": "dashu",
+   "termName": "大暑",
+   "termRelation": "季节观察",
+   "season": "summer",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在有标识的园艺栽培区找茉莉，看叶子是否成对。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "perilla",
+   "name": "紫苏",
+   "fullName": "紫苏",
+   "latinName": "Perilla frutescens (L.) Britton；植物智《中国植物志》条目为紫苏原变种 Perilla frutescens var. frutescens",
+   "family": "唇形科，紫苏属",
+   "termId": "liqiu",
+   "termName": "立秋",
+   "termRelation": "季节观察",
+   "season": "autumn",
+   "base": true,
+   "levelId": "jiezi_find",
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "找一盆叶子两两相对、边缘有锯齿的植物，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "balsam",
+   "name": "凤仙花",
+   "fullName": "凤仙花",
+   "latinName": "Impatiens balsamina L.",
+   "family": "凤仙花科，凤仙花属",
+   "termId": "chushu",
+   "termName": "处暑",
+   "termRelation": "季节观察",
+   "season": "autumn",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "只在自家花盆或获准观赏处远看叶与花，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-balsam-wbg",
+     "title": "欲染纤纤指——凤仙花",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://wbg.cas.cn/KPPJ/kpdt/202009/t20200927_5706226.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "gourd",
+   "name": "葫芦",
+   "fullName": "葫芦",
+   "latinName": "Lagenaria siceraria (Molina) Standl.",
+   "family": "葫芦科，葫芦属",
+   "termId": "bailu",
+   "termName": "白露",
+   "termRelation": "季节观察",
+   "season": "autumn",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "观察栽培葫芦的心形叶和分叉卷须，只看不摸、不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "osmanthus",
+   "name": "桂花",
+   "fullName": "桂花",
+   "latinName": "Osmanthus fragrans (Thunb.) Lour.",
+   "family": "木犀科，木犀属",
+   "termId": "qiufen",
+   "termName": "秋分",
+   "termRelation": "古籍节令",
+   "season": "autumn",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在公园远看桂花树，找叶腋花簇；不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "chrysanthemum",
+   "name": "菊花",
+   "fullName": "菊花",
+   "latinName": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+   "family": "菊科，菊属",
+   "termId": "hanlu",
+   "termName": "寒露",
+   "termRelation": "七十二候",
+   "season": "autumn",
+   "base": true,
+   "levelId": "jiezi_puzzle",
+   "kidSafety": "look_only",
+   "kidSafetyNote": "只看不摘、不摸。",
+   "observeType": "阳台可种",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在人工栽培花坛找菊花花序，只看不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "cotton_rose",
+   "name": "木芙蓉",
+   "fullName": "木芙蓉",
+   "latinName": "Hibiscus mutabilis L.",
+   "family": "锦葵科，木槿属",
+   "termId": "shuangjiang",
+   "termName": "霜降",
+   "termRelation": "古籍节令",
+   "season": "autumn",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在开放的城市绿地远观花色并拍照，不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "ginkgo",
+   "name": "银杏",
+   "fullName": "银杏",
+   "latinName": "Ginkgo biloba L.",
+   "family": "银杏科，银杏属",
+   "termId": "lidong",
+   "termName": "立冬",
+   "termRelation": "成都季相",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "look_only",
+   "kidSafetyNote": "只观察树、枝叶和远处的落叶色。",
+   "observeType": "公园街道常见可观察",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "只看不摘：找一片扇形银杏叶，观察它是否变黄。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "citrus",
+   "name": "柑橘",
+   "fullName": "柑橘",
+   "latinName": "Citrus reticulata Blanco",
+   "family": "芸香科，柑橘属",
+   "termId": "xiaoxue",
+   "termName": "小雪",
+   "termRelation": "季节观察",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "unverified",
+   "kidSafetyNote": "安全性未核实，只看不摸、不摘、不入口。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": false,
+   "natureChallenge": "在自家或获准参观的果园远看橘树，只拍照不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态/节气来源已核对；安全性未核实，保留只看不摸、不入口警示。"
+  },
+  {
+   "plantId": "garlic",
+   "name": "大蒜",
+   "fullName": "大蒜（蒜苗）",
+   "latinName": "Allium sativum L.",
+   "family": "石蒜科，葱属",
+   "termId": "daxue",
+   "termName": "大雪",
+   "termRelation": "季节观察",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "look_only",
+   "kidSafetyNote": "只看不摘、不摸。",
+   "observeType": "阳台可种",
+   "flowering": false,
+   "leafy": true,
+   "natureChallenge": "在自家盆栽里找一片扁平蒜叶，只看不碰不摘。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  },
+  {
+   "plantId": "wintersweet",
+   "name": "蜡梅",
+   "fullName": "蜡梅",
+   "latinName": "Chimonanthus praecox (L.) Link",
+   "family": "蜡梅科，蜡梅属",
+   "termId": "dongzhi",
+   "termName": "冬至",
+   "termRelation": "季节观察",
+   "season": "winter",
+   "base": false,
+   "levelId": null,
+   "kidSafety": "toxic",
+   "kidSafetyNote": "按有毒处理：只看不摸、不摘、不入口。",
+   "observeType": "公园街道常见可观察",
+   "flowering": true,
+   "leafy": false,
+   "natureChallenge": "在开放园路旁找蜡梅花，只看不摘不摸。",
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "形态、节气与安全分类已核对来源；不涉及医疗或摄入建议。"
+  }
+ ]
+}

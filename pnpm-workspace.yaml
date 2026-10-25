@@ -1,0 +1,5 @@
+packages:
+  - '.'
+# Reviewed lifecycle scripts: @scarf/scarf is optional install telemetry and is intentionally blocked.
+ignoredBuiltDependencies:
+  - '@scarf/scarf'

@@ -1,0 +1,283 @@
+{
+ "schemaVersion": 1,
+ "maxPlacedEach": 3,
+ "materialNotice": "材料只用家中栽培或正规购买、名称明确的植物，不采摘公园、绿地和景区的花木。",
+ "items": [
+  {
+   "recipeId": "craft_pressed_bookmark",
+   "name": "压花书签",
+   "inputs": [
+    {
+     "tag": "flowering",
+     "count": 2
+    }
+   ],
+   "outputItemId": "craft_pressed_bookmark",
+   "realCard": {
+    "steps": "吸水纸夹平、压至干燥、贴在卡纸上；成人处理剪刀。",
+    "ages": "3–8 岁，成人全程陪同"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-pressed",
+     "title": "植物标本制作哪有这么简单",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/zrjy/hbsjt/201701/t20170123_4740338.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-craft-leafbook",
+     "title": "植物叶片书签的制作方法",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "https://kib.cas.cn/kxcb/kpwz/201303/t20130313_3791247.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  },
+  {
+   "recipeId": "craft_herb_sachet",
+   "name": "香草香囊",
+   "inputs": [
+    {
+     "plants": [
+      "mugwort"
+     ],
+     "count": 1
+    },
+    {
+     "plants": [
+      "mint",
+      "perilla"
+     ],
+     "count": 1
+    }
+   ],
+   "outputItemId": "craft_herb_sachet",
+   "realCard": {
+    "steps": "成人确认干燥香草并封口；成品不佩戴、不入口，放在幼儿够不到的地方。",
+    "ages": "6–8 岁参与填装；3–5 岁只做摆放"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-sachet",
+     "title": "端午主题文明实践活动",
+     "publisher": "犍为县人民政府",
+     "url": "http://www.qianwei.gov.cn/qwx/xzdt/7ea1c8e035ac40ae9a51f03ae.html",
+     "sourceType": "official",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  },
+  {
+   "recipeId": "craft_ginkgo_bookmark",
+   "name": "银杏叶书签",
+   "inputs": [
+    {
+     "plants": [
+      "ginkgo"
+     ],
+     "count": 1
+    }
+   ],
+   "outputItemId": "craft_ginkgo_bookmark",
+   "realCard": {
+    "steps": "只用叶片，严禁拿取、剥开银杏种子。",
+    "ages": "3–8 岁"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-leafbook",
+     "title": "植物叶片书签的制作方法",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "https://kib.cas.cn/kxcb/kpwz/201303/t20130313_3791247.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-craft-ginkgo-safety",
+     "title": "银杏树——种子含毒素的活化石",
+     "publisher": "香港食物安全中心",
+     "url": "https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_149_01.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  },
+  {
+   "recipeId": "craft_leaf_print",
+   "name": "植物敲拓染",
+   "inputs": [
+    {
+     "tag": "leafy",
+     "count": 2
+    }
+   ],
+   "outputItemId": "craft_leaf_print",
+   "realCard": {
+    "steps": "软质橡胶槌，成人扶持；3–5 岁改为隔纸摩擦。",
+    "ages": "6–8 岁"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-leafprint",
+     "title": "植物拓染活动",
+     "publisher": "陵川县人民政府",
+     "url": "http://www.lczf.gov.cn/phone/zxzx/bmdt/202405/t20240527_1987693.shtml",
+     "sourceType": "official",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-craft-beihai",
+     "title": "“自然印记·植物拓染工坊”科普活动回顾",
+     "publisher": "北京北海公园",
+     "url": "https://peking.bjd.com.cn/content/s6815822be4b0380e186baf40.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  },
+  {
+   "recipeId": "craft_garlic_sprout",
+   "name": "蒜苗水培观察",
+   "inputs": [
+    {
+     "plants": [
+      "garlic"
+     ],
+     "count": 1
+    }
+   ],
+   "outputItemId": "craft_garlic_sprout",
+   "realCard": {
+    "steps": "稳固宽口容器、成人换水；只观察不食用。",
+    "ages": "3–8 岁"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-garlic",
+     "title": "博山区实验幼儿园开展“水培蒜苗成长记”活动",
+     "publisher": "大众新闻",
+     "url": "https://m.dzplus.dzng.com/share/general/0/NEWS2009595DILRTVHWPXNDX",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-craft-narcissus-toxic",
+     "title": "水仙有毒吗？",
+     "publisher": "中国疾控中心职业卫生与中毒控制所",
+     "url": "https://niohp.chinacdc.cn/zdyyjzt/zdcjwtjd/201405/t20140530_97622.htm",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  },
+  {
+   "recipeId": "craft_season_bouquet",
+   "name": "节气花束",
+   "inputs": [
+    {
+     "tag": "flowering",
+     "count": 3,
+     "sameSeason": true
+    }
+   ],
+   "outputItemId": "craft_season_bouquet",
+   "realCard": {
+    "steps": "购买无刺花材，成人修剪；不用花艺铁丝和小饰品。",
+    "ages": "3–8 岁"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-craft-sachet",
+     "title": "端午主题文明实践活动",
+     "publisher": "犍为县人民政府",
+     "url": "http://www.qianwei.gov.cn/qwx/xzdt/7ea1c8e035ac40ae9a51f03ae.html",
+     "sourceType": "official",
+     "accessedAt": "2026-10-23"
+    },
+    {
+     "id": "src-craft-bouquet",
+     "title": "艾香盈门，手作传情｜泉民园艺中心端午活动",
+     "publisher": "济南市园林和林业绿化局",
+     "url": "https://jnly.jinan.gov.cn/col/col38983/art/2026/art_c031ab702f2649d0a10d3083063409fa.html",
+     "sourceType": "official",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "儿童手工安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "手作形式与安全边界已核对来源；成人陪同、工具由成人处理、材料不入口。"
+  }
+ ]
+}

@@ -1,0 +1,557 @@
+{
+ "schemaVersion": 1,
+ "rule": "指定植物和装饰同时摆进小院并保存后解锁；只拥有不摆放不算。",
+ "items": [
+  {
+   "setId": "set_dujiangyan",
+   "name": "渠首小景",
+   "plants": [
+    "mint",
+    "lotus"
+   ],
+   "items": [
+    "decor_clay_pot",
+    "decor_bench"
+   ],
+   "storyId": "story_set_dujiangyan",
+   "story": {
+    "title": "渠首小景",
+    "text": "薄荷、荷花、陶花盆和长凳都摆进了小院，凑成一组都江堰旅程纪念。这只是收藏故事，不代表任何药材搭配。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_spring_flowers",
+   "name": "春日花信",
+   "plants": [
+    "winter_jasmine",
+    "peach",
+    "crabapple"
+   ],
+   "items": [],
+   "storyId": "story_set_spring_flowers",
+   "story": {
+    "title": "春日花信",
+    "text": "迎春花、桃花和海棠排在一起，就像把春天的花信一封封摆进了小院。古人把小寒到谷雨的花期编成“二十四番花信风”。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-winter-jasmine-cas",
+     "title": "春天来了，如何辨别迎春和连翘？",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577137.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-iplant",
+     "title": "中国植物志：桃",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20persica?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-peach-poem",
+     "title": "《诗经·周南·桃夭》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_e2608d9927eb.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-crabapple-iplant",
+     "title": "中国植物志：垂丝海棠",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Malus%20halliana?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-huaxinfeng",
+     "title": "什么是二十四番花信风？",
+     "publisher": "中国文化研究院",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_summer_herbs",
+   "name": "夏日香草角",
+   "plants": [
+    "mugwort",
+    "perilla",
+    "mint"
+   ],
+   "items": [],
+   "storyId": "story_set_summer_herbs",
+   "story": {
+    "title": "夏日香草角",
+    "text": "艾草、紫苏和薄荷挨在一起，三种叶子各不相同：一种叶背有绒毛，一种叶色有紫有绿，一种茎是方的。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-mugwort-wbg",
+     "title": "春日之味——“艾”在我们生活中扮演了哪些角色？",
+     "publisher": "中国科学院武汉植物园",
+     "url": "http://www.wbg.cas.cn/KPPJ/kpdt/202004/t20200428_5565008.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-perilla-xabg",
+     "title": "厨房里的香料植物：紫苏",
+     "publisher": "陕西省西安植物园",
+     "url": "http://www.xazwy.com/kxpj/kpwz/201911/t20191126_528976.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-mint-ppbc",
+     "title": "薄荷 Mentha canadensis",
+     "publisher": "PPBC中国植物图像库",
+     "url": "https://ppbc.iplant.cn/sp/220343",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_summer_pond",
+   "name": "夏日荷塘",
+   "plants": [
+    "lotus",
+    "jasmine"
+   ],
+   "items": [
+    "decor_rock"
+   ],
+   "storyId": "story_set_summer_pond",
+   "story": {
+    "title": "夏日荷塘",
+    "text": "荷叶伸出水面，茉莉开出小白花，石景旁边多了一点夏天的凉意。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-lotus-iplant",
+     "title": "植物智：莲",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Nelumbo%20nucifera",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-jasmine-herbarium",
+     "title": "香港植物标本室：茉莉花",
+     "publisher": "香港特别行政区政府渔农自然护理署",
+     "url": "https://herbarium.gov.hk/tc/hk-plant-database/plant-detail/index.html?pType=species&oID=6340",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_rong_autumn",
+   "name": "蓉城之秋",
+   "plants": [
+    "osmanthus",
+    "chrysanthemum",
+    "cotton_rose"
+   ],
+   "items": [],
+   "storyId": "story_set_rong_autumn",
+   "story": {
+    "title": "蓉城之秋",
+    "text": "桂花、菊花和木芙蓉都在秋天开花，小院里凑齐了成都秋天的三种颜色。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-osmanthus-scbg",
+     "title": "闻香识花儿——桂花",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/201102/t20110223_6734299.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-chrysanthemum-iplant",
+     "title": "中国植物志：菊花",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Chrysanthemum%20%C3%97%20morifolium?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-cotton-rose-scbg",
+     "title": "妩媚妖娆木芙蓉",
+     "publisher": "中国科学院华南植物园",
+     "url": "https://scbg.cas.cn/hx/200910/t20091019_6734086.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_golden_lidong",
+   "name": "金色立冬",
+   "plants": [
+    "ginkgo",
+    "citrus"
+   ],
+   "items": [],
+   "storyId": "story_set_golden_lidong",
+   "story": {
+    "title": "金色立冬",
+    "text": "银杏叶变成金黄，柑橘也挂上了果子，成都的初冬从这两种颜色开始。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-19-ginkgo-1",
+     "title": "植物智名称分类",
+     "url": "https://www.iplant.cn/info/Ginkgo%20biloba?t=n",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "植物智 iPlant"
+    },
+    {
+     "id": "src-19-ginkgo-2",
+     "title": "陕西省西安植物园（陕西省植物研究所）《每周一花》",
+     "url": "https://www.xazwy.com/kxpj/kpwz/202010/t20201012_529591.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "陕西省西安植物园（陕西省植物研究所）"
+    },
+    {
+     "id": "src-19-ginkgo-3",
+     "title": "四川在线《【人境·物候】孙海｜立冬之银杏》",
+     "url": "https://sichuan.scol.com.cn/xwtg/202011/57955333.html",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "四川在线"
+    },
+    {
+     "id": "src-19-ginkgo-4",
+     "title": "中国文化研究院《什么是二十四番花信风？》",
+     "url": "https://chiculture.org.hk/sc/china-five-thousand-years/1635",
+     "accessedAt": "2026-10-22",
+     "sourceType": "authority",
+     "publisher": "中国文化研究院"
+    },
+    {
+     "id": "src-ginkgo-hunan-forestry",
+     "title": "银杏（Ginkgo biloba L.）",
+     "publisher": "湖南省林业局",
+     "url": "http://lyj.hunan.gov.cn/tslm_71206/ctpf/zpjs/201512/t20151227_2587202.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-ginkgo-bencao",
+     "title": "植物界的“活化石”——银杏（仅用于核对《本草纲目》名称线索）",
+     "publisher": "北京市卫生健康委员会 / 北京小汤山医院",
+     "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202511/t20251120_4288968.html",
+     "sourceType": "authority",
+     "accessedAt": "2026-10-23",
+     "note": "仅用于“白果、鸭脚子”名称线索；不转述该文其他内容。"
+    },
+    {
+     "id": "src-citrus-cas",
+     "title": "说橘",
+     "publisher": "中国科学院西安光学精密机械研究所",
+     "url": "https://opt.cas.cn/kpyd/kpwz/202401/t20240129_6961244.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_winter_window",
+   "name": "冬日暖窗",
+   "plants": [
+    "wintersweet",
+    "narcissus",
+    "plum_blossom"
+   ],
+   "items": [
+    "decor_window"
+   ],
+   "storyId": "story_set_winter_window",
+   "story": {
+    "title": "冬日暖窗",
+    "text": "蜡梅、水仙和梅花依次在冬天开放，景窗屏风前摆着岁末小院最后的花。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-wintersweet-cas",
+     "title": "惟有腊梅破，凌雪独自开",
+     "publisher": "中国科学院植物研究所",
+     "url": "http://www.ib.cas.cn/2019gb/kepu/yuandi/201603/t20160330_4577135.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-narcissus-forestry",
+     "title": "水仙花：在下不才，春节标配",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/658669.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-iplant",
+     "title": "中国植物志：梅",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Prunus%20mume?t=z",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-plum-poem",
+     "title": "王安石《梅花》",
+     "publisher": "古诗文网",
+     "url": "https://m.gushiwen.cn/mingju/juv_aed4fe678529.aspx",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  },
+  {
+   "setId": "set_field_corner",
+   "name": "田园一角",
+   "plants": [
+    "rapeseed",
+    "garlic",
+    "gourd"
+   ],
+   "items": [
+    "decor_wood_planter"
+   ],
+   "storyId": "story_set_field_corner",
+   "story": {
+    "title": "田园一角",
+    "text": "油菜花、大蒜和葫芦种在木花槽边，像川西林盘里的一小块田园。"
+   },
+   "reviewStatus": "approved",
+   "reviewer": "AI 内容审核（Claude Code）",
+   "reviewedAt": "2026-10-25",
+   "sourceRefs": [
+    {
+     "id": "src-original-v11",
+     "title": "游戏原创设定",
+     "publisher": "本项目",
+     "url": "",
+     "sourceType": "original",
+     "accessedAt": "2026-10-22",
+     "note": "游戏原创，不对应现实实物。"
+    },
+    {
+     "id": "src-rapeseed-forestry",
+     "title": "油菜花给蜜蜂精心设计“路标”",
+     "publisher": "国家林业和草原局",
+     "url": "https://www.forestry.gov.cn/c/www/dzw/558014.jhtml",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-garlic-kib",
+     "title": "蒜的栽培史",
+     "publisher": "中国科学院昆明植物研究所",
+     "url": "http://kbg.kib.cas.cn/wzbh/zwmm/202005/t20200515_598712.html",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-iplant",
+     "title": "植物智：葫芦",
+     "publisher": "植物智 iPlant",
+     "url": "https://www.iplant.cn/info/Lagenaria%20siceraria",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    },
+    {
+     "id": "src-gourd-zjstm",
+     "title": "从骨笛到羌笛：古人都玩什么乐器？",
+     "publisher": "浙江省科技馆",
+     "url": "https://www.zjstm.org/edu/science-magazine-detail.htm?magazineId=8115",
+     "accessedAt": "2026-10-23",
+     "sourceType": "authority"
+    }
+   ],
+   "reviewDimensions": [
+    "事实与来源",
+    "植物/中医药安全",
+    "儿童适宜",
+    "合规与隐私",
+    "编辑一致性",
+    "游戏内容一致性"
+   ],
+   "reviewNote": "小景为游戏原创组合；涉及的植物物候/花信文化已核对来源。"
+  }
+ ]
+}
