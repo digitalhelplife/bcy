@@ -1,0 +1,25 @@
+[Unit]
+Description=Bencao admin console (bencao-admin)
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=bencao
+Group=bencao
+WorkingDirectory=/opt/bencao
+EnvironmentFile=/etc/bencao-admin/env
+ExecStart=/usr/bin/node /opt/bencao/backend/admin/build/bencao-admin.mjs
+Restart=always
+RestartSec=3
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/bencao-admin
+CapabilityBoundingSet=
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=multi-user.target

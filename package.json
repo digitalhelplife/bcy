@@ -18,11 +18,20 @@
     "review:priority": "node scripts/release-gate.mjs && node scripts/review-priority.mjs",
     "review:packet": "node scripts/review-pack.mjs",
     "preflight": "node scripts/release-preflight.mjs",
-    "test:inapp": "node scripts/a7-inapp-xhs.mjs"
+    "test:inapp": "node scripts/a7-inapp-xhs.mjs",
+    "build:admin": "node backend/admin/build.mjs && node scripts/build-admin-snapshot.mjs && node scripts/build-admin-web.mjs",
+    "build:admin:api": "node backend/admin/build.mjs",
+    "build:admin:web": "node scripts/build-admin-web.mjs",
+    "admin:snapshot": "node scripts/build-admin-snapshot.mjs",
+    "admin:start": "node backend/admin/build/bencao-admin.mjs",
+    "admin:demo": "node scripts/admin-demo-setup.mjs",
+    "admin:ingest-clicks": "node scripts/admin-ingest-clicks.mjs",
+    "test:admin": "vitest run tests/admin.test.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
     "@types/pg": "^8.23.1",
+    "@types/qrcode": "^1.5.6",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.1.2",
@@ -37,6 +46,7 @@
   "dependencies": {
     "@heroiclabs/nakama-js": "2.8.0",
     "phaser": "4.2.1",
+    "qrcode": "^1.5.4",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   }
