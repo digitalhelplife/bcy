@@ -134,7 +134,7 @@ export function GardenScreen() {
   return (
     <div className="screen garden-screen">
       <div className="stage">
-        <PhaserHost key={reloadKey} scene={GardenScene} sceneKey="garden" data={data} />
+        <PhaserHost key={reloadKey} scene={GardenScene} sceneKey="garden" data={data} scale="envelop" align="bottom" panZoom />
         {hint && <div className="hint-toast">{hint}</div>}
         {canvasError && <div className="stage-error"><p>{canvasError}</p><Btn small onClick={() => { setCanvasError(null); setReloadKey(k => k + 1) }}>重试加载</Btn></div>}
       </div>

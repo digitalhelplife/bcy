@@ -63,7 +63,10 @@ export class FindScene extends Phaser.Scene {
     for (const id of cache?.found ?? []) if (sc.targets.some(t => t.targetId === id)) this.markFound(id, false)
 
     this.input.on('pointerdown', (p: Phaser.Input.Pointer) => { this.down = { x: p.x, y: p.y } })
+    this.input.on('gameobjectdown', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-down')))
+    this.input.on('dragstart', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-drag')))
     this.input.on('pointerup', (p: Phaser.Input.Pointer, over: Phaser.GameObjects.GameObject[]) => {
+      if (this.down && this.game.canvas.dataset.bcyPan === '1') { this.down = null; return }
       if (!this.down) return
       const moved = Phaser.Math.Distance.Between(this.down.x, this.down.y, p.x, p.y)
       this.down = null

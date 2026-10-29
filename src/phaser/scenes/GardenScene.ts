@@ -68,10 +68,16 @@ export class GardenScene extends Phaser.Scene {
     // Plot tap zones (outside the placement grid).
     for (const plotId of PLOT_IDS) {
       const z = this.add.zone(GARDEN_LAYOUT.plots[plotId].x, GARDEN_LAYOUT.plots[plotId].y - 40, 150, 190).setInteractive({ useHandCursor: true }).setDepth(3001)
-      z.on('pointerup', () => { if (!this.editing) this.cfg.bridge.emit('garden.plotTap', { sceneInstanceId: this.cfg.instanceId, plotId }) })
+      z.on('pointerup', () => {
+        if (this.game.canvas.dataset.bcyPan === '1') return
+        if (!this.editing) this.cfg.bridge.emit('garden.plotTap', { sceneInstanceId: this.cfg.instanceId, plotId })
+      })
     }
     this.input.dragDistanceThreshold = TUNABLE.dragThresholdCss * this.scale.displayScale.x
+    this.input.on('gameobjectdown', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-down')))
+    this.input.on('dragstart', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-drag')))
     this.input.on('pointerup', (_p: Phaser.Input.Pointer, over: Phaser.GameObjects.GameObject[]) => {
+      if (this.game.canvas.dataset.bcyPan === '1') return
       if (this.editing && over.length === 0) this.select(null)
     })
     this.off.push(this.cfg.bridge.on('garden.cmd', c => this.command(c)))

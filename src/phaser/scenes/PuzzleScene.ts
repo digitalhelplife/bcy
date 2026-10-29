@@ -87,6 +87,8 @@ export class PuzzleScene extends Phaser.Scene {
       })
     })
     this.input.dragDistanceThreshold = TUNABLE.dragThresholdCss * this.scale.displayScale.x
+    this.input.on('gameobjectdown', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-down')))
+    this.input.on('dragstart', () => this.game.canvas.dispatchEvent(new CustomEvent('bcy-object-drag')))
     this.progress()
     this.cfg.bridge.emit('scene.ready', { sceneInstanceId: this.cfg.instanceId })
     if (this.placed.size === pieces.length) this.complete()

@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import { ITEMS, LEVELS, SCENES, SCENE_ORDER } from '../../shared/content'
 import { isSceneOpen, previewReward, repeatRemaining, tutorialForcesPlantRoute } from '../../shared/rules'
 import type { LevelId, Route, RunSummary } from '../../shared/types'
@@ -12,6 +12,7 @@ import { CraftSheet } from './Craft'
 import { FieldChecklistSheet } from './FieldChecklist'
 import { fmtSecs, markChallenge, readBest } from '../challenge'
 import { readParentMode } from '../prefs'
+import { useDomPanZoom } from '../useDomPanZoom'
 
 export function MapScreen() {
   const { client, go, toast, confirm } = useApp()
@@ -21,6 +22,9 @@ export function MapScreen() {
   const active = snap.activeRun
   const ev = activeEvent(client.serverNow())
   const [sheet, setSheet] = useState<null | 'event' | 'craft' | 'field'>(null)
+  const mapViewportRef = useRef<HTMLDivElement>(null)
+  const mapLayerRef = useRef<HTMLDivElement>(null)
+  useDomPanZoom(mapViewportRef, mapLayerRef)
 
   const cancelRun = (run: RunSummary, then?: () => void) => confirm({
     title: '放弃本次探索？', body: '放弃后这次探索不会发放奖励，可以重新选择关卡和路线出发。',
@@ -32,26 +36,28 @@ export function MapScreen() {
 
   return (
     <div className="screen map-screen">
-      <div className="map-canvas">
-        <Img path="map/travel_map_bg" className="map-bg" alt="成都周边旅行地图" />
-        {SCENE_ORDER.map((id, i) => {
-          const sc = SCENES[id]; const open = isSceneOpen(s, id)
-          return (
-            <div key={id} className={`map-node${open ? '' : ' locked'}`} style={{ left: `${sc.map.x * 100}%`, top: `${sc.map.y * 100}%` }}>
-              <button className="node-thumb" aria-label={sc.displayName} onClick={() => open ? setPicked(sc.findLevel) : toast(`完成${SCENES[SCENE_ORDER[i - 1]].displayName}的两关后开放`)}>
-                <Img path={sc.thumb} alt="" />
-                {!open && <span className="lock"><Img path="ui/ui_locked" /></span>}
-              </button>
-              <div className="node-label">{sc.displayName}</div>
-              <div className="node-levels">
-                {[sc.findLevel, sc.puzzleLevel].map(lid => {
-                  const done = s.levels[lid].firstCompletedAtMs !== null
-                  return <button key={lid} disabled={!open} className={`chip${done ? ' done' : ''}`} onClick={() => setPicked(lid)}>{LEVELS[lid].kind === 'find' ? '寻踪' : '拼图'}{done ? ' ✓' : ''}</button>
-                })}
+      <div className="map-viewport" ref={mapViewportRef}>
+        <div className="map-zoom-layer" ref={mapLayerRef}>
+          <Img path="map/travel_map_bg" className="map-bg" alt="成都周边旅行地图" />
+          {SCENE_ORDER.map((id, i) => {
+            const sc = SCENES[id]; const open = isSceneOpen(s, id)
+            return (
+              <div key={id} className={`map-node${open ? '' : ' locked'}`} style={{ left: `${sc.map.x * 100}%`, top: `${sc.map.y * 100}%` }}>
+                <button className="node-thumb" aria-label={sc.displayName} onClick={() => open ? setPicked(sc.findLevel) : toast(`完成${SCENES[SCENE_ORDER[i - 1]].displayName}的两关后开放`)}>
+                  <Img path={sc.thumb} alt="" />
+                  {!open && <span className="lock"><Img path="ui/ui_locked" /></span>}
+                </button>
+                <div className="node-label">{sc.displayName}</div>
+                <div className="node-levels">
+                  {[sc.findLevel, sc.puzzleLevel].map(lid => {
+                    const done = s.levels[lid].firstCompletedAtMs !== null
+                    return <button key={lid} disabled={!open} className={`chip${done ? ' done' : ''}`} onClick={() => setPicked(lid)}>{LEVELS[lid].kind === 'find' ? '寻踪' : '拼图'}{done ? ' ✓' : ''}</button>
+                  })}
+                </div>
               </div>
-            </div>
-          )
-        })}
+            )
+          })}
+        </div>
       </div>
       {active && (
         <div className="banner active-run">

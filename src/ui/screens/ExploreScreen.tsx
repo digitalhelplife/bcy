@@ -118,7 +118,7 @@ export function ExploreScreen({ run }: { run: RunSummary }) {
         </div>
       )}
       <div className="stage">
-        <PhaserHost key={reloadKey} scene={lv.kind === 'find' ? FindScene : PuzzleScene} sceneKey={lv.kind} data={data} />
+        <PhaserHost key={reloadKey} scene={lv.kind === 'find' ? FindScene : PuzzleScene} sceneKey={lv.kind} data={data} scale="envelop" panZoom />
         {hint && <div className="hint-toast">{hint}</div>}
         {canvasError && (
           <div className="stage-error">
